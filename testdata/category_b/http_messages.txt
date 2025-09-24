@@ -1,0 +1,180 @@
+GET /a/b/A1bbB9e3eed10e523A3ff8d4e35BB3cf/d/e/f HTTP/1.1
+Host: api1.example.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+Accept: text/html,application/xhtml+xml
+
+========================================
+
+GET /a/b/8FbE81cd8FDCf2EE5b2A4166d0435af9/d/e/f HTTP/1.1
+Host: api2.example.com
+Accept: image/png,image/jpeg
+
+========================================
+
+POST /a/b/82AcCCf669B66F348dc2AF203E2C0fD6/d/e/f HTTP/1.1
+Host: api1.example.com
+Content-Type: multipart/form-data
+Content-Length: 123
+
+--boundary123
+Content-Disposition: form-data; name="file"
+
+data
+--boundary123--
+
+========================================
+
+GET /a/b/AcBdbDE75E4Db1FE12d64fBdD2E5Eb15/d/e/f HTTP/2.0
+Host: api3.example.com
+Accept: application/octet-stream
+
+========================================
+
+GET /a/b/5D0E6ca38A5CA0d71F1F0B48dc5E85a1/d/e/f HTTP/1.1
+Host: api2.example.com
+Accept: text/css
+Cache-Control: max-age=3600
+
+========================================
+
+DELETE /a/b/cdDcbFDEBCFAe04Fd06c74C2B6cdff9d/d/e/f HTTP/1.1
+Host: api3.example.com
+Accept: */*
+
+========================================
+
+GET /a/b/53bddaec46533EF2594F9edbDC36D655/d/e/f HTTP/1.1
+Host: api1.example.com
+Accept: application/javascript
+If-Modified-Since: Wed, 21 Oct 2015 07:28:00 GMT
+
+========================================
+
+PUT /a/b/f00E18E95E5E7ddcb7fF06BF9bB87C64/d/e/f HTTP/1.1
+Host: api2.example.com
+Content-Type: application/json
+
+========================================
+
+POST /a/b/b646FbEB7CeD58DCb65AaDbFdecF6F25/d/e/f HTTP/1.1
+Host: api3.example.com
+Content-Type: application/json
+
+========================================
+
+DELETE /a/b/B6baEDef2edFA3fD07F398dFeCd15F52/d/e/f HTTP/1.1
+Host: api1.example.com
+Accept-Encoding: gzip, deflate
+
+========================================
+
+GET /a/b/3c4e8b2d9f7a1e6c5b8a2f9d4e7c1a58/d/e/f HTTP/1.1
+Host: api2.example.com
+Accept: application/json
+Authorization: Bearer token123
+
+========================================
+
+POST /a/b/7f9e2a4c6b8d1e3a5c7f9e2a4c6b8d1e/d/e/f HTTP/1.1
+Host: api3.example.com
+Content-Type: application/json
+Content-Length: 48
+
+{"filename": "document.pdf", "size": 2048}
+
+========================================
+
+GET /a/b/9d1a4f7c2e5b8a3f6c9d1a4f7c2e5b8a/d/e/f HTTP/2.0
+Host: api1.example.com
+Accept: text/plain
+Range: bytes=500-1500
+
+========================================
+
+PUT /a/b/2b5e8a1d4c7f9e2b5e8a1d4c7f9e2b5e/d/e/f HTTP/1.1
+Host: api2.example.com
+Content-Type: application/octet-stream
+Content-Length: 1024
+
+========================================
+
+DELETE /a/b/6c9f2e5a8d1b4f7c9e2a5d8b1f4c7e9a/d/e/f HTTP/1.1
+Host: api3.example.com
+Authorization: Bearer admin456
+
+========================================
+
+GET /a/b/4a7d1c9e2f5b8a4d7c1e9f2b5a8d4c7e/d/e/f HTTP/1.1
+Host: api1.example.com
+Accept: image/webp
+If-None-Match: "hash123"
+
+========================================
+
+POST /a/b/8e1b4f7a2d5c9e1b4f7a2d5c9e1b4f7a/d/e/f HTTP/1.1
+Host: api2.example.com
+Content-Type: multipart/form-data
+Content-Length: 256
+
+--boundary456
+Content-Disposition: form-data; name="data"
+
+binary data here
+--boundary456--
+
+========================================
+
+GET /a/b/1f4c7e9a2d5b8f1c4e7a9d2b5f8c1e4a/d/e/f HTTP/1.1
+Host: api3.example.com
+Accept: application/xml
+Accept-Language: en-US,en;q=0.9
+
+========================================
+
+PUT /a/b/5b8e1a4d7c9f2e5b8a1d4c7f9e2b5a8e/d/e/f HTTP/1.1
+Host: api1.example.com
+Content-Type: application/json
+Content-Length: 67
+
+{"metadata": {"version": 3, "format": "binary"}}
+
+========================================
+
+GET /a/b/9c2f5a8d1b4e7c9f2a5d8b1e4c7f9a2c/d/e/f HTTP/2.0
+Host: api2.example.com
+Accept: video/mp4
+User-Agent: MediaPlayer/2.1
+
+========================================
+
+DELETE /a/b/3e6a9c2f5d8b1e4a7c9e2f5a8d1b4e7c/d/e/f HTTP/1.1
+Host: api3.example.com
+X-Delete-Reason: expired
+
+========================================
+
+POST /a/b/7a4d9e2b5f8c1a4d7e9b2f5c8a1d4e7a/d/e/f HTTP/1.1
+Host: api1.example.com
+Content-Type: application/pdf
+Content-Length: 4096
+
+========================================
+
+GET /a/b/2c5f8a1e4b7d9c2f5a8e1b4d7c9f2a5c/d/e/f HTTP/1.1
+Host: api2.example.com
+Accept: audio/mpeg
+Range: bytes=1000-2000
+
+========================================
+
+PUT /a/b/6d9b2e5a8c1f4d7b9e2a5c8f1b4d7e9b/d/e/f HTTP/1.1
+Host: api3.example.com
+Content-Type: text/csv
+Content-Length: 512
+
+========================================
+
+GET /a/b/4f7a9d2c5e8b1f4a7d9c2e5b8f1a4d7c/d/e/f HTTP/1.1
+Host: api1.example.com
+Accept: application/zip
+Authorization: Bearer filetoken789

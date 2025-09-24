@@ -1,0 +1,185 @@
+GET /a/b/c?K=RJh8eR8q&F=2 HTTP/1.1
+Host: api1.example.com
+Accept: application/json
+User-Agent: SearchBot/1.0
+
+========================================
+
+GET /a/b/c?K=fOiwrtE5&F=2 HTTP/1.1
+Host: api2.example.com
+Accept: application/json
+Cookie: session=abc123
+
+========================================
+
+POST /a/b/c?K=llIxe6WM&F=2 HTTP/1.1
+Host: api1.example.com
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 25
+
+query=test&sort=relevance
+
+========================================
+
+GET /a/b/c?K=RuAJQ3ef&F=2 HTTP/2.0
+Host: api3.example.com
+Accept: application/json
+
+========================================
+
+GET /a/b/c?K=guntXT7P&F=2 HTTP/1.1
+Host: api2.example.com
+Accept: application/json
+Authorization: ApiKey secret123
+
+========================================
+
+PUT /a/b/c?K=rSglVU8j&F=2 HTTP/1.1
+Host: api1.example.com
+Content-Type: application/json
+Content-Length: 42
+
+{"filters": {"type": "advanced"}}
+
+========================================
+
+GET /a/b/c?K=t3bUREqr&F=2 HTTP/1.1
+Host: api3.example.com
+Accept: text/xml
+Accept-Language: en-US,en;q=0.9
+
+========================================
+
+DELETE /a/b/c?K=18u4MUzH&F=2 HTTP/1.1
+Host: api2.example.com
+Authorization: Bearer token456
+
+========================================
+
+GET /a/b/c?K=k5TJDTCA&F=2 HTTP/1.1
+Host: api1.example.com
+Accept: application/json
+X-Request-ID: req-789
+
+========================================
+
+PUT /a/b/c?K=ZhOsePmn&F=2 HTTP/1.1
+Host: api3.example.com
+Content-Type: application/json
+Content-Length: 18
+
+{"enabled": true}
+
+========================================
+
+GET /a/b/c?K=mF7pQx2r&F=3 HTTP/1.1
+Host: api1.example.com
+Accept: application/json
+Cache-Control: no-cache
+
+========================================
+
+POST /a/b/c?K=B8kLn9Wv&F=1 HTTP/1.1
+Host: api2.example.com
+Content-Type: application/json
+Content-Length: 35
+
+{"query": "database", "limit": 50}
+
+========================================
+
+GET /a/b/c?K=X5tM4nHj&F=4 HTTP/2.0
+Host: api3.example.com
+Accept: application/json
+If-Modified-Since: Thu, 01 Jan 1970 00:00:00 GMT
+
+========================================
+
+DELETE /a/b/c?K=P9wR6yLz&F=2 HTTP/1.1
+Host: api1.example.com
+Authorization: Bearer cleanup456
+
+========================================
+
+PUT /a/b/c?K=C3vB8mGk&F=5 HTTP/1.1
+Host: api2.example.com
+Content-Type: application/json
+Content-Length: 28
+
+{"sort_order": "desc"}
+
+========================================
+
+GET /a/b/c?K=N7sA1dFp&F=2 HTTP/1.1
+Host: api3.example.com
+Accept: application/json
+Range: items=0-99
+
+========================================
+
+POST /a/b/c?K=Q4hJ9xTu&F=1 HTTP/1.1
+Host: api1.example.com
+Content-Type: application/json
+Content-Length: 47
+
+{"search_term": "api", "category": "tech"}
+
+========================================
+
+GET /a/b/c?K=V8eI2bYw&F=3 HTTP/1.1
+Host: api2.example.com
+Accept: application/json
+User-Agent: WebCrawler/3.0
+
+========================================
+
+DELETE /a/b/c?K=L6oU5cRq&F=2 HTTP/1.1
+Host: api3.example.com
+X-Bulk-Operation: true
+
+========================================
+
+PUT /a/b/c?K=H1zK7nEs&F=4 HTTP/1.1
+Host: api1.example.com
+Content-Type: application/json
+Content-Length: 31
+
+{"status": "active", "ttl": 300}
+
+========================================
+
+GET /a/b/c?K=D9fG3vMl&F=2 HTTP/2.0
+Host: api2.example.com
+Accept: application/json
+Accept-Encoding: br, gzip
+
+========================================
+
+POST /a/b/c?K=R2wA8pXi&F=1 HTTP/1.1
+Host: api3.example.com
+Content-Type: application/json
+Content-Length: 54
+
+{"filters": {"date_from": "2025-01-01"}}
+
+========================================
+
+GET /a/b/c?K=T5yS6jOe&F=2 HTTP/1.1
+Host: api1.example.com
+Accept: application/json
+If-None-Match: "search-123"
+
+========================================
+
+DELETE /a/b/c?K=W4uE9kZx&F=3 HTTP/1.1
+Host: api2.example.com
+Authorization: Bearer admin789
+
+========================================
+
+PUT /a/b/c?K=M8cQ2lVb&F=2 HTTP/1.1
+Host: api3.example.com
+Content-Type: application/json
+Content-Length: 33
+
+{"max_results": 1000, "page": 5}

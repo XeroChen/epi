@@ -1,0 +1,186 @@
+GET /a/9416072878557879/c/4059191393222009/e/f/g HTTP/1.1
+Host: api1.example.com
+Accept: application/json
+Authorization: Bearer payment-token-123
+
+========================================
+
+POST /a/9404886188315936/c/7669588153957652/e/f/g HTTP/1.1
+Host: api2.example.com
+Content-Type: application/json
+Content-Length: 87
+
+{"amount": 1500, "currency": "USD", "method": "credit_card"}
+
+========================================
+
+GET /a/3208861230203972/c/7287277815891865/e/f/g HTTP/2.0
+Host: api3.example.com
+Accept: application/json
+X-Client-Version: 2.1.0
+
+========================================
+
+PUT /a/2494460426990126/c/3823648320849699/e/f/g HTTP/1.1
+Host: api1.example.com
+Content-Type: application/json
+Content-Length: 45
+
+{"status": "completed", "fee": 25}
+
+========================================
+
+GET /a/6395794483445547/c/0460792188328916/e/f/g HTTP/1.1
+Host: api2.example.com
+Accept: application/json
+Date: Wed, 22 Sep 2025 10:30:00 GMT
+
+========================================
+
+DELETE /a/5410622529074323/c/0170241312532724/e/f/g HTTP/1.1
+Host: api3.example.com
+Authorization: Bearer admin-token-456
+
+========================================
+
+GET /a/5062690813169141/c/9806082814928502/e/f/g HTTP/1.1
+Host: api1.example.com
+Accept: application/pdf
+Content-Type: application/json
+
+========================================
+
+PUT /a/2743488682916854/c/9488499107958961/e/f/g HTTP/1.1
+Host: api2.example.com
+Content-Type: application/json
+Content-Length: 33
+
+{"billing_address": "updated"}
+
+========================================
+
+GET /a/9051109055955238/c/8863126666377394/e/f/g HTTP/1.1
+Host: api3.example.com
+Accept: text/csv
+Range: bytes=1000-2000
+
+========================================
+
+DELETE /a/1108098566211611/c/7107548092933779/e/f/g HTTP/1.1
+Host: api1.example.com
+Accept: */*
+
+========================================
+
+POST /a/8294756102849563/c/5739281047362851/e/f/g HTTP/1.1
+Host: api2.example.com
+Content-Type: application/json
+Content-Length: 78
+
+{"transaction_type": "refund", "amount": 750, "reason": "customer_request"}
+
+========================================
+
+GET /a/4736291058372946/c/1825473609283746/e/f/g HTTP/2.0
+Host: api3.example.com
+Accept: application/json
+User-Agent: PaymentGateway/3.2
+
+========================================
+
+PUT /a/9571038462758493/c/3647829156283740/e/f/g HTTP/1.1
+Host: api1.example.com
+Content-Type: application/json
+Content-Length: 52
+
+{"payment_method": "debit_card", "processor": "visa"}
+
+========================================
+
+DELETE /a/2856394017283746/c/7394826105372849/e/f/g HTTP/1.1
+Host: api2.example.com
+Authorization: Bearer finance-admin-789
+X-Audit-Log: true
+
+========================================
+
+GET /a/1647382950738264/c/5928374610283749/e/f/g HTTP/1.1
+Host: api3.example.com
+Accept: application/json
+If-Modified-Since: Fri, 15 Sep 2025 14:20:00 GMT
+
+========================================
+
+POST /a/3958274610384729/c/8273649105738264/e/f/g HTTP/1.1
+Host: api1.example.com
+Content-Type: application/json
+Content-Length: 95
+
+{"batch_payment": true, "transactions": [{"id": 1, "amount": 100}, {"id": 2, "amount": 250}]}
+
+========================================
+
+GET /a/7284639105738462/c/4927385061738294/e/f/g HTTP/1.1
+Host: api2.example.com
+Accept: application/xml
+Accept-Language: en-US,en;q=0.8
+
+========================================
+
+PUT /a/5038472916284739/c/1738462950384726/e/f/g HTTP/2.0
+Host: api3.example.com
+Content-Type: application/json
+Content-Length: 41
+
+{"settlement_date": "2025-09-25", "status": "pending"}
+
+========================================
+
+DELETE /a/9374628105738462/c/6284739150372846/e/f/g HTTP/1.1
+Host: api1.example.com
+X-Cancel-Reason: timeout
+
+========================================
+
+GET /a/4628395017382946/c/3729485061738294/e/f/g HTTP/1.1
+Host: api2.example.com
+Accept: application/json
+Cache-Control: no-store
+
+========================================
+
+POST /a/8173962840573926/c/5061738294627385/e/f/g HTTP/1.1
+Host: api3.example.com
+Content-Type: application/json
+Content-Length: 68
+
+{"recurring_payment": true, "frequency": "monthly", "amount": 99.99}
+
+========================================
+
+GET /a/2739485061738294/c/8394627385049172/e/f/g HTTP/2.0
+Host: api1.example.com
+Accept: application/json
+Authorization: Bearer merchant-token-456
+
+========================================
+
+PUT /a/6174829305738462/c/2948573061738294/e/f/g HTTP/1.1
+Host: api2.example.com
+Content-Type: application/json
+Content-Length: 57
+
+{"dispute_status": "resolved", "resolution": "favor_merchant"}
+
+========================================
+
+DELETE /a/4827395061738294/c/7385049172836492/e/f/g HTTP/1.1
+Host: api3.example.com
+Authorization: Bearer cleanup-service-123
+
+========================================
+
+GET /a/3950617382946273/c/1738294605738462/e/f/g HTTP/1.1
+Host: api1.example.com
+Accept: application/json
+X-Trace-ID: payment-trace-789

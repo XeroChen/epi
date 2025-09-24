@@ -1,0 +1,196 @@
+GET /api/auth/token/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c HTTP/1.1
+Host: api1.example.com
+Accept: application/json
+Authorization: Bearer token123
+
+========================================
+
+POST /api/auth/validate HTTP/1.1
+Host: api2.example.com
+Content-Type: application/json
+Content-Length: 87
+
+{"token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJhdXRoLXNlcnZlciIsInN1YiI6InVzZXIxMjMifQ.signature"}
+
+========================================
+
+GET /data/config/eyJ1c2VyIjogImpvaG4iLCAicm9sZSI6ICJhZG1pbiIsICJleHBpcmVzIjogIjIwMjUtMTItMzEifQ== HTTP/1.1
+Host: api3.example.com
+Accept: application/json
+User-Agent: ConfigClient/1.0
+
+========================================
+
+POST /api/settings HTTP/1.1
+Host: api1.example.com
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 98
+
+config=eyJkYXRhYmFzZSI6ICJwcm9kdWN0aW9uIiwgImRlYnVnIjogZmFsc2UsICJ0aW1lb3V0IjogMzAwMH0=
+
+========================================
+
+GET /xml/data/PGNvbmZpZz48ZGF0YWJhc2U+cHJvZHVjdGlvbjwvZGF0YWJhc2U+PGRlYnVnPmZhbHNlPC9kZWJ1Zz48L2NvbmZpZz4= HTTP/2.0
+Host: api2.example.com
+Accept: application/xml
+Content-Type: text/xml
+
+========================================
+
+PUT /api/profile/settings HTTP/1.1
+Host: api3.example.com
+Content-Type: application/json
+Content-Length: 124
+
+{"xml_config": "PGNvbmZpZz48dXNlcj5qb2huPC91c2VyPjxyb2xlPmFkbWluPC9yb2xlPjxwZXJtaXNzaW9ucz5hbGw8L3Blcm1pc3Npb25zPjwvY29uZmlnPg=="}
+
+========================================
+
+GET /api/tokens/nested/ZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SnpkV0lqT2lJeE1qTTBOVFkzT0Rrd09DSXNJbTVoYldVaU9pSktKN0psRXlJc0ltbGhkQ0k2TVRVeE5qSXpPVEF5TW4wLlNmbEt4d1JKU01lS0tGMlFUNGZ3cE1lSmYzNlBPazZ5SlZfYWRRc3N3NWM= HTTP/1.1
+Host: api1.example.com
+Accept: application/json
+Authorization: Bearer admin123
+
+========================================
+
+POST /api/auth/nested-token HTTP/1.1
+Host: api2.example.com
+Content-Type: application/json
+Content-Length: 156
+
+{"encoded_token": "ZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SnpkV0lqT2lJeE1qTTBOVFkzT0Rrd09DSXNJbTVoYldVaU9pSktKN0psRXlJc0ltbGhkQ0k2TVRVeE5qSXpPVEF5TW4wLlNmbEt4d1JKU01lS0tGMlFUNGZ3cE1lSmYzNlBPazZ5SlZfYWRRc3N3NWM="}
+
+========================================
+
+DELETE /cache/tokens/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c2VyNDU2IiwiaXNzIjoiYXV0aC1zZXJ2aWNlIiwiZXhwIjoxNjk4NzY5MjAwfQ.hash123 HTTP/1.1
+Host: api3.example.com
+Authorization: Bearer cleanup456
+
+========================================
+
+GET /api/cache/data/eyJrZXkiOiAiY2FjaGVfZGF0YSIsICJ2YWx1ZSI6ICJzb21lX2RhdGEiLCAidHRsIjogMzYwMH0= HTTP/1.1
+Host: api1.example.com
+Accept: application/json
+Cache-Control: max-age=1800
+
+========================================
+
+PUT /config/xml/settings HTTP/2.0
+Host: api2.example.com
+Content-Type: application/json
+Content-Length: 89
+
+{"data": "PHNldHRpbmdzPjx0aGVtZT5kYXJrPC90aGVtZT48bGFuZ3VhZ2U+ZW48L2xhbmd1YWdlPjwvc2V0dGluZ3M+"}
+
+========================================
+
+POST /api/batch/process HTTP/1.1
+Host: api3.example.com
+Content-Type: application/json
+Content-Length: 203
+
+{"configs": ["eyJpZCI6IDEsICJuYW1lIjogInRlc3QxIn0=", "PHRlc3Q+PGlkPjI8L2lkPjxuYW1lPnRlc3QyPC9uYW1lPjwvdGVzdD4=", "ZXlKcFpDSTZNaUVzSW01aGJXVWlPaUowYzNRaWZRPT0="]}
+
+========================================
+
+GET /tokens/verify/eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiYWRtaW4iOnRydWUsImlhdCI6MTUxNjIzOTAyMn0.tyh-VfuzIxCyGYDlkBA7DfyjrqmSHu6pQ2hoZuFqUSLPNY2N0mpHb3nk5K17HWP_3cYHBw7AhHale5wky6-sVA HTTP/1.1
+Host: api1.example.com
+Accept: application/json
+User-Agent: TokenValidator/2.0
+
+========================================
+
+DELETE /cleanup/old-tokens/eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJvbGQtdXNlciIsImV4cCI6MTUxNjIzOTAyMn0.longSignatureHashHere HTTP/1.1
+Host: api2.example.com
+Authorization: Bearer admin789
+
+========================================
+
+GET /api/export/json/eyJleHBvcnQiOiB0cnVlLCAiZm9ybWF0IjogImpzb24iLCAiZmlsdGVycyI6IHsic3RhdHVzIjogImFjdGl2ZSJ9fQ== HTTP/2.0
+Host: api3.example.com
+Accept: application/json
+Range: items=0-100
+
+========================================
+
+PUT /import/xml/data HTTP/1.1
+Host: api1.example.com
+Content-Type: application/json
+Content-Length: 167
+
+{"import_data": "PGltcG9ydD48dHlwZT5kYXRhPC90eXBlPjxmb3JtYXQ+eG1sPC9mb3JtYXQ+PGNvdW50PjEwMDwvY291bnQ+PGNvbXByZXNzaW9uPm5vbmU8L2NvbXByZXNzaW9uPjwvaW1wb3J0Pg=="}
+
+========================================
+
+POST /nested/auth/process HTTP/1.1
+Host: api2.example.com
+Content-Type: application/json
+Content-Length: 234
+
+{"auth_chain": ["eyJzdGVwIjogMSwgInR5cGUiOiAiYmFzaWMifQ==", "ZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SnpkV0lqT2lJeE1qTTBOVFkzT0Rrd09DSXNJYhVlaWRRc3N3NWM=", "PGF1dGg+PHN0ZXA+Mjwvc3RlcD48dHlwZT5vYXV0aDwvdHlwZT48L2F1dGg+", "nested_token_here"]}
+
+========================================
+
+GET /validate/complex/eyJkYXRhIjogeyJ0b2tlbiI6ICJleUpoYkdjaU9pSklVekl1aW4wLlNmbEt4d1JKU01lS0tGMlFUNGZ3cE1lSmYzNlBPazZ5SlZfYWRRc3N3NWMiLCAieG1sIjogIlBHbDBaVzArZEdWemREdy9hUDhTSWI9PSJ9fQ== HTTP/1.1
+Host: api3.example.com
+Accept: application/json
+User-Agent: ComplexValidator/1.5
+
+========================================
+
+DELETE /cleanup/expired/tokens HTTP/1.1
+Host: api1.example.com
+Content-Type: application/json
+Content-Length: 178
+
+{"cleanup_config": "eyJydWxlcyI6IFt7InR5cGUiOiAiand0IiwgImV4cGlyeSI6ICIzMGQifSwgeyJ0eXBlIjogImJhc2U2NCIsICJzaXplIjogIjEwTUIifV19"}
+
+========================================
+
+PUT /api/migrate/tokens/batch HTTP/2.0
+Host: api2.example.com
+Content-Type: application/json
+Content-Length: 145
+
+{"migration": {"old_format": "eyJvbGRfdG9rZW5zIjogWyJqd3QxIiwgImp3dDIiXX0=", "new_format": "ZXlKbVpYSmxjM1J2YTJWd2JuSWlKclpmRWpRMGYzPT0="}}
+
+========================================
+
+GET /api/health/tokens/ZXlKb2NsUWlPaUpTYjJEWnBPYRhZWlEic3N3NWMRmFWZXg== HTTP/1.1
+Host: api3.example.com
+Accept: application/json
+X-Health-Check: token-validation
+
+========================================
+
+POST /api/debug/decode HTTP/1.1
+Host: api1.example.com
+Content-Type: application/json
+Content-Length: 234
+
+{"debug_data": {"jwt": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZWJ1ZyI6dHJ1ZX0.test", "json": "eyJkZWJ1ZyI6IHRydWUsICJsZXZlbCI6ICJpbmZvIn0=", "xml": "PGRlYnVnPjx0ZXN0Pnhhd Rlc3Q8L3Rlc3Q+PC9kZWJ1Zz4="}}
+
+========================================
+
+GET /tokens/refresh/eyJyZWZyZXNoIjp0cnVlLCJleHAiOjE2OTg3NjkyMDAsInVzZXIiOiJ0ZXN0In0= HTTP/1.1
+Host: api2.example.com
+Accept: application/json
+Authorization: Refresh refresh-token-456
+
+========================================
+
+DELETE /api/tokens/revoke/all HTTP/1.1
+Host: api3.example.com
+Content-Type: application/json
+Content-Length: 98
+
+{"revoke_list": ["eyJ0b2tlbjoxfQ==", "eyJ0b2tlbjoyFQ==", "PHRva2VuPjM8L3Rva2VuPg=="]}
+
+========================================
+
+PUT /config/advanced/settings HTTP/1.1
+Host: api1.example.com
+Content-Type: application/json
+Content-Length: 189
+
+{"advanced": {"jwt_config": "eyJhbGdvcml0aG0iOiAiSFMyNTYiLCAiZXhwaXJ5IjogIjI0aCJ9", "xml_schema": "PHNjaGVtYT48ZmllbGQ+bmFtZTwvZmllbGQ+PGZpZWxkPnZhbHVlPC9maWVsZD48L3NjaGVtYT4="}}

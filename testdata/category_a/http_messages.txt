@@ -1,0 +1,189 @@
+GET /a/b/c/d/e/ced1d95b-60fd-4c60-aa4c-f850207d54d6 HTTP/1.1
+Host: api1.example.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36
+Accept: application/json
+Connection: keep-alive
+
+========================================
+
+GET /a/b/c/d/e/9bc926f8-fd24-42ce-a711-314e01249a19 HTTP/1.1
+Host: api1.example.com
+User-Agent: curl/7.68.0
+Accept: */*
+Authorization: Bearer abc123
+
+========================================
+
+GET /a/b/c/d/e/1d8f0f4a-876c-4135-abaf-bc91e39e4a6f HTTP/1.1
+Host: api2.example.com
+Accept: application/json
+Content-Type: application/json
+
+========================================
+
+POST /a/b/c/d/e/2c315ad4-5185-4ea5-b6e4-38877ad18a10 HTTP/1.1
+Host: api1.example.com
+Content-Type: application/json
+Content-Length: 45
+
+{"name": "test", "value": "data"}
+
+========================================
+
+GET /a/b/c/d/e/8f8a1322-475a-4492-a34a-42a78de6ece6 HTTP/2.0
+Host: api2.example.com
+Accept: application/json
+
+========================================
+
+PUT /a/b/c/d/e/0807ea19-9c31-4edf-8413-83094ca255d1 HTTP/1.1
+Host: api1.example.com
+Content-Type: application/json
+Content-Length: 32
+
+{"status": "updated"}
+
+========================================
+
+GET /a/b/c/d/e/df68631e-7bde-4c7a-9303-307f75ceeb35 HTTP/1.1
+Host: api3.example.com
+Accept: application/xml
+
+========================================
+
+DELETE /a/b/c/d/e/5e91182c-68e9-4610-87ed-e7c361e5160e HTTP/1.1
+Host: api1.example.com
+Authorization: Bearer xyz789
+
+========================================
+
+POST /a/b/c/d/e/55e25288-c51d-45e8-a6d8-1cdf305bc22b HTTP/1.1
+Host: api2.example.com
+Accept: application/json
+Content-Type: application/json
+
+========================================
+
+PUT /a/b/c/d/e/0748c239-fe2a-4e3b-a82d-0f9ac21e4c49 HTTP/1.1
+Host: api3.example.com
+Content-Type: application/json
+Content-Length: 28
+
+{"status": "updated"}
+
+========================================
+
+GET /a/b/c/d/e/3fe77ae4-9b45-4a8c-9e44-1f8b8c3a2e75 HTTP/1.1
+Host: api1.example.com
+Accept: application/json
+Cache-Control: no-cache
+
+========================================
+
+GET /a/b/c/d/e/7e4b8f92-1a34-4d67-8c99-5e2a3f7b9d86 HTTP/1.1
+Host: api2.example.com
+Accept: application/json
+If-None-Match: "abc123"
+
+========================================
+
+POST /a/b/c/d/e/9c2d5e78-4b31-4f89-a7c6-8e1b4f6a2d95 HTTP/1.1
+Host: api3.example.com
+Content-Type: application/json
+Content-Length: 52
+
+{"action": "create", "type": "resource"}
+
+========================================
+
+GET /a/b/c/d/e/5a7c9e21-8d64-4b29-9f73-2c4e6a8b1d37 HTTP/2.0
+Host: api1.example.com
+Accept: application/json
+X-Request-ID: req-789
+
+========================================
+
+PUT /a/b/c/d/e/8b4f2c56-3e91-4a72-b8d5-9f1e3c7a5b82 HTTP/1.1
+Host: api2.example.com
+Content-Type: application/json
+Content-Length: 41
+
+{"updated_at": "2025-09-23T10:30:00Z"}
+
+========================================
+
+DELETE /a/b/c/d/e/2d8e4a93-6c71-4b58-9e24-7f3b1c9a5d68 HTTP/1.1
+Host: api3.example.com
+Authorization: Bearer token456
+Accept: application/json
+
+========================================
+
+GET /a/b/c/d/e/6f1a8c25-9b47-4d82-a3e6-5c7e2f4b8d91 HTTP/1.1
+Host: api1.example.com
+Accept: application/json
+User-Agent: TestClient/1.0
+
+========================================
+
+POST /a/b/c/d/e/4e9b7d38-2a56-4c91-8f73-1b5d6e9c2a84 HTTP/1.1
+Host: api2.example.com
+Content-Type: application/json
+Content-Length: 38
+
+{"metadata": {"source": "test"}}
+
+========================================
+
+GET /a/b/c/d/e/7c3f8b45-5e92-4a67-b1d8-9e4c2f7a6b35 HTTP/1.1
+Host: api3.example.com
+Accept: application/json
+Range: bytes=0-1023
+
+========================================
+
+PUT /a/b/c/d/e/9a5d2c18-7f46-4b83-a2e9-6c1b4e8d7f92 HTTP/1.1
+Host: api1.example.com
+Content-Type: application/json
+Content-Length: 35
+
+{"priority": "high", "urgent": true}
+
+========================================
+
+GET /a/b/c/d/e/1f6e9c42-8b37-4d59-a8c3-7e2f5b9d1a64 HTTP/2.0
+Host: api2.example.com
+Accept: application/json
+Accept-Encoding: gzip, deflate
+
+========================================
+
+DELETE /a/b/c/d/e/8c4a7e91-3d56-4b82-9f17-5a8c2e6b4d93 HTTP/1.1
+Host: api3.example.com
+Authorization: Bearer admin123
+X-Reason: cleanup
+
+========================================
+
+POST /a/b/c/d/e/5b8f1c73-9e42-4a65-b7d8-2c9a6f3e1b57 HTTP/1.1
+Host: api1.example.com
+Content-Type: application/json
+Content-Length: 44
+
+{"operation": "batch", "count": 15}
+
+========================================
+
+GET /a/b/c/d/e/2e9c4f86-7a31-4b59-8d72-1f6a3e8c5b94 HTTP/1.1
+Host: api2.example.com
+Accept: application/json
+Last-Modified: Mon, 01 Jan 2024 00:00:00 GMT
+
+========================================
+
+PUT /a/b/c/d/e/6d1a9f35-4c82-4b67-a8e3-9b5f2c7e4a18 HTTP/1.1
+Host: api3.example.com
+Content-Type: application/json
+Content-Length: 29
+
+{"version": 2, "active": true}
