@@ -1,0 +1,226 @@
+GET /mbank/common/handshake.do?chnlId=MB&secret=05EDA1E7EAE53E2EB07FB2AD7FB18D2799DB51C7F7FB214706AF4EF79E75782234AD064C857FB93C6CE6EC19BCD1E933F595360784A9F9A6A6035DF416ECEFBBE9D2C75A06EA1C3E90CDFCFA3B63F1D0A4853DF1D9E344691CEA87B5AA32A894EEC11E76862008069FD790C6548E9BA4 HTTP/1.1
+Host: qywy.gznxqny.com:10909
+Cache-Control: no-cache
+If-Modified-Since: 0
+X-Real-IP: 11.16.144.7
+X-Forwarded-For: 39.144.230.59, 116.162.103.147, 11.16.144.7
+Via: cn5230.l1, kunlun3.cn5230, l2cn3014.l2, cache51.l2cn3014
+Eagleeye-Traceid: 6f30472916849092535397096e
+Ali-Swift-Log-Host: qywy.gznxqny.com
+Ali-Swift-Stat-Host: level2.qywy.gznxqny.com
+X-Client-Scheme: https
+Ali-Cdn-Real-Ip: 39.144.230.59
+Accept: */*
+User-Agent: %E9%BB%94%E5%86%9C%E4%BA%91%E4%BC%81%E4%B8%9A%E7%89%88/2022120601 CFNetwork/1404.0.5 Darwin/22.3.0
+Accept-Language: zh-CN,zh-Hans;q=0.9
+Accept-Encoding: gzip, deflate, br
+Cookie: SESSION=ebc13f1c-ba1f-4b0c-9358-3a266d34f738
+Ali-Tproxy-Httpdns: on
+Ali-Swift-5Xx-No-Retry: on
+
+========================================
+
+POST /mbank/app/appVersionInfoQry.do HTTP/1.1
+Host: qywy.gznxqny.com:10909
+Cache-Control: no-cache
+If-Modified-Since: 0
+X-Real-IP: 11.16.144.7
+X-Forwarded-For: 39.144.230.59, 116.162.103.194, 11.16.144.7
+Content-Length: 508
+Via: cn5230.l1, kunlun7.cn5230, l2cn3014.l2, cache58.l2cn3014
+Eagleeye-Traceid: 6f30472416849092538242646e
+Ali-Swift-Log-Host: qywy.gznxqny.com
+Ali-Swift-Stat-Host: level2.qywy.gznxqny.com
+X-Client-Scheme: https
+Ali-Cdn-Real-Ip: 39.144.230.59
+Accept: */*
+Content-Type: application/json;charset=UTF-8
+User-Agent: %E9%BB%94%E5%86%9C%E4%BA%91%E4%BC%81%E4%B8%9A%E7%89%88/2022120601 CFNetwork/1404.0.5 Darwin/22.3.0
+Accept-Language: zh-CN,zh-Hans;q=0.9
+Accept-Encoding: gzip, deflate, br
+Cookie: SESSION=ebc13f1c-ba1f-4b0c-9358-3a266d34f738
+Ali-Tproxy-Httpdns: on
+Ali-Swift-5Xx-No-Retry: on
+
+{"head":{"H_TIME":"1684909252926","H_TIME_OFFSET":"249","ROOT":"N","H_CHNL_ID":"MB","H_UPS_SID":"","H_CLIENT_ID":"6654C803832741018A5E668A83179E1F","H_SN":"61b35ae67c4a49f9ae4d9c504da0d943"},"body":"#2047b0aee9994f1e9e06c3661c4ba7aae9f8089ca26fb135008b986714cdee17a2\u001d24d1d79929d3b00175ef9c02f40725733c7efc104015f6fec8a09f3cd2dec8adb1a1c243d2ce95465ddf3157be79638551debc3f22090ce1b3beff4d8dc40c048f4cc92b08808d9aa02ad5963c96dc4017c2ca4d1a18d26ebd58614d7acf3143\u001d926e8818-6cee-4994-b328-311169f1dac8"}
+
+========================================
+
+POST /mbank/pub/resourceListQry.do HTTP/1.1
+Host: qywy.gznxqny.com:10909
+Cache-Control: no-cache
+If-Modified-Since: 0
+X-Real-IP: 11.16.144.8
+X-Forwarded-For: 39.144.230.59, 116.162.103.189, 11.16.144.8
+Content-Length: 508
+Via: cn5230.l1, kunlun4.cn5230, l2cn3014.l2, cache48.l2cn3014
+Eagleeye-Traceid: 6f30472116849092542497652e
+Ali-Swift-Log-Host: qywy.gznxqny.com
+Ali-Swift-Stat-Host: level2.qywy.gznxqny.com
+X-Client-Scheme: https
+Ali-Cdn-Real-Ip: 39.144.230.59
+Accept: */*
+Content-Type: application/json;charset=UTF-8
+User-Agent: %E9%BB%94%E5%86%9C%E4%BA%91%E4%BC%81%E4%B8%9A%E7%89%88/2022120601 CFNetwork/1404.0.5 Darwin/22.3.0
+Accept-Language: zh-CN,zh-Hans;q=0.9
+Accept-Encoding: gzip, deflate, br
+Cookie: SESSION=83685be6-de9c-4d94-9ddd-5cdf490ed566
+Ali-Tproxy-Httpdns: on
+Ali-Swift-5Xx-No-Retry: on
+
+{"head":{"H_TIME":"1684909253725","H_TIME_OFFSET":"249","ROOT":"N","H_CHNL_ID":"MB","H_UPS_SID":"","H_CLIENT_ID":"6654C803832741018A5E668A83179E1F","H_SN":"467b56e32f0347f2b399d251f693b226"},"body":"#2042e26b92c91d15c2d76a12425bae6838632938046b6bbe5633916525a55e41a1\u001d9f49fce24fdf6337c9bb795291d9f1b1bbed69f92592a4d658cdcbe83c4e3bc0cc7c32833780c9070f402ab2ff1516c585eecb258cab6efed48c70209e4076fe062537328de84c46bd4725fe1235386416a35fc0d8c5d9cc1ef72f96e085656f\u001d926e8818-6cee-4994-b328-311169f1dac8"}
+
+========================================
+
+POST /mbank/pub/bannerListQry.do HTTP/1.1
+Host: qywy.gznxqny.com:10909
+Cache-Control: no-cache
+If-Modified-Since: 0
+X-Real-IP: 11.16.144.7
+X-Forwarded-For: 39.144.230.59, 116.162.103.181, 11.16.144.7
+Content-Length: 508
+Via: cn5230.l1, kunlun5.cn5230, l2cn3014.l2, cache27.l2cn3014
+Eagleeye-Traceid: 6f30472216849092542058801e
+Ali-Swift-Log-Host: qywy.gznxqny.com
+Ali-Swift-Stat-Host: level2.qywy.gznxqny.com
+X-Client-Scheme: https
+Ali-Cdn-Real-Ip: 39.144.230.59
+Accept: */*
+Content-Type: application/json;charset=UTF-8
+User-Agent: %E9%BB%94%E5%86%9C%E4%BA%91%E4%BC%81%E4%B8%9A%E7%89%88/2022120601 CFNetwork/1404.0.5 Darwin/22.3.0
+Accept-Language: zh-CN,zh-Hans;q=0.9
+Accept-Encoding: gzip, deflate, br
+Cookie: SESSION=83685be6-de9c-4d94-9ddd-5cdf490ed566
+Ali-Tproxy-Httpdns: on
+Ali-Swift-5Xx-No-Retry: on
+
+{"head":{"H_TIME":"1684909253689","H_TIME_OFFSET":"249","ROOT":"N","H_CHNL_ID":"MB","H_UPS_SID":"","H_CLIENT_ID":"6654C803832741018A5E668A83179E1F","H_SN":"c3775e249a3d45e6bbc0f0f406859917"},"body":"#20b69b4e76da0e1b2c2aff9b44e6552fd6b26b9068bc4110787166d0fb47a9dbf3\u001d6ac8aa6a1e9614cc3438a97e8dded6062b9f804eaa7abe7609c19e990ad2e4b208978478498dbd5f35adc4e0312c78aef2b74ebe1328226cd83b1b5e98497bbf6bde6c7afa0502404b219e35a6d1a5ee9f6f180b2e5133f7275fdb529c1795fc\u001d926e8818-6cee-4994-b328-311169f1dac8"}
+
+========================================
+
+POST /mbank/pub/noticeListQry.do HTTP/1.1
+Host: qywy.gznxqny.com:10909
+Cache-Control: no-cache
+If-Modified-Since: 0
+X-Real-IP: 11.16.144.6
+X-Forwarded-For: 39.144.230.59, 116.162.103.135, 11.16.144.6
+Content-Length: 540
+Via: cn5230.l1, kunlun4.cn5230, l2cn3014.l2, cache59.l2cn3014
+Eagleeye-Traceid: 6f30472116849092542297638e
+Ali-Swift-Log-Host: qywy.gznxqny.com
+Ali-Swift-Stat-Host: level2.qywy.gznxqny.com
+X-Client-Scheme: https
+Ali-Cdn-Real-Ip: 39.144.230.59
+Accept: */*
+Content-Type: application/json;charset=UTF-8
+User-Agent: %E9%BB%94%E5%86%9C%E4%BA%91%E4%BC%81%E4%B8%9A%E7%89%88/2022120601 CFNetwork/1404.0.5 Darwin/22.3.0
+Accept-Language: zh-CN,zh-Hans;q=0.9
+Accept-Encoding: gzip, deflate, br
+Cookie: SESSION=83685be6-de9c-4d94-9ddd-5cdf490ed566
+Ali-Tproxy-Httpdns: on
+Ali-Swift-5Xx-No-Retry: on
+
+{"head":{"H_TIME":"1684909253713","H_TIME_OFFSET":"249","ROOT":"N","H_CHNL_ID":"MB","H_UPS_SID":"","H_CLIENT_ID":"6654C803832741018A5E668A83179E1F","H_SN":"ffd5b7de073c45759c97b7afd17ba410"},"body":"#207abb2443c3c9ea419748179db9d054843ecfd6ae0fe734bb3393461c08cf2cc4\u001dda2ca0cc5c0b0f40890d2fccde74c99e8a17dba0c4172db36b827f2ceae98682c3b5c2153c49535722344646d70264df2d4078c36d207c05715f7fe2b75acc593a862a94cc08db525e0a4a6ff1435f20023fa3d3dfc71bee6687df287b37f73c50358f24d29309ab278cd2dcb305a300\u001d926e8818-6cee-4994-b328-311169f1dac8"}
+
+========================================
+
+POST /mbank/pub/noticeListQry.do HTTP/1.1
+Host: qywy.gznxqny.com:10909
+Cache-Control: no-cache
+If-Modified-Since: 0
+X-Real-IP: 11.16.144.11
+X-Forwarded-For: 39.144.230.59, 116.162.103.167, 11.16.144.11
+Content-Length: 604
+Via: cn5230.l1, kunlun4.cn5230, l2cn3014.l2, cache69.l2cn3014
+Eagleeye-Traceid: 6f30472116849092542307639e
+Ali-Swift-Log-Host: qywy.gznxqny.com
+Ali-Swift-Stat-Host: level2.qywy.gznxqny.com
+X-Client-Scheme: https
+Ali-Cdn-Real-Ip: 39.144.230.59
+Accept: */*
+Content-Type: application/json;charset=UTF-8
+User-Agent: %E9%BB%94%E5%86%9C%E4%BA%91%E4%BC%81%E4%B8%9A%E7%89%88/2022120601 CFNetwork/1404.0.5 Darwin/22.3.0
+Accept-Language: zh-CN,zh-Hans;q=0.9
+Accept-Encoding: gzip, deflate, br
+Cookie: SESSION=83685be6-de9c-4d94-9ddd-5cdf490ed566
+Ali-Tproxy-Httpdns: on
+Ali-Swift-5Xx-No-Retry: on
+
+{"head":{"H_TIME":"1684909253705","H_TIME_OFFSET":"249","ROOT":"N","H_CHNL_ID":"MB","H_UPS_SID":"","H_CLIENT_ID":"6654C803832741018A5E668A83179E1F","H_SN":"4a13904f3e9a46118f8dcf23cadd51fb"},"body":"#2068f022e69c596b2121a42a6d6f8e2d0f818e5200108c7107860e5acc4dd98bce\u001df79b200650882eafa923b4eb211b6f72436a909e17d2164ed5ce0be00b02764f40d9b0e28305fbadddaa70b2c0daa5a9761e5de81f96d56a775f29cc7c899e8dcb5b462bc188ed35010df5295ccffe9a58a590b5fd9ce7f9b29ff1e04983e79f9c51836eda36beddae2d4d54216f4191f38b526fd2532fd56c7ddae01b8c1b6d5c10a70fde1667021e2f18858f04a8f7\u001d926e8818-6cee-4994-b328-311169f1dac8"}
+
+========================================
+
+POST /mbank/pub/resourceListQry.do HTTP/1.1
+Host: qywy.gznxqny.com:10909
+Cache-Control: no-cache
+If-Modified-Since: 0
+X-Real-IP: 11.16.144.14
+X-Forwarded-For: 39.144.230.59, 116.162.103.184, 11.16.144.14
+Content-Length: 508
+Via: cn5230.l1, kunlun2.cn5230, l2cn3014.l2, cache28.l2cn3014
+Eagleeye-Traceid: 6f30471f16849092548805195e
+Ali-Swift-Log-Host: qywy.gznxqny.com
+Ali-Swift-Stat-Host: level2.qywy.gznxqny.com
+X-Client-Scheme: https
+Ali-Cdn-Real-Ip: 39.144.230.59
+Accept: */*
+Content-Type: application/json;charset=UTF-8
+User-Agent: %E9%BB%94%E5%86%9C%E4%BA%91%E4%BC%81%E4%B8%9A%E7%89%88/2022120601 CFNetwork/1404.0.5 Darwin/22.3.0
+Accept-Language: zh-CN,zh-Hans;q=0.9
+Accept-Encoding: gzip, deflate, br
+Cookie: SESSION=83685be6-de9c-4d94-9ddd-5cdf490ed566
+Ali-Tproxy-Httpdns: on
+Ali-Swift-5Xx-No-Retry: on
+
+{"head":{"H_TIME":"1684909254179","H_TIME_OFFSET":"249","ROOT":"N","H_CHNL_ID":"MB","H_UPS_SID":"","H_CLIENT_ID":"6654C803832741018A5E668A83179E1F","H_SN":"7ddcf735cb96486f8d7cacad32f281ba"},"body":"#203ba54bae5abdeda5336a9ebb3a13c6d0c53afc43bff1d9747619ba256831ae9d\u001d9c978cf85423058188e07af465feb80f25e020e305bc8ddb060fadb9b3df3257230c387f6f87d09ffe6641a40bf4118b927a17a78bf79bea1a81d09c093c1df568254e5108f7433c2c48283df682560ce519bff2bc504edb90dfcd9e08a02aff\u001d926e8818-6cee-4994-b328-311169f1dac8"}
+
+========================================
+
+GET /webapp/common/file/download.do?fileName=%E4%BB%A3%E5%8F%91%E5%B7%A5%E8%B5%84%E6%98%8E%E7%BB%86%E4%BF%A1%E6%81%AF20230524142052.pdf HTTP/1.1
+Host: qywy.gznxqny.com:10909
+Cache-Control: no-cache
+If-Modified-Since: 0
+X-Real-IP: 11.16.144.8
+X-Forwarded-For: 222.86.61.235, 116.162.103.164, 11.16.144.8
+Via: cn5233.l1, kunlun2.cn5233, l2cn3014.l2, cache33.l2cn3014
+Eagleeye-Traceid: b6f23fa216849092564188678e
+Ali-Swift-Log-Host: qywy.gznxqny.com
+Ali-Swift-Stat-Host: level2.qywy.gznxqny.com
+X-Client-Scheme: https
+Ali-Cdn-Real-Ip: 222.86.61.235
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.130 Safari/537.36
+Referer: https://qywy.gznxqny.com/webapp/page/index/index.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh_CN
+Cookie: SESSION=f409eaf9-504f-4399-9c82-a14dbe83104a
+Ali-Tproxy-Httpdns: on
+Ali-Swift-5Xx-No-Retry: on
+
+========================================
+
+POST /webapp/transfer/transferLmtRemainQry.do HTTP/1.1
+Host: qywy.gznxqny.com:10909
+Cache-Control: no-cache
+If-Modified-Since: 0
+X-Real-IP: 11.16.144.8
+X-Forwarded-For: 111.122.192.146, 221.195.163.37, 11.16.144.8
+Content-Length: 840
+Via: cn44.l1, kunlun5.cn44, l2cn2632.l2, cache17.l2cn2632
+Eagleeye-Traceid: 7d4cf79916849092567728974e
+Ali-Swift-Log-Host: qywy.gznxqny.com
+Ali-Swift-Stat-Host: level2.qywy.gznxqny.com
+X-Client-Scheme: https
+Ali-Cdn-Real-Ip: 111.122.192.146
+Accept: */*
+Content-Type: application/json
+Origin: https://qywy.gznxqny.com
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.130 Safari/537.36
+Referer: https://qywy.gznxqny.com/webapp/page/index/index.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh_CN
+Cookie: SESSION=0b7abba3-e398-4cde-b4ff-e74cecafd025
+Ali-Tproxy-Httpdns: on
+Ali-Swift-5Xx-No-Retry: on
+
+{"head":{"H_CHNL_ID":"IB","H_NONCE":"9daaf0ff8e88468189216c5fec30bd79","H_TIME_OFFSET":"-53","H_TIME":"1684909256747","H_SN":"0ec182e35c6145488ad0230ff8751e27","H_TRANS_PAGE_BUSI_NO":null,"H_APROV_ID":null},"body":"#1077C9E88C0AB9DE442D1450B4129AF7C1F68F25313B9B023BF465F47FBDCA720B\u001d4AF10EC839085325E9C7AD637351100173F043783FD129BB5C194ACDDC244E0CDE7A8D61900985D997435CD7BD61E20C5E05B06A6CD8AD6090401A94A7539398F0A551DD6AFEA5F427E324B4B9538E68CAED7EA18DECF0A9CAC9499450468A55950F88DCED1445976FCFFECECC07395DE0FE9126513061CC57D1D0F6DEB92E4474565705EB6197F563BFC2CD6531A736\u001dD7438E574D00AC66D938F2FE6E05FB56FD40A1F6A1A5580A048381C99A56CF0358BA2935A05A6B8D2F0FC7011A80FA057A46239EC476AB1C669D54E036F2A40EF5EB469E420DFD1F2C65970F02E6DE0F47F900A59136D831CD576D9568B5064D4C6A5470941795689FD7B89440F4433490A3C48CDC29D31A27D9248B83349C9D"}

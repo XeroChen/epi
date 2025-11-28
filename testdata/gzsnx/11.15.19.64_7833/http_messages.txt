@@ -1,0 +1,1504 @@
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2NDEzNTE5NzQzNTEtODIzNjkyNzY2MTMxODUwOTkyNy02MDg5NTI4OTQ5ODc1NjgxNzcyAAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2NDEzNTE5NzQzNTEtODIzNjkyNzY2MTMxODUwOTkyNy02MDg5NTI4OTQ5ODc1NjgxNzcyAAAABQAIc3JuUmV2Tm8AAAABAAAABgAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQA6IsUACHNybkVudElkAAAAAQAAL90AB2Rzbmlkc3MAAAABADoixQAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE2NzQ5MDA0OTQtNjQ0NjUxNTE1OTM5MzY4MDQzOC03MDE3NDE4MDA1MDI0MzQ2NzQ4AAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE2NzQ5MDA0OTQtNjQ0NjUxNTE1OTM5MzY4MDQzOC03MDE3NDE4MDA1MDI0MzQ2NzQ4AAAABQAIc3JuUmV2Tm8AAAABAAAAEAAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAQraMACHNybkVudElkAAAAAQAALFMAB2Rzbmlkc3MAAAABABCtowAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgQAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 506
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE2OTEwNTY2NzAtOTAzNzM4OTQ0NTUyODY4Njg1My0yNTE1NzY4ODk3NDIzNzkxMTc2AAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE2OTEwNTY2NzAtOTAzNzM4OTQ0NTUyODY4Njg1My0yNTE1NzY4ODk3NDIzNzkxMTc2AAAABQAIc3JuUmV2Tm8AAAABAAAAEAAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAP83QACHNybkVudElkAAAAAQAAK%2BwAB2Rzbmlkc3MAAAABAA%2FzdAAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgQAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 504
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE2OTA5Mzk5MDYtODUzNDE4OTIzODgwNzc0MjI5My00ODg3NjE0NDM4NDMxNTQ0MTkwAAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE2OTA5Mzk5MDYtODUzNDE4OTIzODgwNzc0MjI5My00ODg3NjE0NDM4NDMxNTQ0MTkwAAAABQAIc3JuUmV2Tm8AAAABAAAAEAAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAQCCQACHNybkVudElkAAAAAQAAK%2FoAB2Rzbmlkc3MAAAABABAIJAAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzI0NDg2MTczMTYtNzk3MDUzNTE4NDYxNTcwMjgyNi0yNTAwNjE3NzM5MDA1OTE0NzQwAAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzI0NDg2MTczMTYtNzk3MDUzNTE4NDYxNTcwMjgyNi0yNTAwNjE3NzM5MDA1OTE0NzQwAAAABQAIc3JuUmV2Tm8AAAABAAAABAAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQA3YEkACHNybkVudElkAAAAAQAAL14AB2Rzbmlkc3MAAAABADdgSQAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgQAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2NDEzNTE5NzQ2MTktNjk2OTQ3MjQ4MDA3MTAwMjUzNi02ODM3NTgwMzAwNDQ2NDczMjExAAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2NDEzNTE5NzQ2MTktNjk2OTQ3MjQ4MDA3MTAwMjUzNi02ODM3NTgwMzAwNDQ2NDczMjExAAAABQAIc3JuUmV2Tm8AAAABAAAABgAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQA6IjwACHNybkVudElkAAAAAQAAL9wAB2Rzbmlkc3MAAAABADoiPAAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 506
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE2ODc2MDgxMTQtOTA2ODY0NDM1NDg4ODIxODY1OS0yODIzNDY4Njg5MTY3ODk1MTExAAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE2ODc2MDgxMTQtOTA2ODY0NDM1NDg4ODIxODY1OS0yODIzNDY4Njg5MTY3ODk1MTExAAAABQAIc3JuUmV2Tm8AAAABAAAABQAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAWPv4ACHNybkVudElkAAAAAQAALasAB2Rzbmlkc3MAAAABABY%2B%2FgAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgQAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2NDEzNzAyOTIxNzgtOTIwMzgzMTA5OTAxOTI5NzQ1Ni03MDU2MjIwNjc5OTgxMjQ2NTQ4AAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2NDEzNzAyOTIxNzgtOTIwMzgzMTA5OTAxOTI5NzQ1Ni03MDU2MjIwNjc5OTgxMjQ2NTQ4AAAABQAIc3JuUmV2Tm8AAAABAAAAAwAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQA6dxAACHNybkVudElkAAAAAQAAMAwAB2Rzbmlkc3MAAAABADp3EAAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 504
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE2OTExOTQ0ODAtODEzNzY2NTk3NTMyMzUwMDM0Ni01MTI1NTU5MjI3Mjk5NTMwMjYzAAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE2OTExOTQ0ODAtODEzNzY2NTk3NTMyMzUwMDM0Ni01MTI1NTU5MjI3Mjk5NTMwMjYzAAAABQAIc3JuUmV2Tm8AAAABAAAABAAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQApq%2BcACHNybkVudElkAAAAAQAALpcAB2Rzbmlkc3MAAAABACmr5wAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgQAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 498
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANDE2MzE1MzI0MzY1MzgtMTg1MTY0OTQ2OTQ2Mjg2MTM1Mi05NzU2MjYxNzk4MTE3NDk5NTMAAAABAAphZ2VudFRva2VuAAAAAQA0MTYzMTUzMjQzNjUzOC0xODUxNjQ5NDY5NDYyODYxMzUyLTk3NTYyNjE3OTgxMTc0OTk1MwAAAAUACHNyblJldk5vAAAAAQAAAA4ACnNybkVudFR5cGUAAAABAAAAAQAEY2lkcwAAAAEAEL%2FTAAhzcm5FbnRJZAAAAAEAACxaAAdkc25pZHNzAAAAAQAQv9MAAAACAAZ2YWx1ZXMAAAABP%2FAAAAAAAAAAB3RzdGFtcHMAAAABQniExqEoAAA%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE1MjY5NDg1MzMtNzU0MTIwNzY0MDI0ODk3ODc3NS00MDQ5MDYwMzUwNDQ4MjYwMTg5AAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE1MjY5NDg1MzMtNzU0MTIwNzY0MDI0ODk3ODc3NS00MDQ5MDYwMzUwNDQ4MjYwMTg5AAAABQAIc3JuUmV2Tm8AAAABAAAABQAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAUx4IACHNybkVudElkAAAAAQAALU0AB2Rzbmlkc3MAAAABABTHggAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE2Nzg3MTMwMjAtODIzODIyMTI3MDc1NTEyNDcxNi04Njg1MzQxOTc5NzA3MzAwNzQ2AAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE2Nzg3MTMwMjAtODIzODIyMTI3MDc1NTEyNDcxNi04Njg1MzQxOTc5NzA3MzAwNzQ2AAAABQAIc3JuUmV2Tm8AAAABAAAABAAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAWPewACHNybkVudElkAAAAAQAALakAB2Rzbmlkc3MAAAABABY97AAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgQAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE2Nzg3MDA4MTgtNzA1ODc1Njc3NTA0MjI1ODY0Mi03OTc5OTYzNDA2MDI2MjgxOTI1AAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE2Nzg3MDA4MTgtNzA1ODc1Njc3NTA0MjI1ODY0Mi03OTc5OTYzNDA2MDI2MjgxOTI1AAAABQAIc3JuUmV2Tm8AAAABAAAABQAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAWO3cACHNybkVudElkAAAAAQAALagAB2Rzbmlkc3MAAAABABY7dwAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgQAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 490
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4AMzE2MzE1MzI0NTcxNzAtODg1MTQ5MjExMzMxNTg5MDMtNzczMTg1NTQ4OTI1NTgwOTQxMgAAAAEACmFnZW50VG9rZW4AAAABADMxNjMxNTMyNDU3MTcwLTg4NTE0OTIxMTMzMTU4OTAzLTc3MzE4NTU0ODkyNTU4MDk0MTIAAAAFAAhzcm5SZXZObwAAAAEAAAARAApzcm5FbnRUeXBlAAAAAQAAAAEABGNpZHMAAAABABDA5QAIc3JuRW50SWQAAAABAAAsXAAHZHNuaWRzcwAAAAEAEMDlAAAAAgAGdmFsdWVzAAAAAT%2FwAAAAAAAAAAd0c3RhbXBzAAAAAUJ4hMahKAAA&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 504
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE2ODgyMDE5NzctNjUzMDE4OTE4NjM1NzE4MzY0NC02MTM1MDA3MjA5ODQxNjIxMzY2AAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE2ODgyMDE5NzctNjUzMDE4OTE4NjM1NzE4MzY0NC02MTM1MDA3MjA5ODQxNjIxMzY2AAAABQAIc3JuUmV2Tm8AAAABAAAAEwAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAQzPgACHNybkVudElkAAAAAQAALGQAB2Rzbmlkc3MAAAABABDM%2BAAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgQAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE2NzQwMDE5MDEtOTE1NTQwMTg3NjU2NTgxMTcxNC00Mzk4ODQ0MDQ3NDE2MTU3NzYyAAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE2NzQwMDE5MDEtOTE1NTQwMTg3NjU2NTgxMTcxNC00Mzk4ODQ0MDQ3NDE2MTU3NzYyAAAABQAIc3JuUmV2Tm8AAAABAAAAAwAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQA3YlEACHNybkVudElkAAAAAQAAL2AAB2Rzbmlkc3MAAAABADdiUQAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE2ODg2ODAwODMtNTkyMDAwNTYxNTAyMzA5NDQ3NC03MjI0MDQxMTA2ODA1NDczOTYwAAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE2ODg2ODAwODMtNTkyMDAwNTYxNTAyMzA5NDQ3NC03MjI0MDQxMTA2ODA1NDczOTYwAAAABQAIc3JuUmV2Tm8AAAABAAAABAAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAhkb0ACHNybkVudElkAAAAAQAALlwAB2Rzbmlkc3MAAAABACGRvQAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 506
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE2NzYyNjg0NzYtNjA1NzIxNzI5NjA1OTA4MDc1OC0yNTI1NjE5NjMwNzgzNTM1MjMxAAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE2NzYyNjg0NzYtNjA1NzIxNzI5NjA1OTA4MDc1OC0yNTI1NjE5NjMwNzgzNTM1MjMxAAAABQAIc3JuUmV2Tm8AAAABAAAAFwAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAQs%2FgACHNybkVudElkAAAAAQAALFYAB2Rzbmlkc3MAAAABABCz%2BAAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 496
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANDE2MzE2Nzg3MjQwNTQtMzE5NDUyNDAwNTE0ODk3OTM1LTU1OTgzMDM2MzkzMzI3NjE4MDQAAAABAAphZ2VudFRva2VuAAAAAQA0MTYzMTY3ODcyNDA1NC0zMTk0NTI0MDA1MTQ4OTc5MzUtNTU5ODMwMzYzOTMzMjc2MTgwNAAAAAUACHNyblJldk5vAAAAAQAAAAUACnNybkVudFR5cGUAAAABAAAAAQAEY2lkcwAAAAEAFj51AAhzcm5FbnRJZAAAAAEAAC2qAAdkc25pZHNzAAAAAQAWPnUAAAACAAZ2YWx1ZXMAAAABP%2FAAAAAAAAAAB3RzdGFtcHMAAAABQniExqEoAAA%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 504
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE2NzcxMDgwMjItNzE1NzkyMjE3MjMwNTYzNzQwOS03NzI1MjA4NTAyMTA5MDk1MzU0AAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE2NzcxMDgwMjItNzE1NzkyMjE3MjMwNTYzNzQwOS03NzI1MjA4NTAyMTA5MDk1MzU0AAAABQAIc3JuUmV2Tm8AAAABAAAAEAAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAQAQcACHNybkVudElkAAAAAQAAK%2FcAB2Rzbmlkc3MAAAABABABBwAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2NDI1NzYzNzk1MjMtOTE2MDgwNzQ5NjkzOTEzNzQyNi0yMDI2MjA0ODQzMjc0NjQ0NzkwAAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2NDI1NzYzNzk1MjMtOTE2MDgwNzQ5NjkzOTEzNzQyNi0yMDI2MjA0ODQzMjc0NjQ0NzkwAAAABQAIc3JuUmV2Tm8AAAABAAAACQAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQA6ouwACHNybkVudElkAAAAAQAAMCUAB2Rzbmlkc3MAAAABADqi7AAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE2OTEwODY0ODQtNzUxMjk2MTIzMTg2NzU4NDg0OS00NzY3Njg1MTQ0MDQ0NTI0OTUyAAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE2OTEwODY0ODQtNzUxMjk2MTIzMTg2NzU4NDg0OS00NzY3Njg1MTQ0MDQ0NTI0OTUyAAAABQAIc3JuUmV2Tm8AAAABAAAAEgAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAQsuYACHNybkVudElkAAAAAQAALFQAB2Rzbmlkc3MAAAABABCy5gAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE1Mjk4NzExMTYtNTgyMTU3ODg4NTkxNDg4OTg1OC01NDQ2MzE3MTY4ODMyNjI4MTY2AAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE1Mjk4NzExMTYtNTgyMTU3ODg4NTkxNDg4OTg1OC01NDQ2MzE3MTY4ODMyNjI4MTY2AAAABQAIc3JuUmV2Tm8AAAABAAAAIwAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAKUHIACHNybkVudElkAAAAAQAAKfYAB2Rzbmlkc3MAAAABAApQcgAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE2OTQ0MDMxMDktNTQ0NjA1ODkwNDQxMjY1NTY2NS01NTg1NzQ1MDAyODA2ODg2NTEwAAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE2OTQ0MDMxMDktNTQ0NjA1ODkwNDQxMjY1NTY2NS01NTg1NzQ1MDAyODA2ODg2NTEwAAAABQAIc3JuUmV2Tm8AAAABAAAABQAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQApq14ACHNybkVudElkAAAAAQAALpYAB2Rzbmlkc3MAAAABACmrXgAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE1Mjk4ODA5NTgtMzIzMjM4MDYzNTQzNzE2Mzc3My02NjY4NDY1NTM5NTg0OTQxMTY1AAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE1Mjk4ODA5NTgtMzIzMjM4MDYzNTQzNzE2Mzc3My02NjY4NDY1NTM5NTg0OTQxMTY1AAAABQAIc3JuUmV2Tm8AAAABAAAAEQAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAKzeUACHNybkVudElkAAAAAQAAKj8AB2Rzbmlkc3MAAAABAArN5QAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgQAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE2OTM3ODQxNzQtNTUwNDA1NTczMDEwODIxNTUxMy04Njg0NzQyMTE0OTY5NjEyMzE3AAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE2OTM3ODQxNzQtNTUwNDA1NTczMDEwODIxNTUxMy04Njg0NzQyMTE0OTY5NjEyMzE3AAAABQAIc3JuUmV2Tm8AAAABAAAABAAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAtSdYACHNybkVudElkAAAAAQAALs4AB2Rzbmlkc3MAAAABAC1J1gAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE1MzI1Mzg2NTktODY1MTQyMzQ0ODgxMTEyNzIwMi05MTIzNTUzMjk4NzExOTkzODU4AAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE1MzI1Mzg2NTktODY1MTQyMzQ0ODgxMTEyNzIwMi05MTIzNTUzMjk4NzExOTkzODU4AAAABQAIc3JuUmV2Tm8AAAABAAAAEwAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAQyFwACHNybkVudElkAAAAAQAALGMAB2Rzbmlkc3MAAAABABDIXAAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 498
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANDE2MzE2Nzg4ODkyMDAtMTIwMDk0MTk4MDk0MTUxNTczLTgwMjgzNDQwMzk2MTEyMjg3NTQAAAABAAphZ2VudFRva2VuAAAAAQA0MTYzMTY3ODg4OTIwMC0xMjAwOTQxOTgwOTQxNTE1NzMtODAyODM0NDAzOTYxMTIyODc1NAAAAAUACHNyblJldk5vAAAAAQAAAAUACnNybkVudFR5cGUAAAABAAAAAQAEY2lkcwAAAAEAFj%2BHAAhzcm5FbnRJZAAAAAEAAC2sAAdkc25pZHNzAAAAAQAWP4cAAAACAAZ2YWx1ZXMAAAABP%2FAAAAAAAAAAB3RzdGFtcHMAAAABQniExqEoAAA%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 504
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE2NzczNDQ0MjItNzU5NjkwMjQ0MDYxNjE2NzMwMy04NDIxMjgyMDYzOTgyNDY0MjE0AAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE2NzczNDQ0MjItNzU5NjkwMjQ0MDYxNjE2NzMwMy04NDIxMjgyMDYzOTgyNDY0MjE0AAAABQAIc3JuUmV2Tm8AAAABAAAAEQAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAQBucACHNybkVudElkAAAAAQAAK%2FkAB2Rzbmlkc3MAAAABABAG5wAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 508
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE2OTEwNzY1MzMtODE5NDY4ODQ1MjYxODk2OTU0Ny00MjA4MDMxNjI1MzYwODg3MzA5AAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE2OTEwNzY1MzMtODE5NDY4ODQ1MjYxODk2OTU0Ny00MjA4MDMxNjI1MzYwODg3MzA5AAAABQAIc3JuUmV2Tm8AAAABAAAAEAAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAP9vsACHNybkVudElkAAAAAQAAK%2B8AB2Rzbmlkc3MAAAABAA%2F2%2BwAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 506
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE1MzI1MTcyOTEtNTY4NTE0ODk1MjIyNjY4MzkzNC0zOTM4NTA2MzY2NzEyMTkzNDYwAAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE1MzI1MTcyOTEtNTY4NTE0ODk1MjIyNjY4MzkzNC0zOTM4NTA2MzY2NzEyMTkzNDYwAAAABQAIc3JuUmV2Tm8AAAABAAAAFAAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAQw%2F8ACHNybkVudElkAAAAAQAALGAAB2Rzbmlkc3MAAAABABDD%2FwAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE2OTI2NzYxMTAtNDgxNTcxODM3MzQ3ODE3MDEyNS04Mjg4ODY1NDMyNjQ1OTQzNjc0AAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE2OTI2NzYxMTAtNDgxNTcxODM3MzQ3ODE3MDEyNS04Mjg4ODY1NDMyNjQ1OTQzNjc0AAAABQAIc3JuUmV2Tm8AAAABAAAABAAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAtSHYACHNybkVudElkAAAAAQAALswAB2Rzbmlkc3MAAAABAC1IdgAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE1MzExMDU0NjgtMzY5NzgyMjA2MjM0MDUzNTE4OC0xNzUzMjc5ODYzNzk0NjM0MzE3AAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE1MzExMDU0NjgtMzY5NzgyMjA2MjM0MDUzNTE4OC0xNzUzMjc5ODYzNzk0NjM0MzE3AAAABQAIc3JuUmV2Tm8AAAABAAAAEAAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAKcnAACHNybkVudElkAAAAAQAAKgcAB2Rzbmlkc3MAAAABAApycAAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgQAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 504
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE2OTI2MjY3NjMtMTg1OTg1NjAzNjYyMzc0MjE3Ny0yMjM3NzcxMjA5NjM1MjgxMDM2AAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE2OTI2MjY3NjMtMTg1OTg1NjAzNjYyMzc0MjE3Ny0yMjM3NzcxMjA5NjM1MjgxMDM2AAAABQAIc3JuUmV2Tm8AAAABAAAABAAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAprPkACHNybkVudElkAAAAAQAALpkAB2Rzbmlkc3MAAAABACms%2BQAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 508
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE2ODgxNzI3MjUtMzgxNzgwNDg2ODQwODgzNDAzNi01NzkxODU3OTYwNTA3MDkwMDE1AAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE2ODgxNzI3MjUtMzgxNzgwNDg2ODQwODgzNDAzNi01NzkxODU3OTYwNTA3MDkwMDE1AAAABQAIc3JuUmV2Tm8AAAABAAAAEAAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAP%2Fe0ACHNybkVudElkAAAAAQAAK%2FMAB2Rzbmlkc3MAAAABAA%2F97QAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE1MzI0NzY2NzUtODY2NDU2MDg5MjAwMDYxMzY0NC0xNzM5Mjc2MjUzMzgwNjg3NDM0AAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE1MzI0NzY2NzUtODY2NDU2MDg5MjAwMDYxMzY0NC0xNzM5Mjc2MjUzMzgwNjg3NDM0AAAABQAIc3JuUmV2Tm8AAAABAAAAEQAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAQwu0ACHNybkVudElkAAAAAQAALF4AB2Rzbmlkc3MAAAABABDC7QAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSggAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 504
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE2NzcyMzg3NDctNzY1NzUyNDg3MzAyNDU0NTM4OS03NzIzMTk1NjQyNDAzMDgzMjQ3AAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE2NzcyMzg3NDctNzY1NzUyNDg3MzAyNDU0NTM4OS03NzIzMTk1NjQyNDAzMDgzMjQ3AAAABQAIc3JuUmV2Tm8AAAABAAAAEgAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAQA3wACHNybkVudElkAAAAAQAAK%2FgAB2Rzbmlkc3MAAAABABADfAAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgQAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 510
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE2NzcyMDQ4OTItNzc2NjM5MTM2MTY3MTIxMTc0NS02NTc1NDkyOTE5MzYzMTk5MjAwAAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE2NzcyMDQ4OTItNzc2NjM5MTM2MTY3MTIxMTc0NS02NTc1NDkyOTE5MzYzMTk5MjAwAAAABQAIc3JuUmV2Tm8AAAABAAAAEQAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAP%2F2wACHNybkVudElkAAAAAQAAK%2FQAB2Rzbmlkc3MAAAABAA%2F%2FbAAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 504
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE2NzcwMDAzNjctODE3MjU4MDM5MTg4NDUyMTU5Ny00NDk4NzM3Mzg4MDAwNTM0NjA2AAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE2NzcwMDAzNjctODE3MjU4MDM5MTg4NDUyMTU5Ny00NDk4NzM3Mzg4MDAwNTM0NjA2AAAABQAIc3JuUmV2Tm8AAAABAAAAEQAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAQAH4ACHNybkVudElkAAAAAQAAK%2FYAB2Rzbmlkc3MAAAABABAAfgAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2NDI1NzYzNzk1MzktODc5NzI2MTAzMDM1NDgzOTMwNS03NTU1OTMzMzE0NzMzMTMwNTE2AAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2NDI1NzYzNzk1MzktODc5NzI2MTAzMDM1NDgzOTMwNS03NTU1OTMzMzE0NzMzMTMwNTE2AAAABQAIc3JuUmV2Tm8AAAABAAAABwAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQA6pFEACHNybkVudElkAAAAAQAAMCYAB2Rzbmlkc3MAAAABADqkUQAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgQAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE1MzI0MTIzODEtNzQ3MTA3MjU4Mzc3MDQxMDM4Ny00NDEzMDc3MzQ5NDA0MDY1MjQxAAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE1MzI0MTIzODEtNzQ3MTA3MjU4Mzc3MDQxMDM4Ny00NDEzMDc3MzQ5NDA0MDY1MjQxAAAABQAIc3JuUmV2Tm8AAAABAAAADQAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAQvcsACHNybkVudElkAAAAAQAALFgAB2Rzbmlkc3MAAAABABC9ywAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgQAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE2NzQ5ODI0ODQtNzE0NTY0MDExMzMwNjk3MjYzMi01NDg2OTA4NjQ0MjcyMzY4MDU2AAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE2NzQ5ODI0ODQtNzE0NTY0MDExMzMwNjk3MjYzMi01NDg2OTA4NjQ0MjcyMzY4MDU2AAAABQAIc3JuUmV2Tm8AAAABAAAABwAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAfaRgACHNybkVudElkAAAAAQAALjsAB2Rzbmlkc3MAAAABAB9pGAAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE2Nzc3MTMyNzUtNDY1OTc4NDc5NjQwODU3OTc0My0xMjQyODQxODMxOTQ0MTkyMTg0AAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE2Nzc3MTMyNzUtNDY1OTc4NDc5NjQwODU3OTc0My0xMjQyODQxODMxOTQ0MTkyMTg0AAAABQAIc3JuUmV2Tm8AAAABAAAAEgAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQARCO0ACHNybkVudElkAAAAAQAALG8AB2Rzbmlkc3MAAAABABEI7QAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 506
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE2NzczMjE4OTgtNDA0NjY5Njg3NDY0MDM0MjA1NC0zNTc5NTUxMDU0NDY4NjAwMDg2AAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE2NzczMjE4OTgtNDA0NjY5Njg3NDY0MDM0MjA1NC0zNTc5NTUxMDU0NDY4NjAwMDg2AAAABQAIc3JuUmV2Tm8AAAABAAAAEQAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAP9IYACHNybkVudElkAAAAAQAAK%2B4AB2Rzbmlkc3MAAAABAA%2F0hgAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2NDg0NTE1MzMyODItMTg3MjQzOTc2OTQ2NDA1MzIyNC03MTE3NjA3NzQxMzE5MjIyMTA0AAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2NDg0NTE1MzMyODItMTg3MjQzOTc2OTQ2NDA1MzIyNC03MTE3NjA3NzQxMzE5MjIyMTA0AAAABQAIc3JuUmV2Tm8AAAABAAAAEgAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAKdYgACHNybkVudElkAAAAAQAAKgkAB2Rzbmlkc3MAAAABAAp1iAAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 496
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANDE2MzE1MjcwOTIzNDAtMzE5OTEzODAwNTIwNjM5ODA2NC00MjY2NzA3NTMwMTU1ODU0MTUAAAABAAphZ2VudFRva2VuAAAAAQA0MTYzMTUyNzA5MjM0MC0zMTk5MTM4MDA1MjA2Mzk4MDY0LTQyNjY3MDc1MzAxNTU4NTQxNQAAAAUACHNyblJldk5vAAAAAQAAABAACnNybkVudFR5cGUAAAABAAAAAQAEY2lkcwAAAAEADHcTAAhzcm5FbnRJZAAAAAEAACq9AAdkc25pZHNzAAAAAQAMdxMAAAACAAZ2YWx1ZXMAAAABP%2FAAAAAAAAAAB3RzdGFtcHMAAAABQniExqEoAAA%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 496
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4AMjE2MzE1Mjg2NTYxMTAtMTc2MzIwNDYxMzMzNDY5Ni0yNzE2Njk2NTk1Nzc5ODk0OTUxAAAAAQAKYWdlbnRUb2tlbgAAAAEAMjE2MzE1Mjg2NTYxMTAtMTc2MzIwNDYxMzMzNDY5Ni0yNzE2Njk2NTk1Nzc5ODk0OTUxAAAABQAIc3JuUmV2Tm8AAAABAAAAEwAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQANnf0ACHNybkVudElkAAAAAQAAKy0AB2Rzbmlkc3MAAAABAA2d%2FQAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgQAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE1MzExMjgyOTAtNzQ5MzQ1NzM3Mjc0MDY1NTYyMC0zMzQ1MzIzNDk4NDIzMTU1MTI5AAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE1MzExMjgyOTAtNzQ5MzQ1NzM3Mjc0MDY1NTYyMC0zMzQ1MzIzNDk4NDIzMTU1MTI5AAAABQAIc3JuUmV2Tm8AAAABAAAAEgAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQALNm4ACHNybkVudElkAAAAAQAAKmEAB2Rzbmlkc3MAAAABAAs2bgAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 496
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANDE2MzE1MzAxMjg1MTYtNjI4MjcwNDU3NzMzMDY4NzY4LTYyMDE0NTk4MTQxNjA3ODk4MTcAAAABAAphZ2VudFRva2VuAAAAAQA0MTYzMTUzMDEyODUxNi02MjgyNzA0NTc3MzMwNjg3NjgtNjIwMTQ1OTgxNDE2MDc4OTgxNwAAAAUACHNyblJldk5vAAAAAQAAABcACnNybkVudFR5cGUAAAABAAAAAQAEY2lkcwAAAAEADILaAAhzcm5FbnRJZAAAAAEAACrGAAdkc25pZHNzAAAAAQAMgtoAAAACAAZ2YWx1ZXMAAAABP%2FAAAAAAAAAAB3RzdGFtcHMAAAABQniExqEoAAA%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE1MjY0NjE4MjAtNDc3OTQxNTc1MDcyNDM3ODMxMy01OTgxNDc4MDQwMTUxODY4NTQ5AAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE1MjY0NjE4MjAtNDc3OTQxNTc1MDcyNDM3ODMxMy01OTgxNDc4MDQwMTUxODY4NTQ5AAAABQAIc3JuUmV2Tm8AAAABAAAAJgAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAKST8ACHNybkVudElkAAAAAQAAKfIAB2Rzbmlkc3MAAAABAApJPwAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE1MjgwNTIwMjQtNTAzNzQ4ODI1NzE1OTkzOTY3MS01OTc1NjczMTU5ODk1Njg0NjA3AAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE1MjgwNTIwMjQtNTAzNzQ4ODI1NzE1OTkzOTY3MS01OTc1NjczMTU5ODk1Njg0NjA3AAAABQAIc3JuUmV2Tm8AAAABAAAAEQAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAMeQkACHNybkVudElkAAAAAQAAKr8AB2Rzbmlkc3MAAAABAAx5CQAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 496
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANDE2MzE1MjYyNjYyMjktMjU4NzUxNTg0MzQwNDQ4ODk1LTIxMjI3NDQ3ODU4NjU5MTcwMTUAAAABAAphZ2VudFRva2VuAAAAAQA0MTYzMTUyNjI2NjIyOS0yNTg3NTE1ODQzNDA0NDg4OTUtMjEyMjc0NDc4NTg2NTkxNzAxNQAAAAUACHNyblJldk5vAAAAAQAAABEACnNybkVudFR5cGUAAAABAAAAAQAEY2lkcwAAAAEACl6JAAhzcm5FbnRJZAAAAAEAACn9AAdkc25pZHNzAAAAAQAKXokAAAACAAZ2YWx1ZXMAAAABP%2FAAAAAAAAAAB3RzdGFtcHMAAAABQniExqEoAAA%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE1Mjg4MDA1NjktMTM4OTgyNjI3OTY2MDU3Mzg2Ny0zMzE1MzU4NTg3MzA1OTUxNDUyAAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE1Mjg4MDA1NjktMTM4OTgyNjI3OTY2MDU3Mzg2Ny0zMzE1MzU4NTg3MzA1OTUxNDUyAAAABQAIc3JuUmV2Tm8AAAABAAAAHgAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAKTl0ACHNybkVudElkAAAAAQAAKfQAB2Rzbmlkc3MAAAABAApOXQAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 496
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANDE2MzE1MjYxODY3MTktMjEyODA1NzUwMzI3NjM0NzMxLTc1NTc1OTYzNzgwNjAyMzQzODYAAAABAAphZ2VudFRva2VuAAAAAQA0MTYzMTUyNjE4NjcxOS0yMTI4MDU3NTAzMjc2MzQ3MzEtNzU1NzU5NjM3ODA2MDIzNDM4NgAAAAUACHNyblJldk5vAAAAAQAAABEACnNybkVudFR5cGUAAAABAAAAAQAEY2lkcwAAAAEACmvGAAhzcm5FbnRJZAAAAAEAACoEAAdkc25pZHNzAAAAAQAKa8YAAAACAAZ2YWx1ZXMAAAABP%2FAAAAAAAAAAB3RzdGFtcHMAAAABQniExqEoAAA%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE1Mjg3MjM2MTQtODk3ODQyNzQ0NTM2Njk2NDIyNi02OTQzOTQ2ODQ3MTE2NDI4NzQxAAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE1Mjg3MjM2MTQtODk3ODQyNzQ0NTM2Njk2NDIyNi02OTQzOTQ2ODQ3MTE2NDI4NzQxAAAABQAIc3JuUmV2Tm8AAAABAAAAFwAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAOcjwACHNybkVudElkAAAAAQAAK1wAB2Rzbmlkc3MAAAABAA5yPAAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE1MzIyNDAxODMtODUwNDI5MzYyNDQ4NzYyMDA4OC0zNjY3Nzg5OTA5Njc5MDQ2MjUwAAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE1MzIyNDAxODMtODUwNDI5MzYyNDQ4NzYyMDA4OC0zNjY3Nzg5OTA5Njc5MDQ2MjUwAAAABQAIc3JuUmV2Tm8AAAABAAAAEgAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQALRfAACHNybkVudElkAAAAAQAAKmoAB2Rzbmlkc3MAAAABAAtF8AAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE1MzEwMTk1MDMtNzU3NTA5MDA1MTkyNDA4MjczMy03MzI4OTg0MzUyNjMzNTQ5MzkzAAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE1MzEwMTk1MDMtNzU3NTA5MDA1MTkyNDA4MjczMy03MzI4OTg0MzUyNjMzNTQ5MzkzAAAABQAIc3JuUmV2Tm8AAAABAAAAEwAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQALR7gACHNybkVudElkAAAAAQAAKmsAB2Rzbmlkc3MAAAABAAtHuAAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE1MjY3NDgxNzAtMTQ4NTk5MDExOTU2NjU4MjEzOC02MTQxODU0Njc1NTM1MDMzOTM0AAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE1MjY3NDgxNzAtMTQ4NTk5MDExOTU2NjU4MjEzOC02MTQxODU0Njc1NTM1MDMzOTM0AAAABQAIc3JuUmV2Tm8AAAABAAAAEQAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAKfc0ACHNybkVudElkAAAAAQAAKg8AB2Rzbmlkc3MAAAABAAp9zQAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgQAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 496
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANDE2MzE1MzA5NzI2MTgtNTI1NTQ2MzMxMjI2MTk3ODY2Ny0yMTU3Njg4MDE0MjI2NTIyODcAAAABAAphZ2VudFRva2VuAAAAAQA0MTYzMTUzMDk3MjYxOC01MjU1NDYzMzEyMjYxOTc4NjY3LTIxNTc2ODgwMTQyMjY1MjI4NwAAAAUACHNyblJldk5vAAAAAQAAABEACnNybkVudFR5cGUAAAABAAAAAQAEY2lkcwAAAAEADV71AAhzcm5FbnRJZAAAAAEAACsUAAdkc25pZHNzAAAAAQANXvUAAAACAAZ2YWx1ZXMAAAABP%2FAAAAAAAAAAB3RzdGFtcHMAAAABQniExqEoAAA%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 506
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE1MzEwMDYyNDEtNjU0MjE1NTk1NjU5MjE4NTcyOC01ODk4MzcxMjQ0MTg3NjM2MjI5AAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE1MzEwMDYyNDEtNjU0MjE1NTk1NjU5MjE4NTcyOC01ODk4MzcxMjQ0MTg3NjM2MjI5AAAABQAIc3JuUmV2Tm8AAAABAAAAEwAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQALQ%2F8ACHNybkVudElkAAAAAQAAKmgAB2Rzbmlkc3MAAAABAAtD%2FwAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 498
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANDE2MzE1MjgwMzg3NDQtNDAzNDI5ODg3MjYxMzI1ODg1OC0xOTkyNDA2NzE5Mzg4MjMzMDgAAAABAAphZ2VudFRva2VuAAAAAQA0MTYzMTUyODAzODc0NC00MDM0Mjk4ODcyNjEzMjU4ODU4LTE5OTI0MDY3MTkzODgyMzMwOAAAAAUACHNyblJldk5vAAAAAQAAABIACnNybkVudFR5cGUAAAABAAAAAQAEY2lkcwAAAAEADHecAAhzcm5FbnRJZAAAAAEAACq%2BAAdkc25pZHNzAAAAAQAMd5wAAAACAAZ2YWx1ZXMAAAABP%2FAAAAAAAAAAB3RzdGFtcHMAAAABQniExqEoEAA%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2NDg0NTE3ODkzOTUtMjI1ODIwMTgyNzUyODUzMDkxOC04MzYzMTI5MzYyMjQxNDM2NTE2AAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2NDg0NTE3ODkzOTUtMjI1ODIwMTgyNzUyODUzMDkxOC04MzYzMTI5MzYyMjQxNDM2NTE2AAAABQAIc3JuUmV2Tm8AAAABAAAAEAAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAKXAwACHNybkVudElkAAAAAQAAKfwAB2Rzbmlkc3MAAAABAApcDAAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE1MjY5NzYxMjAtMjc4NTIyNzIxNzA1MDIzNDIyMi0xNDc0MjQxNjgzNjIyNDc1OTgxAAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE1MjY5NzYxMjAtMjc4NTIyNzIxNzA1MDIzNDIyMi0xNDc0MjQxNjgzNjIyNDc1OTgxAAAABQAIc3JuUmV2Tm8AAAABAAAAEwAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAMiLwACHNybkVudElkAAAAAQAAKswAB2Rzbmlkc3MAAAABAAyIvAAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE1MzI0ODYzMjAtNzA5NzgyNTI3NDM2Mjc0NDk3OS03MDIzODAyNjcwMjE2MDE4NTM0AAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE1MzI0ODYzMjAtNzA5NzgyNTI3NDM2Mjc0NDk3OS03MDIzODAyNjcwMjE2MDE4NTM0AAAABQAIc3JuUmV2Tm8AAAABAAAAEwAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAQw3YACHNybkVudElkAAAAAQAALF8AB2Rzbmlkc3MAAAABABDDdgAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgQAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE2OTI2ODU3NzktNTQ2NTI3NjE5OTMzMDU5MjE3Ny0zMDk3MjY4NDE0NzAzMzY4Njk3AAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE2OTI2ODU3NzktNTQ2NTI3NjE5OTMzMDU5MjE3Ny0zMDk3MjY4NDE0NzAzMzY4Njk3AAAABQAIc3JuUmV2Tm8AAAABAAAABQAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAtSU0ACHNybkVudElkAAAAAQAALs0AB2Rzbmlkc3MAAAABAC1JTQAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE1MjU4NTMwNjYtODcwMTIxMzgwNTkwNTAzMDEyMy04OTkyNzE1NjYwODY1NTMzOTM0AAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE1MjU4NTMwNjYtODcwMTIxMzgwNTkwNTAzMDEyMy04OTkyNzE1NjYwODY1NTMzOTM0AAAABQAIc3JuUmV2Tm8AAAABAAAAFAAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAM62cACHNybkVudElkAAAAAQAAKusAB2Rzbmlkc3MAAAABAAzrZwAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgQAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE1Mjg0NTk1NjItNzAwNjE3NDg1NzUxMjAxMTM2OS04MTY2NDE0Nzg1NzM4Mzk2NDQzAAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE1Mjg0NTk1NjItNzAwNjE3NDg1NzUxMjAxMTM2OS04MTY2NDE0Nzg1NzM4Mzk2NDQzAAAABQAIc3JuUmV2Tm8AAAABAAAAHAAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQANt7UACHNybkVudElkAAAAAQAAKzUAB2Rzbmlkc3MAAAABAA23tQAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE2OTI4NTYwNjEtNjUwOTcwNDgwMTE1NTYwNDc1Mi03NTk3NzcwNjg2MDI4ODAxMTk1AAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE2OTI4NTYwNjEtNjUwOTcwNDgwMTE1NTYwNDc1Mi03NTk3NzcwNjg2MDI4ODAxMTk1AAAABQAIc3JuUmV2Tm8AAAABAAAABAAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAtSl8ACHNybkVudElkAAAAAQAALs8AB2Rzbmlkc3MAAAABAC1KXwAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2NDEzNzAyOTIwOTQtODkzMjgyMzczNTUxODk4MzQ2NS03Nzk4NTkxNjM4MTEzODQ1MDU1AAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2NDEzNzAyOTIwOTQtODkzMjgyMzczNTUxODk4MzQ2NS03Nzk4NTkxNjM4MTEzODQ1MDU1AAAABQAIc3JuUmV2Tm8AAAABAAAAAwAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQA6eYUACHNybkVudElkAAAAAQAAMA0AB2Rzbmlkc3MAAAABADp5hQAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 496
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANDE2MzE1MzAwNzQ3MTUtNTY4MTQzOTc3Mzg0NjgwODkwOC0xNTU3MjcwODUyNjI2MzA0ODAAAAABAAphZ2VudFRva2VuAAAAAQA0MTYzMTUzMDA3NDcxNS01NjgxNDM5NzczODQ2ODA4OTA4LTE1NTcyNzA4NTI2MjYzMDQ4MAAAAAUACHNyblJldk5vAAAAAQAAABAACnNybkVudFR5cGUAAAABAAAAAQAEY2lkcwAAAAEAClkQAAhzcm5FbnRJZAAAAAEAACn5AAdkc25pZHNzAAAAAQAKWRAAAAACAAZ2YWx1ZXMAAAABP%2FAAAAAAAAAAB3RzdGFtcHMAAAABQniExqEoAAA%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 496
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANDE2MzE1Mjk0MjAyNjgtNjU0NjA5NTY1MTU0MTU1Njc3NC02Mjg4NDUwMzk3NjY2NDI3MDAAAAABAAphZ2VudFRva2VuAAAAAQA0MTYzMTUyOTQyMDI2OC02NTQ2MDk1NjUxNTQxNTU2Nzc0LTYyODg0NTAzOTc2NjY0MjcwMAAAAAUACHNyblJldk5vAAAAAQAAABAACnNybkVudFR5cGUAAAABAAAAAQAEY2lkcwAAAAEADDXXAAhzcm5FbnRJZAAAAAEAACquAAdkc25pZHNzAAAAAQAMNdcAAAACAAZ2YWx1ZXMAAAABP%2FAAAAAAAAAAB3RzdGFtcHMAAAABQniExqEoAAA%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE1MjgzNTA4MDktMzk1NjgyMjUxMDMyMTI2MDM1NC03MzQxNjUyNTAwMjI0NDUyNjYxAAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE1MjgzNTA4MDktMzk1NjgyMjUxMDMyMTI2MDM1NC03MzQxNjUyNTAwMjI0NDUyNjYxAAAABQAIc3JuUmV2Tm8AAAABAAAAGQAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQANpOIACHNybkVudElkAAAAAQAAKy4AB2Rzbmlkc3MAAAABAA2k4gAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgQAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE1MzA3Njc2MjUtODc5MzkxNTU5Mzg3MzIzNzgxNS02NjEyNzM5MTAyOTI1MDM1MzA3AAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE1MzA3Njc2MjUtODc5MzkxNTU5Mzg3MzIzNzgxNS02NjEyNzM5MTAyOTI1MDM1MzA3AAAABQAIc3JuUmV2Tm8AAAABAAAAFwAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAMhHUACHNybkVudElkAAAAAQAAKskAB2Rzbmlkc3MAAAABAAyEdQAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgQAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE1MjgyMjI4MDAtMzgyNzk5NDU4MDU1MTY5ODk2OS04MzExNDg5OTg5NTY4MzI2NzY4AAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE1MjgyMjI4MDAtMzgyNzk5NDU4MDU1MTY5ODk2OS04MzExNDg5OTg5NTY4MzI2NzY4AAAABQAIc3JuUmV2Tm8AAAABAAAAEwAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQALQjcACHNybkVudElkAAAAAQAAKmcAB2Rzbmlkc3MAAAABAAtCNwAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE1Mjk4OTIxMDYtODUxNzAyNDI4NTk3MDMxMjM4My0yOTI0MTU4NDI3Njg5MDk3NDAwAAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE1Mjk4OTIxMDYtODUxNzAyNDI4NTk3MDMxMjM4My0yOTI0MTU4NDI3Njg5MDk3NDAwAAAABQAIc3JuUmV2Tm8AAAABAAAAEQAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAMOZIACHNybkVudElkAAAAAQAAKrAAB2Rzbmlkc3MAAAABAAw5kgAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 510
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE2OTEwNjY2MzMtMTM4ODEzMTc1MTI2MTU4MTc4Ny0zODM3MzYxNDQwOTIzMzI5NTk1AAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE2OTEwNjY2MzMtMTM4ODEzMTc1MTI2MTU4MTc4Ny0zODM3MzYxNDQwOTIzMzI5NTk1AAAABQAIc3JuUmV2Tm8AAAABAAAAEAAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAP8%2F0ACHNybkVudElkAAAAAQAAK%2B0AB2Rzbmlkc3MAAAABAA%2Fz%2FQAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE2ODg4NDg4NjktOTAzMjY5MzAxMjY1MzE4MDA3Ni03OTM0MzAzMzA1MjY5OTE5MTMyAAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE2ODg4NDg4NjktOTAzMjY5MzAxMjY1MzE4MDA3Ni03OTM0MzAzMzA1MjY5OTE5MTMyAAAABQAIc3JuUmV2Tm8AAAABAAAABwAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAfZq4ACHNybkVudElkAAAAAQAALjoAB2Rzbmlkc3MAAAABAB9mrgAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgQAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE1MzI0OTU5NjAtMjE1OTM4OTc3MjgzNTc2OTYxNy0zMTA3NzA1NDg5MTk1MzExNDcwAAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE1MzI0OTU5NjAtMjE1OTM4OTc3MjgzNTc2OTYxNy0zMTA3NzA1NDg5MTk1MzExNDcwAAAABQAIc3JuUmV2Tm8AAAABAAAAEQAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAQxQ4ACHNybkVudElkAAAAAQAALGEAB2Rzbmlkc3MAAAABABDFDgAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE2NzQwMDE3NDUtOTAwNTAyNTgzOTQyMzA0NjYyMy0zNTA2MzI0Nzg2OTU2OTc1MzUyAAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE2NzQwMDE3NDUtOTAwNTAyNTgzOTQyMzA0NjYyMy0zNTA2MzI0Nzg2OTU2OTc1MzUyAAAABQAIc3JuUmV2Tm8AAAABAAAAAwAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQA3YNIACHNybkVudElkAAAAAQAAL18AB2Rzbmlkc3MAAAABADdg0gAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2Mjk0NDc1MjY3MTgtNjM5NjkzMDI5MDQwOTYwNDc4My01NTAwODUxMjM4OTczNzA1MDI5AAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2Mjk0NDc1MjY3MTgtNjM5NjkzMDI5MDQwOTYwNDc4My01NTAwODUxMjM4OTczNzA1MDI5AAAABQAIc3JuUmV2Tm8AAAABAAAABQAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAprHAACHNybkVudElkAAAAAQAALpgAB2Rzbmlkc3MAAAABACmscAAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE2ODg4NjgxNjMtNDQ5MjEwNTMyNDE5MTg3MjY2OS04MjY2OTU3MzM3MDk0NDIzNjI4AAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE2ODg4NjgxNjMtNDQ5MjEwNTMyNDE5MTg3MjY2OS04MjY2OTU3MzM3MDk0NDIzNjI4AAAABQAIc3JuUmV2Tm8AAAABAAAABQAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAfbl0ACHNybkVudElkAAAAAQAALj0AB2Rzbmlkc3MAAAABAB9uXQAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgQAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 496
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANDE2MzE1Mjc2MjA1NjItMTEyNzEzNDcxODU1NTA5MTQ0NS03MzM4MzU1MzU0NzUzMDE5NjMAAAABAAphZ2VudFRva2VuAAAAAQA0MTYzMTUyNzYyMDU2Mi0xMTI3MTM0NzE4NTU1MDkxNDQ1LTczMzgzNTUzNTQ3NTMwMTk2MwAAAAUACHNyblJldk5vAAAAAQAAAAUACnNybkVudFR5cGUAAAABAAAAAQAEY2lkcwAAAAEAFMb5AAhzcm5FbnRJZAAAAAEAAC1MAAdkc25pZHNzAAAAAQAUxvkAAAACAAZ2YWx1ZXMAAAABP%2FAAAAAAAAAAB3RzdGFtcHMAAAABQniExqEoAAA%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2NDEzNTE5NzQzNDAtNzkyNjI2MDY3OTE0Mjk0MDM4My0zNzcxNjMwOTk2NTYxMTEwMzU4AAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2NDEzNTE5NzQzNDAtNzkyNjI2MDY3OTE0Mjk0MDM4My0zNzcxNjMwOTk2NTYxMTEwMzU4AAAABQAIc3JuUmV2Tm8AAAABAAAABgAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQA6JEQACHNybkVudElkAAAAAQAAL94AB2Rzbmlkc3MAAAABADokRAAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgQAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 504
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2NDI1NzY4MjQxOTktNDczNDQyNTg2NjcyNDYwMTk1NS03NzQ2MDE3NjI1NTUyMjU5NzAyAAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2NDI1NzY4MjQxOTktNDczNDQyNTg2NjcyNDYwMTk1NS03NzQ2MDE3NjI1NTUyMjU5NzAyAAAABQAIc3JuUmV2Tm8AAAABAAAAAwAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQA6oP4ACHNybkVudElkAAAAAQAAMCMAB2Rzbmlkc3MAAAABADqg%2FgAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgQAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 496
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANDE2MzE1MjUzNzc0OTMtNDM1NjIzNjM1MzAyMzMyMjc1NS05OTA1MTc0ODk1NTU0Mjk5NDQAAAABAAphZ2VudFRva2VuAAAAAQA0MTYzMTUyNTM3NzQ5My00MzU2MjM2MzUzMDIzMzIyNzU1LTk5MDUxNzQ4OTU1NTQyOTk0NAAAAAUACHNyblJldk5vAAAAAQAAABAACnNybkVudFR5cGUAAAABAAAAAQAEY2lkcwAAAAEACDpoAAhzcm5FbnRJZAAAAAEAAClhAAdkc25pZHNzAAAAAQAIOmgAAAACAAZ2YWx1ZXMAAAABP%2FAAAAAAAAAAB3RzdGFtcHMAAAABQniExqEoMAA%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE1MzAxNTkzOTctMjY1MjM2NTgzNjMzMDIyOTUzOS0xODM4MTQwODUxOTE1ODU5MzU0AAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE1MzAxNTkzOTctMjY1MjM2NTgzNjMzMDIyOTUzOS0xODM4MTQwODUxOTE1ODU5MzU0AAAABQAIc3JuUmV2Tm8AAAABAAAAGQAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAMh08ACHNybkVudElkAAAAAQAAKssAB2Rzbmlkc3MAAAABAAyHTwAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgQAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 506
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE1MzExNDI0OTctMTE5NTcwOTQyOTc3MDc4NjgzNi0xMjMzMjI1MjMwMTMzMjA0OTUzAAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE1MzExNDI0OTctMTE5NTcwOTQyOTc3MDc4NjgzNi0xMjMzMjI1MjMwMTMzMjA0OTUzAAAABQAIc3JuUmV2Tm8AAAABAAAAEwAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAKc%2FwACHNybkVudElkAAAAAQAAKggAB2Rzbmlkc3MAAAABAApz%2FAAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgQAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 504
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE1Mjg4MTQwMjItMTQ2MzAxOTE3NjEzMDQzNjA2NC03ODg3ODc0MzQ0NDIzNzc3NzgyAAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE1Mjg4MTQwMjItMTQ2MzAxOTE3NjEzMDQzNjA2NC03ODg3ODc0MzQ0NDIzNzc3NzgyAAAABQAIc3JuUmV2Tm8AAAABAAAAIwAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAKT%2BkACHNybkVudElkAAAAAQAAKfUAB2Rzbmlkc3MAAAABAApP6QAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 496
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANDE2MzE1MjgwODkyOTctNjEzNjQ3NjUzMzU2Nzk2OTg2NC01NzgxMzU4ODExMjk3ODg0OTMAAAABAAphZ2VudFRva2VuAAAAAQA0MTYzMTUyODA4OTI5Ny02MTM2NDc2NTMzNTY3OTY5ODY0LTU3ODEzNTg4MTEyOTc4ODQ5MwAAAAUACHNyblJldk5vAAAAAQAAABAACnNybkVudFR5cGUAAAABAAAAAQAEY2lkcwAAAAEADV5sAAhzcm5FbnRJZAAAAAEAACsTAAdkc25pZHNzAAAAAQANXmwAAAACAAZ2YWx1ZXMAAAABP%2FAAAAAAAAAAB3RzdGFtcHMAAAABQniExqEoAAA%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 496
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANDE2MzE1MjUzODc2MTItMzY3MTU5NjQ2MTA1NzY2NDAyOS01NzM5NjI4NzQ2NzkwMTcwNjMAAAABAAphZ2VudFRva2VuAAAAAQA0MTYzMTUyNTM4NzYxMi0zNjcxNTk2NDYxMDU3NjY0MDI5LTU3Mzk2Mjg3NDY3OTAxNzA2MwAAAAUACHNyblJldk5vAAAAAQAAABEACnNybkVudFR5cGUAAAABAAAAAQAEY2lkcwAAAAEACDrxAAhzcm5FbnRJZAAAAAEAACliAAdkc25pZHNzAAAAAQAIOvEAAAACAAZ2YWx1ZXMAAAABP%2FAAAAAAAAAAB3RzdGFtcHMAAAABQniExqEoAAA%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 498
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANDE2MzE1MjMzNjUyOTEtMTE5MzM5MDIwMDcyODUwNjgyLTY4MDQwMzcxMzEwOTU3MDE4MTEAAAABAAphZ2VudFRva2VuAAAAAQA0MTYzMTUyMzM2NTI5MS0xMTkzMzkwMjAwNzI4NTA2ODItNjgwNDAzNzEzMTA5NTcwMTgxMQAAAAUACHNyblJldk5vAAAAAQAAABAACnNybkVudFR5cGUAAAABAAAAAQAEY2lkcwAAAAEADW%2BNAAhzcm5FbnRJZAAAAAEAACsbAAdkc25pZHNzAAAAAQANb40AAAACAAZ2YWx1ZXMAAAABP%2FAAAAAAAAAAB3RzdGFtcHMAAAABQniExqEoAAA%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE1Mjk4NTc4MTgtOTEzNzExOTg0ODUzNTg4NTg0OC0yOTU3ODk3MTk5Mjc4NzIwNjE5AAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE1Mjk4NTc4MTgtOTEzNzExOTg0ODUzNTg4NTg0OC0yOTU3ODk3MTk5Mjc4NzIwNjE5AAAABQAIc3JuUmV2Tm8AAAABAAAAHAAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAKS84ACHNybkVudElkAAAAAQAAKfMAB2Rzbmlkc3MAAAABAApLzgAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE1MzEwMzI4NjEtMjc2NDQzNjE2MTk3NzUzMDEzNS0xMjE4OTI2MDc2MzE0NTI5MzcwAAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE1MzEwMzI4NjEtMjc2NDQzNjE2MTk3NzUzMDEzNS0xMjE4OTI2MDc2MzE0NTI5MzcwAAAABQAIc3JuUmV2Tm8AAAABAAAAFAAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAMiikACHNybkVudElkAAAAAQAAKs0AB2Rzbmlkc3MAAAABAAyKKQAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 490
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4AMzE1NzUzNjA0OTkwMjEtNzgzMzA4NDM1MTM0MjA3NDM4MC05MDUyODQ0NDI2MTM2NDA0MAAAAAEACmFnZW50VG9rZW4AAAABADMxNTc1MzYwNDk5MDIxLTc4MzMwODQzNTEzNDIwNzQzODAtOTA1Mjg0NDQyNjEzNjQwNDAAAAAFAAhzcm5SZXZObwAAAAEAAAAUAApzcm5FbnRUeXBlAAAAAQAAAAEABGNpZHMAAAABAA1sIAAIc3JuRW50SWQAAAABAAArGAAHZHNuaWRzcwAAAAEADWwgAAAAAgAGdmFsdWVzAAAAAT%2FwAAAAAAAAAAd0c3RhbXBzAAAAAUJ4hMahKAAA&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 496
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANDE2MzE1MjM0MDA1OTItOTMyMjMzMTE3OTk3MTM0NDc0LTc3MDY2Mjg3MTYyMDQ1NjQxMDQAAAABAAphZ2VudFRva2VuAAAAAQA0MTYzMTUyMzQwMDU5Mi05MzIyMzMxMTc5OTcxMzQ0NzQtNzcwNjYyODcxNjIwNDU2NDEwNAAAAAUACHNyblJldk5vAAAAAQAAABAACnNybkVudFR5cGUAAAABAAAAAQAEY2lkcwAAAAEADXc9AAhzcm5FbnRJZAAAAAEAACsfAAdkc25pZHNzAAAAAQANdz0AAAACAAZ2YWx1ZXMAAAABP%2FAAAAAAAAAAB3RzdGFtcHMAAAABQniExqEoAAA%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE1MjMyMjYzMjEtMTA2MTQ2MzAwODYyMjI0NjQzNi04NDUxMjQ3MTIyNzQ4MjM5Mzg2AAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE1MjMyMjYzMjEtMTA2MTQ2MzAwODYyMjI0NjQzNi04NDUxMjQ3MTIyNzQ4MjM5Mzg2AAAABQAIc3JuUmV2Tm8AAAABAAAAEQAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQANcBYACHNybkVudElkAAAAAQAAKxwAB2Rzbmlkc3MAAAABAA1wFgAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSggAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 490
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4AMzE2MzE1MzExMTUzNTktODM3MTkzNjkyNDg4NDc4MjEtNzcxODU0Njc2MTE3MjkxNTMzNgAAAAEACmFnZW50VG9rZW4AAAABADMxNjMxNTMxMTE1MzU5LTgzNzE5MzY5MjQ4ODQ3ODIxLTc3MTg1NDY3NjExNzI5MTUzMzYAAAAFAAhzcm5SZXZObwAAAAEAAAATAApzcm5FbnRUeXBlAAAAAQAAAAEABGNpZHMAAAABAAp3FAAIc3JuRW50SWQAAAABAAAqCgAHZHNuaWRzcwAAAAEACncUAAAAAgAGdmFsdWVzAAAAAT%2FwAAAAAAAAAAd0c3RhbXBzAAAAAUJ4hMahKAAA&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE1MzA3OTMwMDctMTk5MDIxODA1NjcwNDA2MDk3Ny0zMDg5MDE3MjE3MjYxNjkwNDYzAAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE1MzA3OTMwMDctMTk5MDIxODA1NjcwNDA2MDk3Ny0zMDg5MDE3MjE3MjYxNjkwNDYzAAAABQAIc3JuUmV2Tm8AAAABAAAAFAAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQALPXYACHNybkVudElkAAAAAQAAKmQAB2Rzbmlkc3MAAAABAAs9dgAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgQAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE1MjcwMDMyNzktMTIwMDAzNzUxODIwNzUzNTc4MC0yNjk0NTEyNjEyNTI4ODc2OTM2AAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE1MjcwMDMyNzktMTIwMDAzNzUxODIwNzUzNTc4MC0yNjk0NTEyNjEyNTI4ODc2OTM2AAAABQAIc3JuUmV2Tm8AAAABAAAAEQAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAMka8ACHNybkVudElkAAAAAQAAKtEAB2Rzbmlkc3MAAAABAAyRrwAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE1MzEyNTA1NjQtMTk2OTUyODM3MTczMTExNzM4OS02NDMzMTk5MjQ2NTkwNzk1MjQyAAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE1MzEyNTA1NjQtMTk2OTUyODM3MTczMTExNzM4OS02NDMzMTk5MjQ2NTkwNzk1MjQyAAAABQAIc3JuUmV2Tm8AAAABAAAAFAAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQALOwQACHNybkVudElkAAAAAQAAKmMAB2Rzbmlkc3MAAAABAAs7BAAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE1MzAwNjQ4OTgtNjU0NTU1NzI0MDE5Njk3OTAyMS0xNjMzMTE2ODAyNDkxMDk2NDgxAAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE1MzAwNjQ4OTgtNjU0NTU1NzI0MDE5Njk3OTAyMS0xNjMzMTE2ODAyNDkxMDk2NDgxAAAABQAIc3JuUmV2Tm8AAAABAAAAEgAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAKzGsACHNybkVudElkAAAAAQAAKj4AB2Rzbmlkc3MAAAABAArMawAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE1MzA1NjQzNTUtMzA5NjMwNTc5MzE5MzkwNjg5My02MTE0NTY3NjA0NzE3ODkzNTcwAAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE1MzA1NjQzNTUtMzA5NjMwNTc5MzE5MzkwNjg5My02MTE0NTY3NjA0NzE3ODkzNTcwAAAABQAIc3JuUmV2Tm8AAAABAAAAEgAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAM0B0ACHNybkVudElkAAAAAQAAKtoAB2Rzbmlkc3MAAAABAAzQHQAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgQAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 508
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE2NzczMzE1NzItNTEyOTYxMjI3NzU0NzI4NzM1MC02MjM3MDQ2NDkxNjI2MDk0MjY2AAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE2NzczMzE1NzItNTEyOTYxMjI3NzU0NzI4NzM1MC02MjM3MDQ2NDkxNjI2MDk0MjY2AAAABQAIc3JuUmV2Tm8AAAABAAAAEQAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAP%2BOYACHNybkVudElkAAAAAQAAK%2FAAB2Rzbmlkc3MAAAABAA%2F45gAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgQAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 496
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANDE2MzE1MzAwOTQzODUtNzU2NTcxODU2MDY2NTkzODQ4LTMyNzQzOTg5NzE3ODA5OTg5NjMAAAABAAphZ2VudFRva2VuAAAAAQA0MTYzMTUzMDA5NDM4NS03NTY1NzE4NTYwNjY1OTM4NDgtMzI3NDM5ODk3MTc4MDk5ODk2MwAAAAUACHNyblJldk5vAAAAAQAAABEACnNybkVudFR5cGUAAAABAAAAAQAEY2lkcwAAAAEACmlJAAhzcm5FbnRJZAAAAAEAACoDAAdkc25pZHNzAAAAAQAKaUkAAAACAAZ2YWx1ZXMAAAABP%2FAAAAAAAAAAB3RzdGFtcHMAAAABQniExqEoEAA%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE1MjYxMTkxMDYtMTE2MDkzNjYzNTgxMjg2NjUzNC02Mzk0MzkzODk2MjQzNTU5MTg0AAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE1MjYxMTkxMDYtMTE2MDkzNjYzNTgxMjg2NjUzNC02Mzk0MzkzODk2MjQzNTU5MTg0AAAABQAIc3JuUmV2Tm8AAAABAAAAEQAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAKVI0ACHNybkVudElkAAAAAQAAKfgAB2Rzbmlkc3MAAAABAApUjQAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgQAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 496
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANDE2MzE1Mjg2OTc4MzMtOTkxMjcxNDQ5NjIwNTIzOTY0LTQ3NzA0NzA1MTkzODA4NzEwNTgAAAABAAphZ2VudFRva2VuAAAAAQA0MTYzMTUyODY5NzgzMy05OTEyNzE0NDk2MjA1MjM5NjQtNDc3MDQ3MDUxOTM4MDg3MTA1OAAAAAUACHNyblJldk5vAAAAAQAAABkACnNybkVudFR5cGUAAAABAAAAAQAEY2lkcwAAAAEADbQgAAhzcm5FbnRJZAAAAAEAACs0AAdkc25pZHNzAAAAAQANtCAAAAACAAZ2YWx1ZXMAAAABP%2FAAAAAAAAAAB3RzdGFtcHMAAAABQniExqEoIAA%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE1Mjk3ODU3MDMtNzI4MzM0OTgzMTkyMzc4NDU2NC0xODIwNzAyMTIyOTIyNjgyNjAxAAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE1Mjk3ODU3MDMtNzI4MzM0OTgzMTkyMzc4NDU2NC0xODIwNzAyMTIyOTIyNjgyNjAxAAAABQAIc3JuUmV2Tm8AAAABAAAAEwAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAM6OAACHNybkVudElkAAAAAQAAKuoAB2Rzbmlkc3MAAAABAAzo4AAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 496
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANDE2MzE1MjgyMTAxNDgtMjI0ODkwMzYyNzIyMTQwNDU0LTc2NzUxODY3NDM4NDQ2NDAyNzMAAAABAAphZ2VudFRva2VuAAAAAQA0MTYzMTUyODIxMDE0OC0yMjQ4OTAzNjI3MjIxNDA0NTQtNzY3NTE4Njc0Mzg0NDY0MDI3MwAAAAUACHNyblJldk5vAAAAAQAAABMACnNybkVudFR5cGUAAAABAAAAAQAEY2lkcwAAAAEACz6IAAhzcm5FbnRJZAAAAAEAACpmAAdkc25pZHNzAAAAAQALPogAAAACAAZ2YWx1ZXMAAAABP%2FAAAAAAAAAAB3RzdGFtcHMAAAABQniExqEoEAA%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE1MjY5MjY0NzYtNTU3OTM4MzIzNDQzMTMyNTQ5Ni02NDUyNzEyODc3MDc1Nzk5OTM4AAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE1MjY5MjY0NzYtNTU3OTM4MzIzNDQzMTMyNTQ5Ni02NDUyNzEyODc3MDc1Nzk5OTM4AAAABQAIc3JuUmV2Tm8AAAABAAAAFQAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAL6YMACHNybkVudElkAAAAAQAAKoYAB2Rzbmlkc3MAAAABAAvpgwAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgQAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE1MzEyMzEwMDEtNjU5MDU5NzQ1OTQzNDYzMzA1My0zMDkyODY0NzE5MTA1OTk5OTY1AAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE1MzEyMzEwMDEtNjU5MDU5NzQ1OTQzNDYzMzA1My0zMDkyODY0NzE5MTA1OTk5OTY1AAAABQAIc3JuUmV2Tm8AAAABAAAAEwAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQALNOcACHNybkVudElkAAAAAQAAKmAAB2Rzbmlkc3MAAAABAAs05wAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE1Mjg5MTE5MjEtMTk3MzgzNDE2NDMyMzI1NzM3MS0xNjQ3ODI5MDE0MjA0NTE5Njc1AAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE1Mjg5MTE5MjEtMTk3MzgzNDE2NDMyMzI1NzM3MS0xNjQ3ODI5MDE0MjA0NTE5Njc1AAAABQAIc3JuUmV2Tm8AAAABAAAAEgAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQANmU0ACHNybkVudElkAAAAAQAAKyoAB2Rzbmlkc3MAAAABAA2ZTQAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgQAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 496
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANDE2MzE1MjU2OTY2MDktMzg1MDQ0ODU3MjY1OTE3NzMxLTEyMDg3Mzc5NTA5MjA1MDgzMDUAAAABAAphZ2VudFRva2VuAAAAAQA0MTYzMTUyNTY5NjYwOS0zODUwNDQ4NTcyNjU5MTc3MzEtMTIwODczNzk1MDkyMDUwODMwNQAAAAUACHNyblJldk5vAAAAAQAAABEACnNybkVudFR5cGUAAAABAAAAAQAEY2lkcwAAAAEACm3bAAhzcm5FbnRJZAAAAAEAACoGAAdkc25pZHNzAAAAAQAKbdsAAAACAAZ2YWx1ZXMAAAABP%2FAAAAAAAAAAB3RzdGFtcHMAAAABQniExqEoAAA%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE1MzAxMDQyMDktODI0MjkyMTUxODkyMTM4OTgyMy04NTM3NTA0NDE4ODQzMzc5MDIwAAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE1MzAxMDQyMDktODI0MjkyMTUxODkyMTM4OTgyMy04NTM3NTA0NDE4ODQzMzc5MDIwAAAABQAIc3JuUmV2Tm8AAAABAAAAEgAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAKerUACHNybkVudElkAAAAAQAAKg0AB2Rzbmlkc3MAAAABAAp6tQAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgQAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE1MjU3NzEyNTItMTk1Mjg5MDg0MDMwMjM5NzIzNi0xNjg0NjQ0NzA4MzEyODU5MTcyAAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE1MjU3NzEyNTItMTk1Mjg5MDg0MDMwMjM5NzIzNi0xNjg0NjQ0NzA4MzEyODU5MTcyAAAABQAIc3JuUmV2Tm8AAAABAAAAFQAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAMjB8ACHNybkVudElkAAAAAQAAKs8AB2Rzbmlkc3MAAAABAAyMHwAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE1MjY1NjI2NTItMzI5MjM3NzY1Mzc3Mjc2MDQzNC0yNTQ1NDExMDYxMjM3MDg0MTU2AAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE1MjY1NjI2NTItMzI5MjM3NzY1Mzc3Mjc2MDQzNC0yNTQ1NDExMDYxMjM3MDg0MTU2AAAABQAIc3JuUmV2Tm8AAAABAAAAEQAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAKfEEACHNybkVudElkAAAAAQAAKg4AB2Rzbmlkc3MAAAABAAp8QQAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE2Nzc3MjQ3MjMtMjA2NTg5MDY3MTY5NDY2Mzc3Ny02NTM0MjUzODk0ODg4MTU3MTAyAAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE2Nzc3MjQ3MjMtMjA2NTg5MDY3MTY5NDY2Mzc3Ny02NTM0MjUzODk0ODg4MTU3MTAyAAAABQAIc3JuUmV2Tm8AAAABAAAAFAAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQARDisACHNybkVudElkAAAAAQAALHAAB2Rzbmlkc3MAAAABABEOKwAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoShAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 498
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANDE2MzE1Mjg3MzU2MDUtMzA5NTU4NDYwODQwMTE1NjIwOS04Mzk2NDMwMjYwMzM3MjAxMzMAAAABAAphZ2VudFRva2VuAAAAAQA0MTYzMTUyODczNTYwNS0zMDk1NTg0NjA4NDAxMTU2MjA5LTgzOTY0MzAyNjAzMzcyMDEzMwAAAAUACHNyblJldk5vAAAAAQAAABQACnNybkVudFR5cGUAAAABAAAAAQAEY2lkcwAAAAEADnPvAAhzcm5FbnRJZAAAAAEAACtdAAdkc25pZHNzAAAAAQAOc%2B8AAAACAAZ2YWx1ZXMAAAABP%2FAAAAAAAAAAB3RzdGFtcHMAAAABQniExqEoAAA%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE1MjgyMzYzODgtNDIyMjkwNzE5MDE4NjQyNDc0OS04Njg1OTM0MjQwMzk2NDM3NTAzAAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE1MjgyMzYzODgtNDIyMjkwNzE5MDE4NjQyNDc0OS04Njg1OTM0MjQwMzk2NDM3NTAzAAAABQAIc3JuUmV2Tm8AAAABAAAAEwAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQALRWcACHNybkVudElkAAAAAQAAKmkAB2Rzbmlkc3MAAAABAAtFZwAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgQAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE2NzY3NTU0NzEtODI5MDExMTI2NjA2MDA5Mzc2My0zMzQyMTM5ODIyMTQxOTYyMTA4AAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE2NzY3NTU0NzEtODI5MDExMTI2NjA2MDA5Mzc2My0zMzQyMTM5ODIyMTQxOTYyMTA4AAAABQAIc3JuUmV2Tm8AAAABAAAAEwAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAOdaIACHNybkVudElkAAAAAQAAK14AB2Rzbmlkc3MAAAABAA51ogAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgQAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE1MzA0NjYzMTMtMjExNDMyMTMwNDQ4NDAyMjE5MS0yOTQ4ODk3NzY3Mzc5MzA1NTI5AAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE1MzA0NjYzMTMtMjExNDMyMTMwNDQ4NDAyMjE5MS0yOTQ4ODk3NzY3Mzc5MzA1NTI5AAAABQAIc3JuUmV2Tm8AAAABAAAAIwAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAKVAQACHNybkVudElkAAAAAQAAKfcAB2Rzbmlkc3MAAAABAApUBAAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE1Mjg2NzA4NDEtNTIyMDQzOTEzMDM0NzA5ODAxMi01OTA4MjA3NTIzODg0OTgwNDcwAAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE1Mjg2NzA4NDEtNTIyMDQzOTEzMDM0NzA5ODAxMi01OTA4MjA3NTIzODg0OTgwNDcwAAAABQAIc3JuUmV2Tm8AAAABAAAAGQAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQANsw4ACHNybkVudElkAAAAAQAAKzIAB2Rzbmlkc3MAAAABAA2zDgAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE1MjYxNzY4MTYtMjc2MjY1NDI5MTYyNDA4NDAwNC03ODcyODkxNjA4ODY3NTg5OTM0AAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE1MjYxNzY4MTYtMjc2MjY1NDI5MTYyNDA4NDAwNC03ODcyODkxNjA4ODY3NTg5OTM0AAAABQAIc3JuUmV2Tm8AAAABAAAAEQAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAKYR8ACHNybkVudElkAAAAAQAAKf8AB2Rzbmlkc3MAAAABAAphHwAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE1MzAxNDM4NjYtNzUyMjM2NzY1MzAxOTc4NjQ3OS01NTI0Nzc2MzE2OTExMTAzNTU4AAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE1MzAxNDM4NjYtNzUyMjM2NzY1MzAxOTc4NjQ3OS01NTI0Nzc2MzE2OTExMTAzNTU4AAAABQAIc3JuUmV2Tm8AAAABAAAAGAAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAMg2MACHNybkVudElkAAAAAQAAKscAB2Rzbmlkc3MAAAABAAyDYwAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 498
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANDE2MzI0NDc0MjI3NTAtOTQ5ODgzMjgxOTIxNDMyMjE2LTYwNTgwOTA4ODA2MDI0NjYzMDkAAAABAAphZ2VudFRva2VuAAAAAQA0MTYzMjQ0NzQyMjc1MC05NDk4ODMyODE5MjE0MzIyMTYtNjA1ODA5MDg4MDYwMjQ2NjMwOQAAAAUACHNyblJldk5vAAAAAQAAAAMACnNybkVudFR5cGUAAAABAAAAAQAEY2lkcwAAAAEAN1%2FAAAhzcm5FbnRJZAAAAAEAAC9dAAdkc25pZHNzAAAAAQA3X8AAAAACAAZ2YWx1ZXMAAAABP%2FAAAAAAAAAAB3RzdGFtcHMAAAABQniExqEoEAA%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 504
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE1MjcwMjc1OTItMTMxNDkxMTQxMTc1NDUxODU2Ni04MTMxOTE5NjEyMDM3MTgxNDU2AAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE1MjcwMjc1OTItMTMxNDkxMTQxMTc1NDUxODU2Ni04MTMxOTE5NjEyMDM3MTgxNDU2AAAABQAIc3JuUmV2Tm8AAAABAAAAFwAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAMg%2BwACHNybkVudElkAAAAAQAAKsgAB2Rzbmlkc3MAAAABAAyD7AAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgQAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 512
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE2NzY1MTEyOTEtODIwNzMwMzQyMDEwOTMyNzk4MS02MjcxNzgyODA1MTQzMzgxODg2AAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE2NzY1MTEyOTEtODIwNzMwMzQyMDEwOTMyNzk4MS02MjcxNzgyODA1MTQzMzgxODg2AAAABQAIc3JuUmV2Tm8AAAABAAAAEQAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAP%2F%2FUACHNybkVudElkAAAAAQAAK%2FUAB2Rzbmlkc3MAAAABAA%2F%2F9QAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgQAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 496
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANDE2MzE1MjY5ODk4ODctMTgzMjIzMTc3OTc1MTg2MzIyLTM1Njg3NDAwMjM5NjQxMDY0NjQAAAABAAphZ2VudFRva2VuAAAAAQA0MTYzMTUyNjk4OTg4Ny0xODMyMjMxNzc5NzUxODYzMjItMzU2ODc0MDAyMzk2NDEwNjQ2NAAAAAUACHNyblJldk5vAAAAAQAAABEACnNybkVudFR5cGUAAAABAAAAAQAEY2lkcwAAAAEADJEmAAhzcm5FbnRJZAAAAAEAACrQAAdkc25pZHNzAAAAAQAMkSYAAAACAAZ2YWx1ZXMAAAABP%2FAAAAAAAAAAB3RzdGFtcHMAAAABQniExqEoAAA%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 496
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANDE2MzE1MzI0NDc0NTItODk1NzI0ODAwMTEwMTg0OTUzOC03ODkyNDEyMTE5MjU1NzU1NjAAAAABAAphZ2VudFRva2VuAAAAAQA0MTYzMTUzMjQ0NzQ1Mi04OTU3MjQ4MDAxMTAxODQ5NTM4LTc4OTI0MTIxMTkyNTU3NTU2MAAAAAUACHNyblJldk5vAAAAAQAAAA4ACnNybkVudFR5cGUAAAABAAAAAQAEY2lkcwAAAAEAEMBcAAhzcm5FbnRJZAAAAAEAACxbAAdkc25pZHNzAAAAAQAQwFwAAAACAAZ2YWx1ZXMAAAABP%2FAAAAAAAAAAB3RzdGFtcHMAAAABQniExqEoAAA%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE2ODc4NTk5NjYtNTU3NzkwNjEyMjA4NDI5ODc0Ny04MDQ3MzYzMTAwODg3ODQ1NTMyAAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE2ODc4NTk5NjYtNTU3NzkwNjEyMjA4NDI5ODc0Ny04MDQ3MzYzMTAwODg3ODQ1NTMyAAAABQAIc3JuUmV2Tm8AAAABAAAAEgAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAQwmQACHNybkVudElkAAAAAQAALF0AB2Rzbmlkc3MAAAABABDCZAAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgQAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE1MjUzOTc1NjUtMjk3NzY4NDgzNDc0NTQzNTg0MC05MDAxMTMxNDk3Nzg0NTA4OTEyAAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE1MjUzOTc1NjUtMjk3NzY4NDgzNDc0NTQzNTg0MC05MDAxMTMxNDk3Nzg0NTA4OTEyAAAABQAIc3JuUmV2Tm8AAAABAAAAEQAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAIPIwACHNybkVudElkAAAAAQAAKWUAB2Rzbmlkc3MAAAABAAg8jAAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgQAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 504
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE1MjgxOTU3MTAtNjkwNDM2MjA5NjI0OTc2NzM1OS02NzQ4MDgxNzMxMzgwODM4NjUxAAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE1MjgxOTU3MTAtNjkwNDM2MjA5NjI0OTc2NzM1OS02NzQ4MDgxNzMxMzgwODM4NjUxAAAABQAIc3JuUmV2Tm8AAAABAAAAEwAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQALPf8ACHNybkVudElkAAAAAQAAKmUAB2Rzbmlkc3MAAAABAAs9%2FwAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 496
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANDE2MzE1MzIxOTU0MjItNzk1NDQ3NzE5MTU3ODI2NTAyNS00NzU2NDQ5NDAwOTg4MTE2MTIAAAABAAphZ2VudFRva2VuAAAAAQA0MTYzMTUzMjE5NTQyMi03OTU0NDc3MTkxNTc4MjY1MDI1LTQ3NTY0NDk0MDA5ODgxMTYxMgAAAAUACHNyblJldk5vAAAAAQAAABAACnNybkVudFR5cGUAAAABAAAAAQAEY2lkcwAAAAEADXRrAAhzcm5FbnRJZAAAAAEAACsdAAdkc25pZHNzAAAAAQANdGsAAAACAAZ2YWx1ZXMAAAABP%2FAAAAAAAAAAB3RzdGFtcHMAAAABQniExqEoEAA%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE1MjU5MzMzNjYtMzM3MTM1MzY3NTI5MTg5NjY0OS03ODA3NTYyMzQzMjU0NDU1NjY2AAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE1MjU5MzMzNjYtMzM3MTM1MzY3NTI5MTg5NjY0OS03ODA3NTYyMzQzMjU0NDU1NjY2AAAABQAIc3JuUmV2Tm8AAAABAAAAEwAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQANnVsACHNybkVudElkAAAAAQAAKywAB2Rzbmlkc3MAAAABAA2dWwAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE1Mjg3MTIyNDUtNzY0MDgwMTAyMTQ2MzgwODMyNS03MTU0NzgxMDg5Nzc5MzExODM3AAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE1Mjg3MTIyNDUtNzY0MDgwMTAyMTQ2MzgwODMyNS03MTU0NzgxMDg5Nzc5MzExODM3AAAABQAIc3JuUmV2Tm8AAAABAAAAGgAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQANuD4ACHNybkVudElkAAAAAQAAKzYAB2Rzbmlkc3MAAAABAA24PgAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgAAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 502
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4ANTE2MzE1MzA3ODMxMjEtNDE5OTY1NDkwNTAzOTcyNDUxNC0yMDQxOTM5ODQ1NDA1NjQ5MjIyAAAAAQAKYWdlbnRUb2tlbgAAAAEANTE2MzE1MzA3ODMxMjEtNDE5OTY1NDkwNTAzOTcyNDUxNC0yMDQxOTM5ODQ1NDA1NjQ5MjIyAAAABQAIc3JuUmV2Tm8AAAABAAAAEgAKc3JuRW50VHlwZQAAAAEAAAABAARjaWRzAAAAAQAMheIACHNybkVudElkAAAAAQAAKsoAB2Rzbmlkc3MAAAABAAyF4gAAAAIABnZhbHVlcwAAAAE%2F8AAAAAAAAAAHdHN0YW1wcwAAAAFCeITGoSgQAA%3D%3D&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 490
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4AMzE2MzE1MjU0MzA3NzMtNDg4OTA5Mzc4ODg1NjAzOTgtNTYwMzQxNDYyNjc3OTUzNDY3MQAAAAEACmFnZW50VG9rZW4AAAABADMxNjMxNTI1NDMwNzczLTQ4ODkwOTM3ODg4NTYwMzk4LTU2MDM0MTQ2MjY3Nzk1MzQ2NzEAAAAFAAhzcm5SZXZObwAAAAEAAAATAApzcm5FbnRUeXBlAAAAAQAAAAEABGNpZHMAAAABAAg96gAIc3JuRW50SWQAAAABAAApZgAHZHNuaWRzcwAAAAEACD3qAAAAAgAGdmFsdWVzAAAAAT%2FwAAAAAAAAAAd0c3RhbXBzAAAAAUJ4hMahKAAA&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args
+
+========================================
+
+POST /lather HTTP/1.1
+Content-Length: 490
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Host: 11.15.19.64:7833
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+args=AAAAcQAAAAEACmFnZW50VG9rZW4AMzE2MzE1MjgwNzcyNzAtOTU5Mjg5NTE3MDE5OTMyODM5LTE0MjA5ODg0MDE4NDg3ODczNgAAAAEACmFnZW50VG9rZW4AAAABADMxNjMxNTI4MDc3MjcwLTk1OTI4OTUxNzAxOTkzMjgzOS0xNDIwOTg4NDAxODQ4Nzg3MzYAAAAFAAhzcm5SZXZObwAAAAEAAAARAApzcm5FbnRUeXBlAAAAAQAAAAEABGNpZHMAAAABAA13xgAIc3JuRW50SWQAAAABAAArIAAHZHNuaWRzcwAAAAEADXfGAAAAAgAGdmFsdWVzAAAAAT%2FwAAAAAAAAAAd0c3RhbXBzAAAAAUJ4hMahKAAA&method=measurementSendReport&argsClass=com.deliverik.igcam.bizapp.shared.lather.MeasurementSendReport_args

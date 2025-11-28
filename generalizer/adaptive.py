@@ -50,15 +50,22 @@ class AdaptiveGeneralizer(Generalizer):
     
     def process_http_message(self, host: str, scheme: str, method: str, url: str, http_version: str) -> str:
         """Process a single HTTP message and return the generalized endpoint signature."""
-        u = urlsplit(url)
+        if method.upper() == 'CONNECT':
+            # For CONNECT requests, the URL is the authority (host:port)
+            # urlsplit misinterprets "host:port" as "scheme:path"
+            generalized_path = self.generalize_path(url)
+            generalized_query = ""
+        else:
+            u = urlsplit(url)
+            
+            # Generalize path and parameters separately
+            generalized_path = self.generalize_path(u.path)
+            generalized_query = self.generalize_query_params(u.query)
         
-        # Generalize path and parameters separately
-        generalized_path = self.generalize_path(u.path)
-        generalized_query = self.generalize_query_params(u.query)
-        
-        # Create the endpoint signature - format: <FQDN> <Method> <URL Path with parameters> <HTTP Version>
+        # Create the endpoint signature - format: <FQDN> <Method> <URL Path with parameters>
+        # Note: HTTP version is ignored for generalization as requested
         full_path = generalized_path + generalized_query
-        signature = f"{host} {method.upper()} {full_path} {http_version}"
+        signature = f"{host} {method.upper()} {full_path}"
         
         return signature
     
@@ -73,6 +80,11 @@ class AdaptiveGeneralizer(Generalizer):
         
         for i, segment in enumerate(segments):
             if segment:  # Skip empty segments
+                # Check if it's the last segment and has a file extension
+                if i == len(segments) - 1 and re.search(r'\.[a-zA-Z0-9]{1,5}$', segment):
+                     generalized_segments.append(segment)
+                     continue
+
                 normalized_segment = self._normalize_url_component(segment)
                 should_mask, pattern = self.should_generalize(normalized_segment, f"path:{i}")
                 generalized_segments.append(pattern if should_mask else normalized_segment)

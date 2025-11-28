@@ -1,0 +1,32 @@
+GET /gznx/1609315846540ftrpjhmm.png HTTP/1.1
+Host: qywydownload4cdn.gznxqny.com
+Via: cn44.l1, kunlun10.cn44, l2cn2632.l2, cache28.l2cn2632
+Eagleeye-Traceid: 7d4cf79c16849092567966475e
+Ali-Swift-Log-Host: qywydownload.gznxqny.com
+Ali-Swift-Stat-Host: level2.qywydownload.gznxqny.com
+X-Forwarded-For: 61.159.137.146
+X-Client-Scheme: https
+Ali-Cdn-Real-Ip: 61.159.137.146
+Accept: */*
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+Ali-Tproxy-Httpdns: on
+Ali-Swift-5Xx-No-Retry: on
+
+========================================
+
+GET /gznx/1609315846540ftrpjhmm.png HTTP/1.1
+Host: qywydownload4cdn.gznxqny.com
+Connection: close
+Via: cn44.l1, kunlun10.cn44, l2cn2632.l2, cache28.l2cn2632
+Eagleeye-Traceid: 7d4cf79c16849092567966475e
+Ali-Swift-Log-Host: qywydownload.gznxqny.com
+Ali-Swift-Stat-Host: level2.qywydownload.gznxqny.com
+X-Forwarded-For: 61.159.137.146
+X-Client-Scheme: https
+Ali-Cdn-Real-Ip: 61.159.137.146
+Accept: */*
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+Ali-Tproxy-Httpdns: on
+Ali-Swift-5Xx-No-Retry: on

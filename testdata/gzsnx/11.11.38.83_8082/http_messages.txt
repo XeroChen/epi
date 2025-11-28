@@ -1,0 +1,19 @@
+POST /qnzhbd/login HTTP/1.1
+authorization: Basic Y2xpZW50MToxMjM0NTY=
+user-agent: CDY-AN90(Android/10) (com.yusys.prod.mybank) UniApp/0.28.0 1080x2292
+content-type: application/x-www-form-urlencoded;charset=utf-8
+accept-encoding: gzip
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-auth
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.7
+Content-Length: 115
+Host: 11.11.38.83:8082
+Connection: Keep-Alive
+X-B3-TraceId: 22ec45d36bd085d1
+X-B3-SpanId: de1252d71b36f254
+X-B3-ParentSpanId: 22ec45d36bd085d1
+X-B3-Sampled: 0
+
+userId=129037&password=RTY1OEE0MjM2REVDQkY1MDBFNjVFMjlBNTgyQ0JFMzM=&companyPwd=MjAxM3l6a3k=&authtype=mbdls&fromSys=

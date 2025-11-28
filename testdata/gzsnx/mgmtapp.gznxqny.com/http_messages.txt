@@ -1,0 +1,101 @@
+GET /app/static/js/128.22759820cb95aa9603bb.js HTTP/1.1
+Host: mgmtapp.gznxqny.com
+User-Agent: Mozilla/5.0 (Linux; Android 11; V2056A Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.72 MQQBrowser/6.2 TBS/045946 Mobile Safari/537.36
+Accept: */*
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate, br
+Cookie: BIGipServerQNY_SHYYGL_8003_POOL=515969035.17183.0000; BIGipServerQNY_YYJR_80_POOL=563154955.20480.0000; JSESSIONID=456BB19867D6E1518286090BAC560490
+Connection: keep-alive
+Referer: https://mgmtapp.gznxqny.com/app/pettyLoanCredit/index
+
+========================================
+
+GET /app/static/js/128.22759820cb95aa9603bb.js HTTP/1.1
+Host: mgmtapp.gznxqny.com
+User-Agent: Mozilla/5.0 (Linux; Android 11; V2056A Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.72 MQQBrowser/6.2 TBS/045946 Mobile Safari/537.36
+Accept: */*
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate, br
+Cookie: BIGipServerQNY_SHYYGL_8003_POOL=515969035.17183.0000; BIGipServerQNY_YYJR_80_POOL=563154955.20480.0000; JSESSIONID=456BB19867D6E1518286090BAC560490
+Referer: https://mgmtapp.gznxqny.com/app/pettyLoanCredit/index
+
+========================================
+
+POST /mweb-json/queryCMPettyCredit.do HTTP/1.1
+Host: mgmtapp.gznxqny.com
+User-Agent: Mozilla/5.0 (Linux; Android 11; V2056A Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.72 MQQBrowser/6.2 TBS/045946 Mobile Safari/537.36
+Accept: application/json, text/plain, */*
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate, br
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 0
+Cookie: GLOBALSESSIONID=456BB19867D6E1518286090BAC560490; BIGipServerQNY_SHYYGL_8003_POOL=515969035.17183.0000; BIGipServerQNY_YYJR_80_POOL=563154955.20480.0000; JSESSIONID=456BB19867D6E1518286090BAC560490
+Connection: keep-alive
+Referer: https://mgmtapp.gznxqny.com/app/pettyLoanCredit/index
+Origin: https://mgmtapp.gznxqny.com
+
+========================================
+
+POST /mweb-json/queryCMPettyCredit.do HTTP/1.1
+Host: mgmtapp.gznxqny.com
+User-Agent: Mozilla/5.0 (Linux; Android 11; V2056A Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.72 MQQBrowser/6.2 TBS/045946 Mobile Safari/537.36
+Accept: application/json, text/plain, */*
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate, br
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 0
+Cookie: GLOBALSESSIONID=456BB19867D6E1518286090BAC560490; BIGipServerQNY_SHYYGL_8003_POOL=515969035.17183.0000; BIGipServerQNY_YYJR_80_POOL=563154955.20480.0000; JSESSIONID=456BB19867D6E1518286090BAC560490
+Referer: https://mgmtapp.gznxqny.com/app/pettyLoanCredit/index
+Origin: https://mgmtapp.gznxqny.com
+
+========================================
+
+GET /app/static/js/28.16e89e8ce448956a2316.js HTTP/1.1
+Host: mgmtapp.gznxqny.com
+User-Agent: Mozilla/5.0 (Linux; Android 11; V2056A Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.72 MQQBrowser/6.2 TBS/045946 Mobile Safari/537.36
+Accept: */*
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate, br
+Cookie: BIGipServerQNY_SHYYGL_8003_POOL=515969035.17183.0000; BIGipServerQNY_YYJR_80_POOL=563154955.20480.0000; JSESSIONID=456BB19867D6E1518286090BAC560490
+Connection: keep-alive
+Referer: https://mgmtapp.gznxqny.com/app/pettyLoanCredit/index
+
+========================================
+
+GET /app/static/js/28.16e89e8ce448956a2316.js HTTP/1.1
+Host: mgmtapp.gznxqny.com
+User-Agent: Mozilla/5.0 (Linux; Android 11; V2056A Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.72 MQQBrowser/6.2 TBS/045946 Mobile Safari/537.36
+Accept: */*
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate, br
+Cookie: BIGipServerQNY_SHYYGL_8003_POOL=515969035.17183.0000; BIGipServerQNY_YYJR_80_POOL=563154955.20480.0000; JSESSIONID=456BB19867D6E1518286090BAC560490
+Referer: https://mgmtapp.gznxqny.com/app/pettyLoanCredit/index
+
+========================================
+
+POST /mweb-json/QueryNationMap.do HTTP/1.1
+Host: mgmtapp.gznxqny.com
+User-Agent: Mozilla/5.0 (Linux; Android 11; V2056A Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.72 MQQBrowser/6.2 TBS/045946 Mobile Safari/537.36
+Accept: application/json, text/plain, */*
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate, br
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 0
+Cookie: GLOBALSESSIONID=456BB19867D6E1518286090BAC560490; BIGipServerQNY_SHYYGL_8003_POOL=515969035.17183.0000; BIGipServerQNY_YYJR_80_POOL=563154955.20480.0000; JSESSIONID=456BB19867D6E1518286090BAC560490
+Connection: keep-alive
+Referer: https://mgmtapp.gznxqny.com/app/pettyLoanCredit/addCustInfoStepOne
+Origin: https://mgmtapp.gznxqny.com
+
+========================================
+
+POST /mweb-json/QueryNationMap.do HTTP/1.1
+Host: mgmtapp.gznxqny.com
+User-Agent: Mozilla/5.0 (Linux; Android 11; V2056A Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.72 MQQBrowser/6.2 TBS/045946 Mobile Safari/537.36
+Accept: application/json, text/plain, */*
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate, br
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 0
+Cookie: GLOBALSESSIONID=456BB19867D6E1518286090BAC560490; BIGipServerQNY_SHYYGL_8003_POOL=515969035.17183.0000; BIGipServerQNY_YYJR_80_POOL=563154955.20480.0000; JSESSIONID=456BB19867D6E1518286090BAC560490
+Referer: https://mgmtapp.gznxqny.com/app/pettyLoanCredit/addCustInfoStepOne
+Origin: https://mgmtapp.gznxqny.com

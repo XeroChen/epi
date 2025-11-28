@@ -1,0 +1,13 @@
+CONNECT api.map.baidu.com:443 HTTP/1.1
+User-Agent: Java/1.8.0_171
+Host: api.map.baidu.com
+Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+Proxy-Connection: keep-alive
+
+========================================
+
+CONNECT api.map.baidu.com:443 HTTP/1.1
+User-Agent: Java/1.8.0_171
+Host: api.map.baidu.com
+Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+Proxy-Connection: keep-alive

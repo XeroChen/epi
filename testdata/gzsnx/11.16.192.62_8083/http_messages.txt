@@ -1,0 +1,5 @@
+GET /actuator/health HTTP/1.1
+user-agent: ReactorNetty/0.7.9.RELEASE
+host: 11.16.192.62:8083
+accept-encoding: gzip
+Accept: application/vnd.spring-boot.actuator.v2+json, application/vnd.spring-boot.actuator.v1+json, application/json

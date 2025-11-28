@@ -1,0 +1,18 @@
+CONNECT player.xdkr.net:443 HTTP/1.1
+Host: player.xdkr.net:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT player.xdkr.net:443 HTTP/1.1
+Host: player.xdkr.net:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT player.xdkr.net:443 HTTP/1.1
+Host: player.xdkr.net:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1

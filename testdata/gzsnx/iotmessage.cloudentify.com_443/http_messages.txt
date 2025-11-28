@@ -1,0 +1,998 @@
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT iotmessage.cloudentify.com:443 HTTP/1.1
+Host: iotmessage.cloudentify.com:443
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1

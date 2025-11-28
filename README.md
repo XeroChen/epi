@@ -40,6 +40,11 @@ EPI relies on several key dependencies to provide its endpoint discovery and gen
   - *Installation*: `pip install llhttp`
   - *Note*: Provides significantly better performance than pure Python HTTP parsing libraries
 
+- **scapy** - Packet manipulation program
+  - *Purpose*: Parses pcap/pcapng files to extract HTTP traffic
+  - *Usage*: Reads network capture files and reconstructs TCP streams to extract HTTP requests
+  - *Installation*: `pip install scapy`
+
 #### Standard Library Dependencies
 The tool leverages several Python standard library modules:
 - **argparse** - Command-line argument parsing and help generation
@@ -87,7 +92,7 @@ For a complete installation, you'll need:
 Python 3.7 or higher
 
 # Python packages (from requirements.txt)
-pip install llhttp drain3
+pip install llhttp drain3 scapy
 
 # Optional: Development tools
 pip install pytest  # For testing
@@ -177,7 +182,7 @@ Key options include:
 
 **Custom File with Advanced Options**:
 ```bash
-./epi.py -if logs.txt --drain3-only --drain3-similarity 0.2 -out xml -of endpoints.xml
+./epi.py -if logs.txt --drain3-only --drain3-similarity 0.8 -out xml -of endpoints.xml
 ```
 
 ### Input Format
@@ -190,6 +195,52 @@ Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
 POST /api/auth HTTP/1.1
 Host: example.com
 Content-Type: application/json
+```
+
+## PCAP Extraction Tool
+
+The project includes a standalone utility `pcap2httpreq.py` for extracting HTTP requests from network capture files (pcap/pcapng).
+
+### Features
+- **Packet Parsing**: Uses Scapy to read pcap files and reconstruct TCP streams
+- **HTTP Extraction**: Uses llhttp to robustly parse HTTP requests from TCP payloads
+- **Organization**: Automatically groups requests by `Host` header (domain)
+- **Output Structure**: Creates a directory structure compatible with EPI's test data format
+
+### Usage
+
+```bash
+./pcap2httpreq.py [options] pcap_file
+```
+
+### Options
+- `-o OUTPUT_FILE`, `--output OUTPUT_FILE`: Save all requests to a single file
+- `-d OUTPUT_DIR`, `--dir OUTPUT_DIR`: Save requests to separate files organized by domain (creates directory structure)
+- `-v`, `--verbose`: Enable verbose output
+
+### Examples
+
+**Extract to stdout**:
+```bash
+./pcap2httpreq.py capture.pcap
+```
+
+**Extract to single file**:
+```bash
+./pcap2httpreq.py capture.pcap -o all_requests.txt
+```
+
+**Extract and organize by domain**:
+```bash
+./pcap2httpreq.py capture.pcap -d testdata/new_category
+```
+This will create:
+```
+testdata/new_category/
+  example.com/
+    http_messages.txt
+  api.service.org/
+    http_messages.txt
 ```
 
 ## Testing
@@ -246,7 +297,11 @@ epi/
 │   ├── base.py              # Abstract Generalizer base class
 │   ├── adaptive.py          # Semantic pattern detection
 │   └── drain.py             # Drain3-based template mining
+├── pcap_parser/             # PCAP parsing package
+│   ├── __init__.py
+│   └── parser.py            # Scapy + llhttp parsing logic
 ├── epi.py                   # Main executable script
+├── pcap2httpreq.py          # PCAP extraction CLI tool
 ├── testdata/                # Sample HTTP message data
 └── requirements.txt         # Python dependencies
 ```

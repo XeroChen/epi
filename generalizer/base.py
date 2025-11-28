@@ -70,8 +70,8 @@ class Generalizer(ABC):
     def output(self, format_type: str = "tree") -> str:
         """Generate formatted output of discovered endpoints."""
         # For DrainGeneralizer, perform post-processing to merge similar patterns
-        if hasattr(self, 'use_drain3') and self.use_drain3:
-            self._post_process_drain3_patterns()
+        # if hasattr(self, 'use_drain3') and self.use_drain3:
+        #     self._post_process_drain3_patterns()
             
         if format_type == "json":
             return self._format_json()

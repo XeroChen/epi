@@ -1,0 +1,238 @@
+GET /eweb/script.do HTTP/1.1
+Host: merpc.gznxqny.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3947.100 Safari/537.36
+Accept: */*
+Accept-Language: zh-CN,zh;q=0.9
+Accept-Encoding: gzip, deflate, br
+Cookie: TellerIdE=18108522337; GLOBALSESSIONID=73FA47AD9D59CE5831AF4F71F07ABD0E; cldfCookie=; BIGipServerQNY_SHYYGL_8001_POOL=532746251.16671.0000; BIGipServerQNY_SHJR_80_POOL=579932171.20480.0000; JSESSIONID=73FA47AD9D59CE5831AF4F71F07ABD0E
+Connection: keep-alive
+Referer: https://merpc.gznxqny.com/eweb/ApplayAppliactJoinPre.do
+
+========================================
+
+GET /eweb/script.do HTTP/1.1
+Host: merpc.gznxqny.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3947.100 Safari/537.36
+Accept: */*
+Accept-Language: zh-CN,zh;q=0.9
+Accept-Encoding: gzip, deflate, br
+Cookie: TellerIdE=18108522337; GLOBALSESSIONID=73FA47AD9D59CE5831AF4F71F07ABD0E; cldfCookie=; BIGipServerQNY_SHYYGL_8001_POOL=532746251.16671.0000; BIGipServerQNY_SHJR_80_POOL=579932171.20480.0000; JSESSIONID=73FA47AD9D59CE5831AF4F71F07ABD0E
+Referer: https://merpc.gznxqny.com/eweb/ApplayAppliactJoinPre.do
+
+========================================
+
+GET /eweb/css/css.css HTTP/1.1
+Host: merpc.gznxqny.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3947.100 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Accept-Language: zh-CN,zh;q=0.9
+Accept-Encoding: gzip, deflate, br
+Cookie: TellerIdE=18108522337; GLOBALSESSIONID=73FA47AD9D59CE5831AF4F71F07ABD0E; cldfCookie=; BIGipServerQNY_SHYYGL_8001_POOL=532746251.16671.0000; BIGipServerQNY_SHJR_80_POOL=579932171.20480.0000; JSESSIONID=73FA47AD9D59CE5831AF4F71F07ABD0E
+Connection: keep-alive
+Referer: https://merpc.gznxqny.com/eweb/ApplayAppliactJoinPre.do
+
+========================================
+
+GET /eweb/cropper/css/cropper.css HTTP/1.1
+Host: merpc.gznxqny.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3947.100 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Accept-Language: zh-CN,zh;q=0.9
+Accept-Encoding: gzip, deflate, br
+Cookie: TellerIdE=18108522337; GLOBALSESSIONID=73FA47AD9D59CE5831AF4F71F07ABD0E; cldfCookie=; BIGipServerQNY_SHYYGL_8001_POOL=532746251.16671.0000; BIGipServerQNY_SHJR_80_POOL=579932171.20480.0000; JSESSIONID=73FA47AD9D59CE5831AF4F71F07ABD0E
+Connection: keep-alive
+Referer: https://merpc.gznxqny.com/eweb/ApplayAppliactJoinPre.do
+
+========================================
+
+GET /eweb/css/css.css HTTP/1.1
+Host: merpc.gznxqny.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3947.100 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Accept-Language: zh-CN,zh;q=0.9
+Accept-Encoding: gzip, deflate, br
+Cookie: TellerIdE=18108522337; GLOBALSESSIONID=73FA47AD9D59CE5831AF4F71F07ABD0E; cldfCookie=; BIGipServerQNY_SHYYGL_8001_POOL=532746251.16671.0000; BIGipServerQNY_SHJR_80_POOL=579932171.20480.0000; JSESSIONID=73FA47AD9D59CE5831AF4F71F07ABD0E
+Referer: https://merpc.gznxqny.com/eweb/ApplayAppliactJoinPre.do
+
+========================================
+
+GET /eweb/cropper/css/main.css HTTP/1.1
+Host: merpc.gznxqny.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3947.100 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Accept-Language: zh-CN,zh;q=0.9
+Accept-Encoding: gzip, deflate, br
+Cookie: TellerIdE=18108522337; GLOBALSESSIONID=73FA47AD9D59CE5831AF4F71F07ABD0E; cldfCookie=; BIGipServerQNY_SHYYGL_8001_POOL=532746251.16671.0000; BIGipServerQNY_SHJR_80_POOL=579932171.20480.0000; JSESSIONID=73FA47AD9D59CE5831AF4F71F07ABD0E
+Connection: keep-alive
+Referer: https://merpc.gznxqny.com/eweb/ApplayAppliactJoinPre.do
+
+========================================
+
+GET /eweb/cropper/css/cropper.css HTTP/1.1
+Host: merpc.gznxqny.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3947.100 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Accept-Language: zh-CN,zh;q=0.9
+Accept-Encoding: gzip, deflate, br
+Cookie: TellerIdE=18108522337; GLOBALSESSIONID=73FA47AD9D59CE5831AF4F71F07ABD0E; cldfCookie=; BIGipServerQNY_SHYYGL_8001_POOL=532746251.16671.0000; BIGipServerQNY_SHJR_80_POOL=579932171.20480.0000; JSESSIONID=73FA47AD9D59CE5831AF4F71F07ABD0E
+Referer: https://merpc.gznxqny.com/eweb/ApplayAppliactJoinPre.do
+
+========================================
+
+GET /eweb/cropper/css/main.css HTTP/1.1
+Host: merpc.gznxqny.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3947.100 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Accept-Language: zh-CN,zh;q=0.9
+Accept-Encoding: gzip, deflate, br
+Cookie: TellerIdE=18108522337; GLOBALSESSIONID=73FA47AD9D59CE5831AF4F71F07ABD0E; cldfCookie=; BIGipServerQNY_SHYYGL_8001_POOL=532746251.16671.0000; BIGipServerQNY_SHJR_80_POOL=579932171.20480.0000; JSESSIONID=73FA47AD9D59CE5831AF4F71F07ABD0E
+Referer: https://merpc.gznxqny.com/eweb/ApplayAppliactJoinPre.do
+
+========================================
+
+GET /eweb/cropper/js/jquery.form.js HTTP/1.1
+Host: merpc.gznxqny.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3947.100 Safari/537.36
+Accept: */*
+Accept-Language: zh-CN,zh;q=0.9
+Accept-Encoding: gzip, deflate, br
+Cookie: TellerIdE=18108522337; GLOBALSESSIONID=73FA47AD9D59CE5831AF4F71F07ABD0E; cldfCookie=; BIGipServerQNY_SHYYGL_8001_POOL=532746251.16671.0000; BIGipServerQNY_SHJR_80_POOL=579932171.20480.0000; JSESSIONID=73FA47AD9D59CE5831AF4F71F07ABD0E
+Connection: keep-alive
+Referer: https://merpc.gznxqny.com/eweb/ApplayAppliactJoinPre.do
+
+========================================
+
+GET /eweb/cropper/js/jquery.form.js HTTP/1.1
+Host: merpc.gznxqny.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3947.100 Safari/537.36
+Accept: */*
+Accept-Language: zh-CN,zh;q=0.9
+Accept-Encoding: gzip, deflate, br
+Cookie: TellerIdE=18108522337; GLOBALSESSIONID=73FA47AD9D59CE5831AF4F71F07ABD0E; cldfCookie=; BIGipServerQNY_SHYYGL_8001_POOL=532746251.16671.0000; BIGipServerQNY_SHJR_80_POOL=579932171.20480.0000; JSESSIONID=73FA47AD9D59CE5831AF4F71F07ABD0E
+Referer: https://merpc.gznxqny.com/eweb/ApplayAppliactJoinPre.do
+
+========================================
+
+GET /eweb/cropper/js/cropper.js HTTP/1.1
+Host: merpc.gznxqny.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3947.100 Safari/537.36
+Accept: */*
+Accept-Language: zh-CN,zh;q=0.9
+Accept-Encoding: gzip, deflate, br
+Cookie: TellerIdE=18108522337; GLOBALSESSIONID=73FA47AD9D59CE5831AF4F71F07ABD0E; cldfCookie=; BIGipServerQNY_SHYYGL_8001_POOL=532746251.16671.0000; BIGipServerQNY_SHJR_80_POOL=579932171.20480.0000; JSESSIONID=73FA47AD9D59CE5831AF4F71F07ABD0E
+Connection: keep-alive
+Referer: https://merpc.gznxqny.com/eweb/ApplayAppliactJoinPre.do
+
+========================================
+
+GET /eweb/js/jquery.mloading.js HTTP/1.1
+Host: merpc.gznxqny.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3947.100 Safari/537.36
+Accept: */*
+Accept-Language: zh-CN,zh;q=0.9
+Accept-Encoding: gzip, deflate, br
+Cookie: TellerIdE=18108522337; GLOBALSESSIONID=73FA47AD9D59CE5831AF4F71F07ABD0E; cldfCookie=; BIGipServerQNY_SHYYGL_8001_POOL=532746251.16671.0000; BIGipServerQNY_SHJR_80_POOL=579932171.20480.0000; JSESSIONID=73FA47AD9D59CE5831AF4F71F07ABD0E
+Connection: keep-alive
+Referer: https://merpc.gznxqny.com/eweb/ApplayAppliactJoinPre.do
+
+========================================
+
+GET /eweb/cropper/js/jquery-h.js HTTP/1.1
+Host: merpc.gznxqny.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3947.100 Safari/537.36
+Accept: */*
+Accept-Language: zh-CN,zh;q=0.9
+Accept-Encoding: gzip, deflate, br
+Cookie: TellerIdE=18108522337; GLOBALSESSIONID=73FA47AD9D59CE5831AF4F71F07ABD0E; cldfCookie=; BIGipServerQNY_SHYYGL_8001_POOL=532746251.16671.0000; BIGipServerQNY_SHJR_80_POOL=579932171.20480.0000; JSESSIONID=73FA47AD9D59CE5831AF4F71F07ABD0E
+Connection: keep-alive
+Referer: https://merpc.gznxqny.com/eweb/ApplayAppliactJoinPre.do
+
+========================================
+
+GET /eweb/js/move.js HTTP/1.1
+Host: merpc.gznxqny.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3947.100 Safari/537.36
+Accept: */*
+Accept-Language: zh-CN,zh;q=0.9
+Accept-Encoding: gzip, deflate, br
+Cookie: TellerIdE=18108522337; GLOBALSESSIONID=73FA47AD9D59CE5831AF4F71F07ABD0E; cldfCookie=; BIGipServerQNY_SHYYGL_8001_POOL=532746251.16671.0000; BIGipServerQNY_SHJR_80_POOL=579932171.20480.0000; JSESSIONID=73FA47AD9D59CE5831AF4F71F07ABD0E
+Connection: keep-alive
+Referer: https://merpc.gznxqny.com/eweb/ApplayAppliactJoinPre.do
+
+========================================
+
+GET /eweb/cropper/js/cropper.js HTTP/1.1
+Host: merpc.gznxqny.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3947.100 Safari/537.36
+Accept: */*
+Accept-Language: zh-CN,zh;q=0.9
+Accept-Encoding: gzip, deflate, br
+Cookie: TellerIdE=18108522337; GLOBALSESSIONID=73FA47AD9D59CE5831AF4F71F07ABD0E; cldfCookie=; BIGipServerQNY_SHYYGL_8001_POOL=532746251.16671.0000; BIGipServerQNY_SHJR_80_POOL=579932171.20480.0000; JSESSIONID=73FA47AD9D59CE5831AF4F71F07ABD0E
+Referer: https://merpc.gznxqny.com/eweb/ApplayAppliactJoinPre.do
+
+========================================
+
+GET /eweb/js/jquery.mloading.js HTTP/1.1
+Host: merpc.gznxqny.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3947.100 Safari/537.36
+Accept: */*
+Accept-Language: zh-CN,zh;q=0.9
+Accept-Encoding: gzip, deflate, br
+Cookie: TellerIdE=18108522337; GLOBALSESSIONID=73FA47AD9D59CE5831AF4F71F07ABD0E; cldfCookie=; BIGipServerQNY_SHYYGL_8001_POOL=532746251.16671.0000; BIGipServerQNY_SHJR_80_POOL=579932171.20480.0000; JSESSIONID=73FA47AD9D59CE5831AF4F71F07ABD0E
+Referer: https://merpc.gznxqny.com/eweb/ApplayAppliactJoinPre.do
+
+========================================
+
+GET /eweb/js/move.js HTTP/1.1
+Host: merpc.gznxqny.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3947.100 Safari/537.36
+Accept: */*
+Accept-Language: zh-CN,zh;q=0.9
+Accept-Encoding: gzip, deflate, br
+Cookie: TellerIdE=18108522337; GLOBALSESSIONID=73FA47AD9D59CE5831AF4F71F07ABD0E; cldfCookie=; BIGipServerQNY_SHYYGL_8001_POOL=532746251.16671.0000; BIGipServerQNY_SHJR_80_POOL=579932171.20480.0000; JSESSIONID=73FA47AD9D59CE5831AF4F71F07ABD0E
+Referer: https://merpc.gznxqny.com/eweb/ApplayAppliactJoinPre.do
+
+========================================
+
+GET /eweb/cropper/js/jquery-h.js HTTP/1.1
+Host: merpc.gznxqny.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3947.100 Safari/537.36
+Accept: */*
+Accept-Language: zh-CN,zh;q=0.9
+Accept-Encoding: gzip, deflate, br
+Cookie: TellerIdE=18108522337; GLOBALSESSIONID=73FA47AD9D59CE5831AF4F71F07ABD0E; cldfCookie=; BIGipServerQNY_SHYYGL_8001_POOL=532746251.16671.0000; BIGipServerQNY_SHJR_80_POOL=579932171.20480.0000; JSESSIONID=73FA47AD9D59CE5831AF4F71F07ABD0E
+Referer: https://merpc.gznxqny.com/eweb/ApplayAppliactJoinPre.do
+
+========================================
+
+GET /eweb/images/delete_img.png HTTP/1.1
+Host: merpc.gznxqny.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3947.100 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Accept-Language: zh-CN,zh;q=0.9
+Accept-Encoding: gzip, deflate, br
+Cookie: TellerIdE=18108522337; GLOBALSESSIONID=73FA47AD9D59CE5831AF4F71F07ABD0E; cldfCookie=; BIGipServerQNY_SHYYGL_8001_POOL=532746251.16671.0000; BIGipServerQNY_SHJR_80_POOL=579932171.20480.0000; JSESSIONID=73FA47AD9D59CE5831AF4F71F07ABD0E
+Referer: https://merpc.gznxqny.com/eweb/ApplayAppliactJoinPre.do
+
+========================================
+
+GET /eweb/images/rl.png HTTP/1.1
+Host: merpc.gznxqny.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3947.100 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Accept-Language: zh-CN,zh;q=0.9
+Accept-Encoding: gzip, deflate, br
+Cookie: TellerIdE=18108522337; GLOBALSESSIONID=73FA47AD9D59CE5831AF4F71F07ABD0E; cldfCookie=; BIGipServerQNY_SHYYGL_8001_POOL=532746251.16671.0000; BIGipServerQNY_SHJR_80_POOL=579932171.20480.0000; JSESSIONID=73FA47AD9D59CE5831AF4F71F07ABD0E
+Connection: keep-alive
+Referer: https://merpc.gznxqny.com/eweb/css/admin_mall.css
+
+========================================
+
+GET /eweb/images/rl.png HTTP/1.1
+Host: merpc.gznxqny.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3947.100 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Accept-Language: zh-CN,zh;q=0.9
+Accept-Encoding: gzip, deflate, br
+Cookie: TellerIdE=18108522337; GLOBALSESSIONID=73FA47AD9D59CE5831AF4F71F07ABD0E; cldfCookie=; BIGipServerQNY_SHYYGL_8001_POOL=532746251.16671.0000; BIGipServerQNY_SHJR_80_POOL=579932171.20480.0000; JSESSIONID=73FA47AD9D59CE5831AF4F71F07ABD0E
+Referer: https://merpc.gznxqny.com/eweb/css/admin_mall.css

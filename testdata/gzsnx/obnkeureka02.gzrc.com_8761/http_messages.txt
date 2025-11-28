@@ -1,0 +1,45 @@
+GET /eureka/apps/delta HTTP/1.1
+Accept: application/json
+DiscoveryIdentity-Name: DefaultClient
+DiscoveryIdentity-Version: 1.4
+DiscoveryIdentity-Id: 11.11.36.186
+Accept-Encoding: gzip
+Host: obnkeureka02.gzrc.com:8761
+Connection: Keep-Alive
+User-Agent: Java-EurekaClient/v1.9.25
+
+========================================
+
+PUT /eureka/apps/SMART-CLOUD-ARCHITECTURE/gshtywlcsap02u:smart-cloud-architecture:8106?status=UP&lastDirtyTimestamp=1683719209088 HTTP/1.1
+DiscoveryIdentity-Name: DefaultClient
+DiscoveryIdentity-Version: 1.4
+DiscoveryIdentity-Id: 11.11.36.186
+Accept-Encoding: gzip
+Content-Length: 0
+Host: obnkeureka02.gzrc.com:8761
+Connection: Keep-Alive
+User-Agent: Java-EurekaClient/v1.9.25
+
+========================================
+
+PUT /eureka/apps/SMART-CLOUD-SSO/gshtywlcsap02u:smart-cloud-sso:8101?status=UP&lastDirtyTimestamp=1683719398622 HTTP/1.1
+DiscoveryIdentity-Name: DefaultClient
+DiscoveryIdentity-Version: 1.4
+DiscoveryIdentity-Id: 11.11.36.186
+Accept-Encoding: gzip
+Content-Length: 0
+Host: obnkeureka02.gzrc.com:8761
+Connection: Keep-Alive
+User-Agent: Java-EurekaClient/v1.9.25
+
+========================================
+
+GET /eureka/apps/delta HTTP/1.1
+Accept: application/json
+DiscoveryIdentity-Name: DefaultClient
+DiscoveryIdentity-Version: 1.4
+DiscoveryIdentity-Id: 11.11.36.186
+Accept-Encoding: gzip
+Host: obnkeureka02.gzrc.com:8761
+Connection: Keep-Alive
+User-Agent: Java-EurekaClient/v1.9.25

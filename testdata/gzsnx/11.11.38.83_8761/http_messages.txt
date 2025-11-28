@@ -1,0 +1,9 @@
+GET /eureka/apps/delta HTTP/1.1
+Accept: application/json
+DiscoveryIdentity-Name: DefaultClient
+DiscoveryIdentity-Version: 1.4
+DiscoveryIdentity-Id: 11.16.192.62
+Accept-Encoding: gzip
+Host: 11.11.38.83:8761
+Connection: Keep-Alive
+User-Agent: Java-EurekaClient/v1.9.3

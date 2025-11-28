@@ -1,0 +1,766 @@
+POST /main.do HTTP/1.0
+Host: 11.10.0.75
+X-Forwarded-For: 11.10.40.14
+X-Forwardded-Host: 11.10.40.117
+X-Real-IP: 11.10.40.14
+Connection: close
+Content-Length: 36
+Accept: application/json, text/javascript, */*; q=0.01
+Origin: http://11.10.0.75
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: http://11.10.0.75/mweb/main.do
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: tellerName=153352; loginPhones=*******7900; loginPhone=*******7900; fingerType=03; GLOBALSESSIONID=B7B04B4E7D11E4A06AB523DC2BC835D5; BIGipServerQNY_YYGL_PC_80_POOL=1965558283.20480.0000; JSESSIONID=B7B04B4E7D11E4A06AB523DC2BC835D5
+
+pId=AUT000000021&authLevel=1&state=3
+
+========================================
+
+GET /a_pe10/css/plugins/khgl/khxxgl.png HTTP/1.0
+Host: 11.10.0.75
+X-Forwarded-For: 11.10.40.14
+X-Forwardded-Host: 11.10.40.117
+X-Real-IP: 11.10.40.14
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://11.10.0.75/mweb/main.do
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: tellerName=153352; loginPhones=*******7900; loginPhone=*******7900; fingerType=03; GLOBALSESSIONID=B7B04B4E7D11E4A06AB523DC2BC835D5; BIGipServerQNY_YYGL_PC_80_POOL=1965558283.20480.0000; JSESSIONID=B7B04B4E7D11E4A06AB523DC2BC835D5
+If-Modified-Since: Wed, 19 Apr 2023 08:42:02 GMT
+
+========================================
+
+GET /a_pe10/css/plugins/khgl/khxxgl-dj.png HTTP/1.0
+Host: 11.10.0.75
+X-Forwarded-For: 11.10.40.6
+X-Forwardded-Host: 11.10.40.117
+X-Real-IP: 11.10.40.6
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://11.10.0.75/mweb/main.do
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: tellerName=153352; loginPhones=*******7900; loginPhone=*******7900; fingerType=03; GLOBALSESSIONID=B7B04B4E7D11E4A06AB523DC2BC835D5; BIGipServerQNY_YYGL_PC_80_POOL=1965558283.20480.0000; JSESSIONID=B7B04B4E7D11E4A06AB523DC2BC835D5
+If-Modified-Since: Wed, 19 Apr 2023 08:41:58 GMT
+
+========================================
+
+GET /a_pe10/css/plugins/pzgl/ywcs.png HTTP/1.0
+Host: 11.10.0.75
+X-Forwarded-For: 11.10.40.5
+X-Forwardded-Host: 11.10.40.117
+X-Real-IP: 11.10.40.5
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://11.10.0.75/mweb/main.do
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: tellerName=153352; loginPhones=*******7900; loginPhone=*******7900; fingerType=03; GLOBALSESSIONID=B7B04B4E7D11E4A06AB523DC2BC835D5; BIGipServerQNY_YYGL_PC_80_POOL=1965558283.20480.0000; JSESSIONID=B7B04B4E7D11E4A06AB523DC2BC835D5
+If-Modified-Since: Wed, 19 Apr 2023 08:41:58 GMT
+
+========================================
+
+GET /a_pe10/css/plugins/pzgl/ywcs-dj.png HTTP/1.0
+Host: 11.10.0.75
+X-Forwarded-For: 11.10.40.11
+X-Forwardded-Host: 11.10.40.117
+X-Real-IP: 11.10.40.11
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://11.10.0.75/mweb/main.do
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: tellerName=153352; loginPhones=*******7900; loginPhone=*******7900; fingerType=03; GLOBALSESSIONID=B7B04B4E7D11E4A06AB523DC2BC835D5; BIGipServerQNY_YYGL_PC_80_POOL=1965558283.20480.0000; JSESSIONID=B7B04B4E7D11E4A06AB523DC2BC835D5
+If-Modified-Since: Wed, 19 Apr 2023 08:42:02 GMT
+
+========================================
+
+GET /a_pe10/css/plugins/khgl/dtkhcx.png HTTP/1.0
+Host: 11.10.0.75
+X-Forwarded-For: 11.10.40.13
+X-Forwardded-Host: 11.10.40.117
+X-Real-IP: 11.10.40.13
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://11.10.0.75/mweb/main.do
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: tellerName=153352; loginPhones=*******7900; loginPhone=*******7900; fingerType=03; GLOBALSESSIONID=B7B04B4E7D11E4A06AB523DC2BC835D5; BIGipServerQNY_YYGL_PC_80_POOL=1965558283.20480.0000; JSESSIONID=B7B04B4E7D11E4A06AB523DC2BC835D5
+If-Modified-Since: Wed, 19 Apr 2023 08:41:52 GMT
+
+========================================
+
+GET /a_pe10/css/plugins/khgl/dtkhcx-dj.png HTTP/1.0
+Host: 11.10.0.75
+X-Forwarded-For: 11.10.40.14
+X-Forwardded-Host: 11.10.40.117
+X-Real-IP: 11.10.40.14
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://11.10.0.75/mweb/main.do
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: tellerName=153352; loginPhones=*******7900; loginPhone=*******7900; fingerType=03; GLOBALSESSIONID=B7B04B4E7D11E4A06AB523DC2BC835D5; BIGipServerQNY_YYGL_PC_80_POOL=1965558283.20480.0000; JSESSIONID=B7B04B4E7D11E4A06AB523DC2BC835D5
+If-Modified-Since: Wed, 19 Apr 2023 08:42:06 GMT
+
+========================================
+
+GET /a_pe10/css/plugins/khgl/rlsbjlcx.png HTTP/1.0
+Host: 11.10.0.75
+X-Forwarded-For: 11.10.40.14
+X-Forwardded-Host: 11.10.40.117
+X-Real-IP: 11.10.40.14
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://11.10.0.75/mweb/main.do
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: tellerName=153352; loginPhones=*******7900; loginPhone=*******7900; fingerType=03; GLOBALSESSIONID=B7B04B4E7D11E4A06AB523DC2BC835D5; BIGipServerQNY_YYGL_PC_80_POOL=1965558283.20480.0000; JSESSIONID=B7B04B4E7D11E4A06AB523DC2BC835D5
+If-Modified-Since: Wed, 19 Apr 2023 08:41:58 GMT
+
+========================================
+
+GET /a_pe10/css/plugins/pzgl/jcgl.png HTTP/1.0
+Host: 11.10.0.75
+X-Forwarded-For: 11.10.40.6
+X-Forwardded-Host: 11.10.40.117
+X-Real-IP: 11.10.40.6
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://11.10.0.75/mweb/main.do
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: tellerName=153352; loginPhones=*******7900; loginPhone=*******7900; fingerType=03; GLOBALSESSIONID=B7B04B4E7D11E4A06AB523DC2BC835D5; BIGipServerQNY_YYGL_PC_80_POOL=1965558283.20480.0000; JSESSIONID=B7B04B4E7D11E4A06AB523DC2BC835D5
+If-Modified-Since: Wed, 19 Apr 2023 08:42:04 GMT
+
+========================================
+
+GET /a_pe10/css/plugins/pzgl/zskgl.png HTTP/1.0
+Host: 11.10.0.75
+X-Forwarded-For: 11.10.40.5
+X-Forwardded-Host: 11.10.40.117
+X-Real-IP: 11.10.40.5
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://11.10.0.75/mweb/main.do
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: tellerName=153352; loginPhones=*******7900; loginPhone=*******7900; fingerType=03; GLOBALSESSIONID=B7B04B4E7D11E4A06AB523DC2BC835D5; BIGipServerQNY_YYGL_PC_80_POOL=1965558283.20480.0000; JSESSIONID=B7B04B4E7D11E4A06AB523DC2BC835D5
+If-Modified-Since: Wed, 19 Apr 2023 08:42:08 GMT
+
+========================================
+
+GET /a_pe10/css/plugins/yygl/yygl.png HTTP/1.0
+Host: 11.10.0.75
+X-Forwarded-For: 11.10.40.11
+X-Forwardded-Host: 11.10.40.117
+X-Real-IP: 11.10.40.11
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://11.10.0.75/mweb/main.do
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: tellerName=153352; loginPhones=*******7900; loginPhone=*******7900; fingerType=03; GLOBALSESSIONID=B7B04B4E7D11E4A06AB523DC2BC835D5; BIGipServerQNY_YYGL_PC_80_POOL=1965558283.20480.0000; JSESSIONID=B7B04B4E7D11E4A06AB523DC2BC835D5
+If-Modified-Since: Wed, 19 Apr 2023 08:42:04 GMT
+
+========================================
+
+GET /a_pe10/css/plugins/khgl/rlsbjlcx-dj.png HTTP/1.0
+Host: 11.10.0.75
+X-Forwarded-For: 11.10.40.14
+X-Forwardded-Host: 11.10.40.117
+X-Real-IP: 11.10.40.14
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://11.10.0.75/mweb/main.do
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: tellerName=153352; loginPhones=*******7900; loginPhone=*******7900; fingerType=03; GLOBALSESSIONID=B7B04B4E7D11E4A06AB523DC2BC835D5; BIGipServerQNY_YYGL_PC_80_POOL=1965558283.20480.0000; JSESSIONID=B7B04B4E7D11E4A06AB523DC2BC835D5
+If-Modified-Since: Wed, 19 Apr 2023 08:42:02 GMT
+
+========================================
+
+GET /a_pe10/css/plugins/pzgl/zskgl-dj.png HTTP/1.0
+Host: 11.10.0.75
+X-Forwarded-For: 11.10.40.13
+X-Forwardded-Host: 11.10.40.117
+X-Real-IP: 11.10.40.13
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://11.10.0.75/mweb/main.do
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: tellerName=153352; loginPhones=*******7900; loginPhone=*******7900; fingerType=03; GLOBALSESSIONID=B7B04B4E7D11E4A06AB523DC2BC835D5; BIGipServerQNY_YYGL_PC_80_POOL=1965558283.20480.0000; JSESSIONID=B7B04B4E7D11E4A06AB523DC2BC835D5
+If-Modified-Since: Wed, 19 Apr 2023 08:41:54 GMT
+
+========================================
+
+GET /a_pe10/css/plugins/yygl/yygl-dj.png HTTP/1.0
+Host: 11.10.0.75
+X-Forwarded-For: 11.10.40.14
+X-Forwardded-Host: 11.10.40.117
+X-Real-IP: 11.10.40.14
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://11.10.0.75/mweb/main.do
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: tellerName=153352; loginPhones=*******7900; loginPhone=*******7900; fingerType=03; GLOBALSESSIONID=B7B04B4E7D11E4A06AB523DC2BC835D5; BIGipServerQNY_YYGL_PC_80_POOL=1965558283.20480.0000; JSESSIONID=B7B04B4E7D11E4A06AB523DC2BC835D5
+If-Modified-Since: Wed, 19 Apr 2023 08:42:06 GMT
+
+========================================
+
+GET /a_pe10/css/plugins/pzgl/jcgl-dj.png HTTP/1.0
+Host: 11.10.0.75
+X-Forwarded-For: 11.10.40.11
+X-Forwardded-Host: 11.10.40.117
+X-Real-IP: 11.10.40.11
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://11.10.0.75/mweb/main.do
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: tellerName=153352; loginPhones=*******7900; loginPhone=*******7900; fingerType=03; GLOBALSESSIONID=B7B04B4E7D11E4A06AB523DC2BC835D5; BIGipServerQNY_YYGL_PC_80_POOL=1965558283.20480.0000; JSESSIONID=B7B04B4E7D11E4A06AB523DC2BC835D5
+If-Modified-Since: Wed, 19 Apr 2023 08:42:08 GMT
+
+========================================
+
+POST /AddCustTagDelete.do HTTP/1.0
+Host: 11.10.0.75
+X-Forwarded-For: 11.10.40.11
+X-Forwardded-Host: 11.10.40.117
+X-Real-IP: 11.10.40.11
+Connection: close
+Content-Length: 47
+Origin: http://11.10.0.75
+PE-ENCODING: UTF-8
+PE-AJAX: true
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Referer: http://11.10.0.75/mweb/AddCustTagPre.do?authNo=AUT000000643&trsUrl=AddCustTagPre.do&tab_menu_name=%E6%B7%BB%E5%8A%A0%E5%AE%A2%E6%88%B7%E5%AD%90%E6%A0%87%E7%AD%BE
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: tellerName=197496; loginPhones=*******4316; loginPhone=*******4316; GLOBALSESSIONID=023108391064D778FEC98BC6097BF19E; BIGipServerQNY_YYGL_PC_80_POOL=1965558283.20480.0000; JSESSIONID=023108391064D778FEC98BC6097BF19E
+
+idCardNo=522127199708237522&instNo=INS000000606
+
+========================================
+
+POST /login.do HTTP/1.0
+Host: 11.10.0.75
+X-Forwarded-For: 11.10.40.12
+X-Forwardded-Host: 11.10.40.117
+X-Real-IP: 11.10.40.12
+Connection: close
+Content-Length: 473
+Origin: http://11.10.0.75
+PE-ENCODING: UTF-8
+PE-AJAX: true
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Referer: http://11.10.0.75/mweb/prelogin.do
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: fingerType=03; tellerName=183747; loginPhone=*******1995; loginPhones=*******1995; GLOBALSESSIONID=966D3B17AAA16AD4B0FCBC4A22E725F4; JSESSIONID=966D3B17AAA16AD4B0FCBC4A22E725F4; BIGipServerQNY_YYGL_PC_80_POOL=1965558283.20480.0000
+
+_locale=zh_CN&BankId=9999&TellerId=183747&fingerTellerId=183747&Scene=15&userLoginSms=900242&CheckSmsPassword=900242&Password=0152DPGUHUTg8q62DrcXbvxQn9cjz%2FVpZUhlQ9xvv4gWce3XYSd%2BDLk9ipv1qw2wYOewPKHSaDKluu21ZHh%2F0%2BusXo5E9GUdJTYSwRUyMUEG3JK5nIgJ5q3YsRynUn%2BnuJeoH0Bi84HTl3xM7%2BJs8iVI0w%3D%3DoxTHTQ70kMPMK0VZ8lshvfyjkcYm3giDwBkiB6JTPL3K%2BSJkDYX8VgQzgCXgpAbfWwHb29dLMRjMd5Vhsh1Qrq2UFJYb7ZTC5%2BSAL38nsZLuCjDvf71YC6VA8ixOvo3ufIAV8YkpfGoXHqEI%2B8jZyw%3D%3D&loginType=01
+
+========================================
+
+POST /main.do HTTP/1.0
+Host: 11.10.0.75
+X-Forwarded-For: 11.10.40.6
+X-Forwardded-Host: 11.10.40.117
+X-Real-IP: 11.10.40.6
+Connection: close
+Content-Length: 36
+Accept: application/json, text/javascript, */*; q=0.01
+Origin: http://11.10.0.75
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: http://11.10.0.75/mweb/main.do
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: tellerName=117450; loginPhones=*******2677; loginPhone=*******2677; GLOBALSESSIONID=43F3725606D09043078EF854E6BB1F5D; BIGipServerQNY_YYGL_PC_80_POOL=1965558283.20480.0000; JSESSIONID=43F3725606D09043078EF854E6BB1F5D
+
+pId=AUT000000021&authLevel=1&state=3
+
+========================================
+
+GET /prelogin.do HTTP/1.0
+Host: 11.10.0.75
+X-Forwarded-For: 11.10.40.6
+X-Forwardded-Host: 11.10.40.117
+X-Real-IP: 11.10.40.6
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Referer: http://11.10.0.75/mweb/main.do
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: tellerName=117450; loginPhones=*******2677; loginPhone=*******2677; GLOBALSESSIONID=B517BBDE7D038F15F65B0C533B0EA3E8; BIGipServerQNY_YYGL_PC_80_POOL=1965558283.20480.0000; JSESSIONID=B517BBDE7D038F15F65B0C533B0EA3E8
+
+========================================
+
+GET /script.do HTTP/1.0
+Host: 11.10.0.75
+X-Forwarded-For: 11.10.40.6
+X-Forwardded-Host: 11.10.40.117
+X-Real-IP: 11.10.40.6
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+Accept: */*
+Referer: http://11.10.0.75/mweb/prelogin.do
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: tellerName=117450; loginPhones=*******2677; loginPhone=*******2677; GLOBALSESSIONID=B517BBDE7D038F15F65B0C533B0EA3E8; BIGipServerQNY_YYGL_PC_80_POOL=1965558283.20480.0000; JSESSIONID=B517BBDE7D038F15F65B0C533B0EA3E8
+
+========================================
+
+GET /main.do HTTP/1.0
+Host: 11.10.0.75
+X-Forwarded-For: 11.10.40.12
+X-Forwardded-Host: 11.10.40.117
+X-Real-IP: 11.10.40.12
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Referer: http://11.10.0.75/mweb/prelogin.do
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: fingerType=03; tellerName=183747; loginPhone=*******1995; loginPhones=*******1995; GLOBALSESSIONID=7ECDCB74831F30694F4BA161E36DEF65; BIGipServerQNY_YYGL_PC_80_POOL=1965558283.20480.0000; JSESSIONID=7ECDCB74831F30694F4BA161E36DEF65
+
+========================================
+
+GET /CountNoAudit.do?authNo=AUT000002002 HTTP/1.0
+Host: 11.10.0.75
+X-Forwarded-For: 11.10.40.12
+X-Forwardded-Host: 11.10.40.117
+X-Real-IP: 11.10.40.12
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Referer: http://11.10.0.75/mweb/main.do
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: fingerType=03; tellerName=183747; loginPhone=*******1995; loginPhones=*******1995; GLOBALSESSIONID=7ECDCB74831F30694F4BA161E36DEF65; BIGipServerQNY_YYGL_PC_80_POOL=1965558283.20480.0000; JSESSIONID=7ECDCB74831F30694F4BA161E36DEF65
+
+========================================
+
+POST /login.do HTTP/1.0
+Host: 11.10.0.75
+X-Forwarded-For: 11.10.40.10
+X-Forwardded-Host: 11.10.40.118
+X-Real-IP: 11.10.40.10
+Connection: close
+Content-Length: 479
+Origin: http://11.10.0.75
+PE-ENCODING: UTF-8
+PE-AJAX: true
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Referer: http://11.10.0.75/mweb/prelogin.do
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: tellerName=142092; loginPhones=*******0116; loginPhone=*******0116; GLOBALSESSIONID=18BFAF3D393C9796D85D1502E82551FA; JSESSIONID=18BFAF3D393C9796D85D1502E82551FA; BIGipServerQNY_YYGL_PC_80_POOL=1982335499.20480.0000
+
+_locale=zh_CN&BankId=9999&TellerId=142092&fingerTellerId=142092&Scene=15&userLoginSms=342290&CheckSmsPassword=342290&Password=0152i%2Fx9ZXp%2FlNOBG31zDdr%2FHfNfHt1Klk0hyTwtWAAjnKKWLpC%2F3vSpPPZj4FUEZ90tQqTyXXxPAMfwbQzyxVE0YKmeWNovJ2d9VgnCyrsPpjiMd3I87CJwBrcl5QwZFIjHDBfd%2B58Pb6hcAlJkhYmSWA%3D%3Dxc8ehEYwuvQYeKrf%2Fy18G5iMFj6QvNG%2FDzQyqbxhZNUQWqUVcNxu9sbJzMwZjcq2o47%2BeSaQ0me2vSQLK81kYRRg9Dze9%2F0D%2FvVfUAq4%2BgwadrmiX8On89GxHjdVCOwPo2OlpwlZgkdBZP%2BbXmTPMw%3D%3D&loginType=01
+
+========================================
+
+POST /main.do HTTP/1.0
+Host: 11.10.0.75
+X-Forwarded-For: 11.10.40.12
+X-Forwardded-Host: 11.10.40.117
+X-Real-IP: 11.10.40.12
+Connection: close
+Content-Length: 36
+Accept: application/json, text/javascript, */*; q=0.01
+Origin: http://11.10.0.75
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: http://11.10.0.75/mweb/main.do
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: fingerType=03; tellerName=183747; loginPhone=*******1995; loginPhones=*******1995; GLOBALSESSIONID=7ECDCB74831F30694F4BA161E36DEF65; BIGipServerQNY_YYGL_PC_80_POOL=1965558283.20480.0000; JSESSIONID=7ECDCB74831F30694F4BA161E36DEF65
+
+pId=AUT000002001&authLevel=1&state=3
+
+========================================
+
+POST /CountNoAudit.do HTTP/1.0
+Host: 11.10.0.75
+X-Forwarded-For: 11.10.40.13
+X-Forwardded-Host: 11.10.40.117
+X-Real-IP: 11.10.40.13
+Connection: close
+Content-Length: 10
+Accept: application/json, text/javascript, */*; q=0.01
+Origin: http://11.10.0.75
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: http://11.10.0.75/mweb/CountNoAudit.do?authNo=AUT000002002
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: fingerType=03; tellerName=183747; loginPhone=*******1995; loginPhones=*******1995; GLOBALSESSIONID=7ECDCB74831F30694F4BA161E36DEF65; BIGipServerQNY_YYGL_PC_80_POOL=1965558283.20480.0000; JSESSIONID=7ECDCB74831F30694F4BA161E36DEF65
+
+jsonData=1
+
+========================================
+
+GET /main.do HTTP/1.0
+Host: 11.10.0.75
+X-Forwarded-For: 11.10.40.10
+X-Forwardded-Host: 11.10.40.118
+X-Real-IP: 11.10.40.10
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Referer: http://11.10.0.75/mweb/prelogin.do
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: tellerName=142092; loginPhones=*******0116; loginPhone=*******0116; GLOBALSESSIONID=DA190057201634D8CDB566E4860CCF89; BIGipServerQNY_YYGL_PC_80_POOL=1982335499.20480.0000; JSESSIONID=DA190057201634D8CDB566E4860CCF89
+
+========================================
+
+GET /customerDetailsQryPre.do?customerNo=1053922312&isUpdateFace=1&sourceId=AUT000000512&sourceUrl=singleCustomerQryPre.do&sourceName=%E5%8D%95%E6%9D%A1%E5%AE%A2%E6%88%B7%E6%9F%A5%E8%AF%A2&authNo=customerDetailsQryPre&trsUrl=customerDetailsQryPre.do&tab_menu_name=%E5%AE%A2%E6%88%B7%E8%AF%A6%E6%83%85 HTTP/1.0
+Host: 11.10.0.75
+X-Forwarded-For: 11.10.40.7
+X-Forwardded-Host: 11.10.40.117
+X-Real-IP: 11.10.40.7
+Connection: close
+Accept: text/html, application/xhtml+xml, image/jxr, */*
+Referer: http://11.10.0.75/mweb/main.do
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.5
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Cookie: tellerName=128248; loginPhones=*******3177; loginPhone=*******3177; GLOBALSESSIONID=BD8D0A8D0E80D6622B58A901E99C8384; BIGipServerQNY_YYGL_PC_80_POOL=1965558283.20480.0000; JSESSIONID=BD8D0A8D0E80D6622B58A901E99C8384
+
+========================================
+
+POST /AddCustTagPre.do HTTP/1.0
+Host: 11.10.0.75
+X-Forwarded-For: 11.10.40.11
+X-Forwardded-Host: 11.10.40.117
+X-Real-IP: 11.10.40.11
+Connection: close
+Content-Length: 116
+Origin: http://11.10.0.75
+PE-ENCODING: UTF-8
+PE-AJAX: true
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Referer: http://11.10.0.75/mweb/AddCustTagPre.do?authNo=AUT000000643&trsUrl=AddCustTagPre.do&tab_menu_name=%E6%B7%BB%E5%8A%A0%E5%AE%A2%E6%88%B7%E5%AD%90%E6%A0%87%E7%AD%BE
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: tellerName=197496; loginPhones=*******4316; loginPhone=*******4316; GLOBALSESSIONID=023108391064D778FEC98BC6097BF19E; BIGipServerQNY_YYGL_PC_80_POOL=1965558283.20480.0000; JSESSIONID=023108391064D778FEC98BC6097BF19E
+
+SubBranch4=&SubBranch3=&SubBranch2=&SubBranch1=&SubBranch0=&isOriginal=&Level=&idCardNo=&name=&phone=&currentIndex=0
+
+========================================
+
+GET /CountNoAudit.do?authNo=AUT000002002 HTTP/1.0
+Host: 11.10.0.75
+X-Forwarded-For: 11.10.40.10
+X-Forwardded-Host: 11.10.40.118
+X-Real-IP: 11.10.40.10
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Referer: http://11.10.0.75/mweb/main.do
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: tellerName=142092; loginPhones=*******0116; loginPhone=*******0116; GLOBALSESSIONID=DA190057201634D8CDB566E4860CCF89; BIGipServerQNY_YYGL_PC_80_POOL=1982335499.20480.0000; JSESSIONID=DA190057201634D8CDB566E4860CCF89
+
+========================================
+
+POST /AddCustTagList.do HTTP/1.0
+Host: 11.10.0.75
+X-Forwarded-For: 11.10.40.11
+X-Forwardded-Host: 11.10.40.117
+X-Real-IP: 11.10.40.11
+Connection: close
+Content-Length: 94
+Origin: http://11.10.0.75
+PE-ENCODING: UTF-8
+PE-AJAX: true
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Referer: http://11.10.0.75/mweb/AddCustTagPre.do?authNo=AUT000000643&trsUrl=AddCustTagPre.do&tab_menu_name=%E6%B7%BB%E5%8A%A0%E5%AE%A2%E6%88%B7%E5%AD%90%E6%A0%87%E7%AD%BE
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: tellerName=197496; loginPhones=*******4316; loginPhone=*******4316; GLOBALSESSIONID=023108391064D778FEC98BC6097BF19E; BIGipServerQNY_YYGL_PC_80_POOL=1965558283.20480.0000; JSESSIONID=023108391064D778FEC98BC6097BF19E
+
+SubBranch4=&SubBranch3=&SubBranch2=&SubBranch1=&SubBranch0=&isOriginal=0&Level=&currentIndex=0
+
+========================================
+
+POST /main.do HTTP/1.0
+Host: 11.10.0.75
+X-Forwarded-For: 11.10.40.10
+X-Forwardded-Host: 11.10.40.118
+X-Real-IP: 11.10.40.10
+Connection: close
+Content-Length: 36
+Accept: application/json, text/javascript, */*; q=0.01
+Origin: http://11.10.0.75
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: http://11.10.0.75/mweb/main.do
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: tellerName=142092; loginPhones=*******0116; loginPhone=*******0116; GLOBALSESSIONID=DA190057201634D8CDB566E4860CCF89; BIGipServerQNY_YYGL_PC_80_POOL=1982335499.20480.0000; JSESSIONID=DA190057201634D8CDB566E4860CCF89
+
+pId=AUT000002001&authLevel=1&state=3
+
+========================================
+
+GET /images/delete_img.png HTTP/1.0
+Host: 11.10.0.75
+X-Forwarded-For: 11.10.40.7
+X-Forwardded-Host: 11.10.40.117
+X-Real-IP: 11.10.40.7
+Connection: close
+Accept: image/png, image/svg+xml, image/jxr, image/*;q=0.8, */*;q=0.5
+Referer: http://11.10.0.75/mweb/customerDetailsQryPre.do?customerNo=1053922312&isUpdateFace=1&sourceId=AUT000000512&sourceUrl=singleCustomerQryPre.do&sourceName=%E5%8D%95%E6%9D%A1%E5%AE%A2%E6%88%B7%E6%9F%A5%E8%AF%A2&authNo=customerDetailsQryPre&trsUrl=customerDetailsQryPre.do&tab_menu_name=%E5%AE%A2%E6%88%B7%E8%AF%A6%E6%83%85
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.5
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Cookie: tellerName=128248; loginPhones=*******3177; loginPhone=*******3177; GLOBALSESSIONID=BD8D0A8D0E80D6622B58A901E99C8384; BIGipServerQNY_YYGL_PC_80_POOL=1965558283.20480.0000; JSESSIONID=BD8D0A8D0E80D6622B58A901E99C8384
+
+========================================
+
+POST /CountNoAudit.do HTTP/1.0
+Host: 11.10.0.75
+X-Forwarded-For: 11.10.40.13
+X-Forwardded-Host: 11.10.40.118
+X-Real-IP: 11.10.40.13
+Connection: close
+Content-Length: 10
+Accept: application/json, text/javascript, */*; q=0.01
+Origin: http://11.10.0.75
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: http://11.10.0.75/mweb/CountNoAudit.do?authNo=AUT000002002
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: tellerName=142092; loginPhones=*******0116; loginPhone=*******0116; GLOBALSESSIONID=DA190057201634D8CDB566E4860CCF89; BIGipServerQNY_YYGL_PC_80_POOL=1982335499.20480.0000; JSESSIONID=DA190057201634D8CDB566E4860CCF89
+
+jsonData=1
+
+========================================
+
+POST /MEloanInfoQryList.do HTTP/1.0
+Host: 11.10.0.75
+X-Forwarded-For: 11.10.40.8
+X-Forwardded-Host: 11.10.40.118
+X-Real-IP: 11.10.40.8
+Connection: close
+Content-Length: 181
+PE-ENCODING: UTF-8
+PE-AJAX: true
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Origin: http://11.10.0.75
+Referer: http://11.10.0.75/mweb/MEloanInfoQryPre.do?authNo=AUT000000636&trsUrl=MEloanInfoQryPre.do&tab_menu_name=%E5%AE%A2%E6%88%B7e%E8%B4%B7%E4%BF%A1%E6%81%AF%E6%9F%A5%E8%AF%A2
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: tellerName=101998; loginPhone=*******6926; loginPhones=*******6926; GLOBALSESSIONID=E6611473990CC9CFE8105CD94CA1C50D; BIGipServerQNY_YYGL_PC_80_POOL=1982335499.20480.0000; JSESSIONID=E6611473990CC9CFE8105CD94CA1C50D
+
+SubBranch4=0&SubBranch3=0&SubBranch2=&SubBranch1=&SubBranch0=&Level=4&CustNo=&CustName=&CustPhone=&CustCardNo=522321199509165514&cmName=&cmStaffNo=&cmPhone=&custType=&eloanCustFlag=
+
+========================================
+
+POST /QueryCustTypeLabel.do HTTP/1.0
+Host: 11.10.0.75
+X-Forwarded-For: 11.10.40.13
+X-Forwardded-Host: 11.10.40.117
+X-Real-IP: 11.10.40.13
+Connection: close
+Content-Length: 27
+Origin: http://11.10.0.75
+PE-ENCODING: UTF-8
+PE-AJAX: true
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Referer: http://11.10.0.75/mweb/AddCustTagPre.do?authNo=AUT000000643&trsUrl=AddCustTagPre.do&tab_menu_name=%E6%B7%BB%E5%8A%A0%E5%AE%A2%E6%88%B7%E5%AD%90%E6%A0%87%E7%AD%BE
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: fingerType=02; tellerName=115517; loginPhones=*******4565; loginPhone=*******4565; GLOBALSESSIONID=B5BBC7D429AFA22BA6490C6B69EF99FB; BIGipServerQNY_YYGL_PC_80_POOL=1965558283.20480.0000; JSESSIONID=B5BBC7D429AFA22BA6490C6B69EF99FB
+
+idCardNo=522328197506273718
+
+========================================
+
+POST /QueryCustTypeSubLabelSet.do HTTP/1.0
+Host: 11.10.0.75
+X-Forwarded-For: 11.10.40.13
+X-Forwardded-Host: 11.10.40.117
+X-Real-IP: 11.10.40.13
+Connection: close
+Content-Length: 9
+Origin: http://11.10.0.75
+PE-ENCODING: UTF-8
+PE-AJAX: true
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Referer: http://11.10.0.75/mweb/AddCustTagPre.do?authNo=AUT000000643&trsUrl=AddCustTagPre.do&tab_menu_name=%E6%B7%BB%E5%8A%A0%E5%AE%A2%E6%88%B7%E5%AD%90%E6%A0%87%E7%AD%BE
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: fingerType=02; tellerName=115517; loginPhones=*******4565; loginPhone=*******4565; GLOBALSESSIONID=B5BBC7D429AFA22BA6490C6B69EF99FB; BIGipServerQNY_YYGL_PC_80_POOL=1965558283.20480.0000; JSESSIONID=B5BBC7D429AFA22BA6490C6B69EF99FB
+
+objNo=201
+
+========================================
+
+POST /QueryUserInfo.do HTTP/1.0
+Host: 11.10.0.75
+X-Forwarded-For: 11.10.40.10
+X-Forwardded-Host: 11.10.40.118
+X-Real-IP: 11.10.40.10
+Connection: close
+Content-Length: 49
+Origin: http://11.10.0.75
+PE-ENCODING: UTF-8
+PE-AJAX: true
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Referer: http://11.10.0.75/mweb/prelogin.do
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: loginPhone=*******1798; loginPhones=*******1798; tellerName=133321; GLOBALSESSIONID=EF0E41D622F4B098AD9D5EF331DA206D; JSESSIONID=EF0E41D622F4B098AD9D5EF331DA206D; BIGipServerQNY_YYGL_PC_80_POOL=1982335499.20480.0000
+
+BankId=9999&EmployeeNo=123208&type=1&loginType=02
+
+========================================
+
+GET /a_pe10/css/plugins/edgl/edkhgl.png HTTP/1.0
+Host: 11.10.0.75
+X-Forwarded-For: 11.10.40.12
+X-Forwardded-Host: 11.10.40.117
+X-Real-IP: 11.10.40.12
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://11.10.0.75/mweb/main.do
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: tellerName=153352; loginPhones=*******7900; loginPhone=*******7900; fingerType=03; GLOBALSESSIONID=B7B04B4E7D11E4A06AB523DC2BC835D5; BIGipServerQNY_YYGL_PC_80_POOL=1965558283.20480.0000; JSESSIONID=B7B04B4E7D11E4A06AB523DC2BC835D5
+If-Modified-Since: Wed, 19 Apr 2023 08:41:56 GMT
+
+========================================
+
+GET /a_pe10/css/plugins/edgl/edkhgl-dj.png HTTP/1.0
+Host: 11.10.0.75
+X-Forwarded-For: 11.10.40.8
+X-Forwardded-Host: 11.10.40.117
+X-Real-IP: 11.10.40.8
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://11.10.0.75/mweb/main.do
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: tellerName=153352; loginPhones=*******7900; loginPhone=*******7900; fingerType=03; GLOBALSESSIONID=B7B04B4E7D11E4A06AB523DC2BC835D5; BIGipServerQNY_YYGL_PC_80_POOL=1965558283.20480.0000; JSESSIONID=B7B04B4E7D11E4A06AB523DC2BC835D5
+If-Modified-Since: Wed, 19 Apr 2023 08:42:04 GMT
+
+========================================
+
+GET /a_pe10/css/plugins/edgl/sxgl.png HTTP/1.0
+Host: 11.10.0.75
+X-Forwarded-For: 11.10.40.10
+X-Forwardded-Host: 11.10.40.117
+X-Real-IP: 11.10.40.10
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://11.10.0.75/mweb/main.do
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: tellerName=153352; loginPhones=*******7900; loginPhone=*******7900; fingerType=03; GLOBALSESSIONID=B7B04B4E7D11E4A06AB523DC2BC835D5; BIGipServerQNY_YYGL_PC_80_POOL=1965558283.20480.0000; JSESSIONID=B7B04B4E7D11E4A06AB523DC2BC835D5
+If-Modified-Since: Wed, 19 Apr 2023 08:42:04 GMT
+
+========================================
+
+GET /a_pe10/css/plugins/edgl/sxgl-dj.png HTTP/1.0
+Host: 11.10.0.75
+X-Forwarded-For: 11.10.40.12
+X-Forwardded-Host: 11.10.40.117
+X-Real-IP: 11.10.40.12
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://11.10.0.75/mweb/main.do
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: tellerName=153352; loginPhones=*******7900; loginPhone=*******7900; fingerType=03; GLOBALSESSIONID=B7B04B4E7D11E4A06AB523DC2BC835D5; BIGipServerQNY_YYGL_PC_80_POOL=1965558283.20480.0000; JSESSIONID=B7B04B4E7D11E4A06AB523DC2BC835D5
+If-Modified-Since: Wed, 19 Apr 2023 08:41:58 GMT
+
+========================================
+
+GET /a_pe10/css/plugins/edgl/llgl.png HTTP/1.0
+Host: 11.10.0.75
+X-Forwarded-For: 11.10.40.14
+X-Forwardded-Host: 11.10.40.117
+X-Real-IP: 11.10.40.14
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://11.10.0.75/mweb/main.do
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: tellerName=153352; loginPhones=*******7900; loginPhone=*******7900; fingerType=03; GLOBALSESSIONID=B7B04B4E7D11E4A06AB523DC2BC835D5; BIGipServerQNY_YYGL_PC_80_POOL=1965558283.20480.0000; JSESSIONID=B7B04B4E7D11E4A06AB523DC2BC835D5
+If-Modified-Since: Wed, 19 Apr 2023 08:41:54 GMT
+
+========================================
+
+GET /a_pe10/css/plugins/edgl/llgl-dj.png HTTP/1.0
+Host: 11.10.0.75
+X-Forwarded-For: 11.10.40.7
+X-Forwardded-Host: 11.10.40.117
+X-Real-IP: 11.10.40.7
+Connection: close
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://11.10.0.75/mweb/main.do
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: tellerName=153352; loginPhones=*******7900; loginPhone=*******7900; fingerType=03; GLOBALSESSIONID=B7B04B4E7D11E4A06AB523DC2BC835D5; BIGipServerQNY_YYGL_PC_80_POOL=1965558283.20480.0000; JSESSIONID=B7B04B4E7D11E4A06AB523DC2BC835D5
+If-Modified-Since: Wed, 19 Apr 2023 08:42:02 GMT

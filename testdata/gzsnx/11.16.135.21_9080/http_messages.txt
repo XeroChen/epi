@@ -1,0 +1,23 @@
+POST /gateway/query HTTP/1.1
+Accept: text/xml,text/javascript,text/html
+User-Agent: aop-sdk-java
+Content-Type: application/x-www-form-urlencoded;charset=UTF-8
+Transfer-Encoding: chunked
+Host: 11.16.135.21:9080
+Connection: Keep-Alive
+Accept-Encoding: gzip
+
+charset=UTF-8&mer_no=SH3090000000009&sec_mer_no=SH3090000000009&format=json&sign=6WsiAi7agqVmzoszYOiei3VqenKAjcuX4wW7R1z%2FlqNTDPeJ72VXeXVpT6Uk6dHJMzhGg7sLamI5SW5fOjoYOpX%2FkqQt5s%2Ft0JCMCaIAhIYlfMHKdtyc3T7Te1IrJAHxsS5ijnC%2BZatpAiKn5PpTb1nksgWQFHnVuBuEl5MLyj2OKF9Z7WBF2f292q2A36%2BNUFUYHS7KryK7PrMZS897S9GO54J01jX8leNRwots89Qf6rto3OPwg3GIE5m2g64CBzWb5ZDzikc6Mjl2EJRWMGG%2FTSo83NWN19XQr%2BwKxi09WfIwOup8aUkL6Nr1K4yee39vLCXwE1izzUzEiax7IQ%3D%3D&app_no=81788980201911059999999&sign_type=RSA&version=2.0&mer_order_no=SIIP2520230524638467065408&timestamp=2023-05-24+14%3A20%3A53&token=LKtP3OABFAK7otQNZzRDL%2F08Ccrcbn3pj9LRe1%2FJRsLuEHsspi46xPaU2dVHVo1TGeuAcaaqoHWJSghUiJgop%2FofITUTCRM3uho%2FXc3gqzzl%2Bq3F9gk8RwR25TTgFosuPCfP9lOuxYhFZzOSVvzRjvs0ObfOjosCLemoQE%2FoAJGUKarhBIT7N5lD6I17t4JTVgLKDPI04anQyURSE5hzpRFs3c1tbf5e0X%2BCIs5fwSP8dQNwiQ1f4b2q%2FzBGMUgDiNYQFRIncL7fazWjslR%2BJ%2Fylo%2BqEq9iQwC6sqeXCY2V3aBsg7jHd%2Buyt6RM1s%2Fbw%2BGvAKFCHQNEj%2B%2FPaGiXwhg%3D%3D
+
+========================================
+
+POST /gateway/query HTTP/1.1
+Accept: text/xml,text/javascript,text/html
+User-Agent: aop-sdk-java
+Content-Type: application/x-www-form-urlencoded;charset=UTF-8
+Transfer-Encoding: chunked
+Host: 11.16.135.21:9080
+Connection: Keep-Alive
+Accept-Encoding: gzip
+
+charset=UTF-8&mer_no=SH3090000000009&sec_mer_no=SH3090000000009&format=json&sign=4Ngc57sTd1C%2FAEhEryH9iDDbll6NnE1FTNXJXUH9V%2Bs8c33rjtghI5I8SuiHIX4%2FYPiXyLC0ZtaY9elEtRSWqGePB9g9i9VQKXO3HemtdbMa3%2B7OJ5Wmhym1rB2gQjIQSnPYgmnF5uoY4tRdh5wRxK69W2ByfiU9CGEStd7YY%2BkNXJwovDkIT7KWwAPvlP6xGG7322jT%2BodqEHLA6Z%2B%2B9krUclXclShLcov7YlSQFl%2F7xq%2BMue29O%2FFjnLRchSnmYaVzww6oJWk3YU6PFwL4zajAb5eb5mnZtx6O7Z2VgA6Uu6UmL0Wtdhk61Gu8KTWMdkc8LwX3jdd7ipghYIOkkA%3D%3D&app_no=81788980201911059999999&sign_type=RSA&version=2.0&mer_order_no=SIIP3320230524639693211713&timestamp=2023-05-24+14%3A20%3A56&token=ZYH6mCq7k%2Fvt%2BZneF10mrtyAewWKQp0v6XJMIqqAWTbl8FOMSovjSNmDNH5XOtWALZv94uCJXqPFD3X1RMGf1eFrfr1z3Evq92kPoiC9rW%2BcAFt2SBSl%2BEyEiXLvNoNFCFVw6hJmF2sqlwXMHf4ZHdzLjINmHkUeDqjsp6NeG%2FRTuTcR3OpiAtmxBjfaq2Z6KPSmWe2YOwfwZbwrYLgtbgPpeYJEXqW5vkypEs%2B%2Ffn86IzjbUisY2ehm4sFBMI0DG8SWeL%2Fo5wnkbzP62pmtyLQXkPb9w1vHrClVtTFa7HU95Pn%2BbfzQYdscaE%2BiVL7Q5msj5QWepwEA1IC2PRPFgw%3D%3D

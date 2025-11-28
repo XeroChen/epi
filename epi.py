@@ -8,6 +8,7 @@ import re
 
 # Import from our generalizer package
 from generalizer import AdaptiveGeneralizer, DrainGeneralizer
+from pcap_parser import PcapParser
 
 # Global generalizer instances - will be set in main()
 generalizer = None
@@ -99,6 +100,24 @@ def load_http_messages_from_file(filepath):
     
     return requests
 
+def load_http_messages_from_pcap(filepath):
+    """Load and parse HTTP messages from a pcap/pcapng file."""
+    requests = []
+    
+    try:
+        parser = PcapParser(verbose=False)
+        raw_messages = parser.parse_file(filepath)
+        
+        for message in raw_messages:
+            parsed = parse_http_message(message)
+            if parsed and parsed['method'] and parsed['url'] and parsed['host']:
+                requests.append(parsed)
+    
+    except Exception as e:
+        print(f"Error loading HTTP messages from pcap {filepath}: {e}")
+    
+    return requests
+
 def load_http_messages_from_input(input_file, use_testdata=False):
     """Load HTTP messages from input file or testdata if specified."""
     all_requests = []
@@ -107,7 +126,12 @@ def load_http_messages_from_input(input_file, use_testdata=False):
         # Load from specified file
         print(f"Loading HTTP messages from: {input_file}")
         if os.path.exists(input_file):
-            requests = load_http_messages_from_file(input_file)
+            # Check file extension to determine parser
+            _, ext = os.path.splitext(input_file.lower())
+            if ext in ('.pcap', '.pcapng'):
+                requests = load_http_messages_from_pcap(input_file)
+            else:
+                requests = load_http_messages_from_file(input_file)
             all_requests.extend(requests)
             print(f"Loaded {len(requests)} HTTP messages from {input_file}")
         else:
@@ -151,6 +175,7 @@ Examples:
   %(prog)s --help                    # Show this help message
   %(prog)s --testdata                # Process all testdata files with adaptive generalization
   %(prog)s -if data.txt              # Read from custom file
+  %(prog)s -if capture.pcap          # Read from pcap file
   %(prog)s --testdata --drain3-only  # Use only Drain3 templates with testdata
   %(prog)s --testdata --drain3-similarity 0.2   # More sensitive Drain3 clustering
   %(prog)s --testdata -out json      # Output testdata results in JSON format
@@ -160,7 +185,7 @@ Examples:
     )
     
     parser.add_argument('-if', '--input-file', dest='input_file',
-                      help='Input file containing HTTP messages')
+                      help='Input file containing HTTP messages (.txt) or packet capture (.pcap, .pcapng)')
     
     parser.add_argument('--testdata', action='store_true',
                       help='Process all testdata files (testdata/**/*.txt)')
@@ -175,8 +200,8 @@ Examples:
     parser.add_argument('--drain3-only', dest='drain3_only', action='store_true',
                       help='Use only Drain3 for generalization (disable adaptive patterns like JWT, Base64, regex masks)')
     
-    parser.add_argument('--drain3-similarity', dest='drain3_similarity', type=float, default=0.3,
-                      help='Drain3 similarity threshold (0.0-1.0, lower = more sensitive clustering, default: 0.3)')
+    parser.add_argument('--drain3-similarity', dest='drain3_similarity', type=float, default=0.8,
+                      help='Drain3 similarity threshold (0.0-1.0, lower = more sensitive clustering, default: 0.8)')
     
     parser.add_argument('--drain3-depth', dest='drain3_depth', type=int, default=5,
                       help='Drain3 tree depth (default: 5)')

@@ -6,7 +6,7 @@ Drain3-based template mining with enhanced masking for API endpoint generalizati
 """
 
 import re
-from urllib.parse import urlsplit
+from urllib.parse import urlsplit, unquote
 from .base import Generalizer
 
 
@@ -37,6 +37,7 @@ class DrainGeneralizer(Generalizer):
     def _create_drain3_miner(self, config=None):
         """Create Drain3 TemplateMiner with runtime configuration."""
         from drain3.template_miner_config import TemplateMinerConfig
+        from drain3.masking import MaskingInstruction
         from drain3 import TemplateMiner
         
         # Create configuration programmatically
@@ -53,40 +54,78 @@ class DrainGeneralizer(Generalizer):
         template_config.drain_max_clusters = config.get('max_clusters', 1024)
         # For URL paths, we don't want '/' as a delimiter since it's structural
         # Instead, we'll use delimiters that separate parameter values
-        template_config.drain_extra_delimiters = config.get('extra_delimiters', ["_", "?", "&", "=", "-"])
+        template_config.drain_extra_delimiters = config.get('extra_delimiters', ["?", "&", "="])
         
-        # Store masking patterns for manual pre-processing (Drain3 built-in masking doesn't work reliably)
-        self.masking_patterns = config.get('masking_patterns', [
-            # JWT tokens (Base64 with dots) - Order matters: more specific patterns first
-            {"regex_pattern": r"eyJ[A-Za-z0-9+\/=]+\.[A-Za-z0-9+\/=]+\.[A-Za-z0-9+\/=]+", "mask_with": "JWT"},
-            
-            # UUIDs with dashes (must come before general hex patterns)
-            {"regex_pattern": r"[a-fA-F0-9]{8}-[a-fA-F0-9]{4}-[a-fA-F0-9]{4}-[a-fA-F0-9]{4}-[a-fA-F0-9]{12}", "mask_with": "UUID"},
-            
-            # Base64 encoded data (long Base64 strings) 
-            {"regex_pattern": r"[A-Za-z0-9+\/]{20,}={0,2}", "mask_with": "BASE64"},
-            
-            # UUIDs without dashes (32 hex chars - must come before general hex)
-            {"regex_pattern": r"\b[a-fA-F0-9]{32}\b", "mask_with": "UUID"},
-            
-            # Hex values with 0x prefix
-            {"regex_pattern": r"0x[a-fA-F0-9]+", "mask_with": "HEX"},
-            
-            # IP addresses (must come before general numbers)
-            {"regex_pattern": r"\b(?:\d{1,3}\.){3}\d{1,3}\b", "mask_with": "IP"},
-            
-            # Long hex strings (8+ chars, but not caught by UUID)
-            {"regex_pattern": r"\b[a-fA-F0-9]{8,}\b", "mask_with": "HEX"},
-            
-            # Numbers (integers) - comes after IP addresses
-            {"regex_pattern": r"\b\d+\b", "mask_with": "INT"},
-            
-            # Alphanumeric tokens (6+ chars) - least specific
-            {"regex_pattern": r"\b[a-zA-Z0-9]{6,}\b", "mask_with": "TOKEN"},
-        ])
-        
+        # Configure masking prefix/suffix
         template_config.mask_prefix = config.get('mask_prefix', '{')
         template_config.mask_suffix = config.get('mask_suffix', '}')
+        
+        # Configure masking instructions using Drain3's built-in masking
+        # Order matters: more specific patterns should come first
+        template_config.masking_instructions = [
+            # UTF-8 encoded Chinese characters
+            MaskingInstruction(r"[\u4e00-\u9fff]+", "Chinese Characters"),
+
+            # Email addresses
+            MaskingInstruction(r"\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b", "EMAIL"),
+
+            # Dates in YYYY-MM-DD or similar formats
+            MaskingInstruction(r"\b[0-9]{4}-(?:0[1-9]|1[0-2])-(?:0[1-9]|[12][0-9]|3[01])[ T](?:[01][0-9]|2[0-3]):[0-5][0-9]:[0-5][0-9](?:\.[0-9]{1,6})?(?:Z|[+-](?:[01][0-9]|2[0-3]):?[0-5][0-9])?\b", "DATE_TIME"),
+
+            # MAC addresses
+            MaskingInstruction(r"\b([0-9A-Fa-f]{2}[:-]){5}([0-9A-Fa-f]{2})\b", "MAC"),
+
+            # URI scheme (http, https, ftp, file, rmi)
+            MaskingInstruction(r"\b(?:[a-zA-Z]{3,}):\/\/[a-zA-Z0-9.-]{2,}", "URI_SCHEME"),
+
+            # JWT tokens (Base64 with dots)
+            MaskingInstruction(r"eyJ[A-Za-z0-9+\/=]+\.[A-Za-z0-9+\/=]+\.[A-Za-z0-9+\/=]+", "JWT"),
+            
+            # UUIDs with dashes (must come before general hex patterns)
+            MaskingInstruction(r"\b[a-fA-F0-9]{8}-[a-fA-F0-9]{4}-[a-fA-F0-9]{4}-[a-fA-F0-9]{4}-[a-fA-F0-9]{12}\b", "UUID"),
+            
+            # Hex values with 0x prefix
+            MaskingInstruction(r"\b0x[a-fA-F0-9]+\b", "HEX"),
+            
+            # IPv4 addresses - use word boundaries and negative lookahead to avoid matching version numbers like 1.7.8.0123
+            # The pattern requires the IP to be followed by a word boundary (not another digit)
+            MaskingInstruction(r"\b(?:(?:25[0-5]|2[0-4][0-9]|1[0-9]{2}|[1-9]?[0-9])\.){3}(?:25[0-5]|2[0-4][0-9]|1[0-9]{2}|[1-9]?[0-9])\b(?!\d)", "IPv4"),
+
+            # IPV6 addresses
+            
+            # Chinese IDentification Numbers
+            MaskingInstruction(r"\b\d{6}(19|20)?\d{2}(0[1-9]|1[0-2])(0[1-9]|[12]\d|3[01])\d{3}([0-9Xx])\b", "CHN_ID."),
+
+            # Credit Card Numbers (Visa, MasterCard, Amex, Discover)
+            MaskingInstruction(r"\b(?:4[0-9]{12}(?:[0-9]{3})?|5[1-5][0-9]{14}|3[47][0-9]{13}|6(?:011|5[0-9]{2})[0-9]{12})\b", "CREDIT_Card_No."),
+
+            # Chinese Band Card Numbers
+            MaskingInstruction(r"\b(62|43|40|52|51|58)\d{14,17}\b", "CHN_BankCardNo."),
+
+            # Chinese Phone Numbers
+            MaskingInstruction(r"\b1[3456789]\d{9}\b", "CHN_Phone_No."),
+
+            # Base64 encoded data (long Base64 strings)
+            MaskingInstruction(r"\b[A-Za-z0-9+\/]{16,}={0,2}\b", "BASE64"),
+
+            # # URL-Safe Base64 encoded data
+            MaskingInstruction(r"\b[A-Za-z0-9\-_]{16,}={0,2}\b", "BASE64URL"),
+
+            # Dot separated numbers (e.g., version numbers)
+            MaskingInstruction(r"\b\d+(\.\d+){2,}\b", "DOT_SEP_Num"),
+
+            # Numbers (integers) - comes after IP addresses
+            MaskingInstruction(r"^\d+\b", "NUM"),
+
+            # Date in YYYYMMDD format
+            MaskingInstruction(r"\b20\d{2}(0[1-9]|1[0-2])(0[1-9]|[12][0-9]|3[01])\b", "DATE_DIGITS"),
+
+            # DateTime in YYYYMMDDHHMMSS format
+            MaskingInstruction(r"\b20\d{2}(0[1-9]|1[0-2])(0[1-9]|[12][0-9]|3[01])(0[0-9]|1[0-9]|2[0-3])[0-5][0-9][0-5][0-9]\b", "DATETIME_DIGITS"),
+
+            # Long hex strings (8+ chars, but not caught by UUID)
+            MaskingInstruction(r"\b[a-fA-F0-9]{8,}\b", "HEX"),
+        ]
         
         # Snapshot settings (disabled for runtime use)
         template_config.snapshot_interval_minutes = 0
@@ -94,36 +133,24 @@ class DrainGeneralizer(Generalizer):
         
         return TemplateMiner(config=template_config)
     
-    def _apply_masking_patterns(self, message: str) -> str:
-        """Apply masking patterns manually before feeding to Drain3."""
-        if not hasattr(self, 'masking_patterns') or not self.masking_patterns:
-            return message
-        
-        masked = message
-        for pattern_config in self.masking_patterns:
-            pattern = pattern_config['regex_pattern']
-            replacement = f"{{{pattern_config['mask_with']}}}"
-            old_masked = masked
-            masked = re.sub(pattern, replacement, masked)
-            
-            # Track successful masking for statistics
-            if masked != old_masked:
-                self.pattern_stats['Drain3 Templates'] += 1
-                break  # Only apply first matching pattern per token
-        
-        return masked
-    
     def process_http_message(self, host: str, scheme: str, method: str, url: str, http_version: str) -> str:
         """Process a single HTTP message and return the generalized endpoint signature."""
-        u = urlsplit(url)
+        if method.upper() == 'CONNECT':
+            # For CONNECT requests, the URL is the authority (host:port)
+            # urlsplit misinterprets "host:port" as "scheme:path" (e.g. "host" as scheme, "port" as path)
+            generalized_path = self.generalize_path(url)
+            generalized_query = ""
+        else:
+            u = urlsplit(url)
+            
+            # Generalize path and parameters separately
+            generalized_path = self.generalize_path(u.path)
+            generalized_query = self.generalize_query_params(u.query)
         
-        # Generalize path and parameters separately
-        generalized_path = self.generalize_path(u.path)
-        generalized_query = self.generalize_query_params(u.query)
-        
-        # Create the endpoint signature - format: <FQDN> <Method> <URL Path with parameters> <HTTP Version>
+        # Create the endpoint signature - format: <FQDN> <Method> <URL Path with parameters>
+        # Note: HTTP version is ignored for generalization as requested
         full_path = generalized_path + generalized_query
-        signature = f"{host} {method.upper()} {full_path} {http_version}"
+        signature = f"{host} {method.upper()} {full_path}"
         
         return signature
     
@@ -143,72 +170,182 @@ class DrainGeneralizer(Generalizer):
         return path
     
     def generalize_query_params(self, query_string: str) -> str:
-        """Generalize query parameters using Drain3 templates."""
+        """Generalize query parameters using Drain3 templates.
+        
+        Only parameter values are masked/generalized, keys are preserved.
+        """
         if not query_string:
             return ""
         
-        full_query = "?" + query_string
-        
-        # Try Drain3 on the complete query string
         if self.use_drain3:
-            drain3_result = self._drain3_generalize_path(full_query)
-            if drain3_result != full_query:
-                return drain3_result
+            generalized = self._drain3_generalize_query(query_string)
+            return "?" + generalized
         
-        # If Drain3 didn't find a pattern, return original query
-        self.pattern_stats['No Pattern'] += 1
-        return full_query
+        return "?" + query_string
+    
+    def _drain3_generalize_query(self, query_string: str) -> str:
+        """Use Drain3 to generalize query parameter values only.
+        
+        Preserves parameter keys and only applies masking/generalization to values.
+        """
+        if not self.use_drain3 or not self.drain3_miner:
+            return query_string
+        
+        try:
+            # Parse query string into key=value pairs
+            params = query_string.split('&')
+            generalized_params = []
+            
+            for param in params:
+                if '=' in param:
+                    key, value = param.split('=', 1)
+
+                    if key.endswith('token'):
+                        generalized_params.append(f"{key}=<TOKEN>")
+                        continue
+                    
+                    # Only process the value through Drain3
+                    if value:
+                        # URL decode the value before masking
+                        decoded_value = unquote(value)
+
+                        # decode as urlencoded recursively if needed
+                        seglist = []
+                        for segment in decoded_value.split(' '):
+                            percent_count = len(re.findall(r'%[0-9A-Fa-f]{2}', segment))
+                            if len(segment) > 0:
+                                if percent_count / len(segment) > 0.1:
+                                    seglist.append(unquote(segment))
+                                else:
+                                    seglist.append(segment)
+                            else:
+                                seglist.append(segment)
+                        decoded_value = ' '.join(seglist)
+
+                        result = self.drain3_miner.add_log_message(decoded_value)
+                        if result and isinstance(result, dict) and 'template_mined' in result:
+                            generalized_value = result['template_mined']
+                            
+                            # Fix broken placeholders caused by Drain3 adding {*} inside masked values
+                            # e.g., "{Chinese {*}" -> "{Chinese Characters}"
+                            generalized_value = self._fix_broken_placeholders(generalized_value)
+                            
+                            # Track if generalization happened
+                            if generalized_value != decoded_value and ('{' in generalized_value or '<' in generalized_value):
+                                self.pattern_stats['Drain3 Templates'] += 1
+                            
+                            generalized_params.append(f"{key}={generalized_value}")
+                        else:
+                            generalized_params.append(param)
+                    else:
+                        # Empty value, keep as is
+                        generalized_params.append(param)
+                else:
+                    # No '=' in param (malformed or flag-style), keep as is
+                    generalized_params.append(param)
+            
+            return '&'.join(generalized_params)
+            
+        except Exception as e:
+            # If Drain3 fails, return original query string
+            return query_string
+    
+    def _fix_broken_placeholders(self, text: str) -> str:
+        """Fix placeholders that were broken by Drain3's {*} wildcard insertion.
+        
+        When Drain3 creates templates, it may insert {*} wildcards inside already-masked
+        placeholders, creating broken patterns like "{Chinese {*}" instead of "{Chinese Characters}".
+        This method detects and fixes these broken placeholders.
+        """
+        # Known placeholder names that may get broken
+        placeholder_names = [
+            "Chinese Characters",
+            "EMAIL",
+            "URI_SCHEME", 
+            "JWT",
+            "UUID",
+            "BASE64",
+            "BASE64URL",
+            "HEX",
+            "IPv4",
+            "CHN_ID_Card",
+            "CHN_Phone_No.",
+            "CHN_Bank_Card",
+            "INT",
+        ]
+        
+        # Fix patterns like "{Chinese {*}" or "{Chinese {*} Characters}" -> "{Chinese Characters}"
+        for name in placeholder_names:
+            words = name.split()
+            if len(words) > 1:
+                # Multi-word placeholder like "Chinese Characters"
+                first_word = words[0]
+                last_word = words[-1]
+                
+                # Pattern 1: "{FirstWord {*}" or "{FirstWord {*} anything}" -> "{Chinese Characters}"
+                # Match from opening brace through any wildcards/text until we hit end or another opening brace
+                broken_pattern = re.compile(
+                    r'\{' + re.escape(first_word) + r'\s+\{\*\}[^{}]*',
+                    re.IGNORECASE
+                )
+                text = broken_pattern.sub('{' + name + '}', text)
+                
+                # Pattern 2: "{*} LastWord}" -> "{Chinese Characters}"
+                broken_end_pattern = re.compile(
+                    r'\{\*\}\s*' + re.escape(last_word) + r'\}',
+                    re.IGNORECASE
+                )
+                text = broken_end_pattern.sub('{' + name + '}', text)
+            
+            # Fix cases where the placeholder itself became a wildcard
+            # e.g., when "{Chinese Characters}" becomes "{Chinese Characters} {*}"
+            text = re.sub(
+                r'\{' + re.escape(name) + r'\}\s*\{\*\}',
+                '{' + name + '}',
+                text
+            )
+        
+        return text
     
     def _drain3_generalize_path(self, path: str) -> str:
-        """Use Drain3 to generalize complete URL paths and parameters."""
+        """Use Drain3 to generalize URL path segments."""
         if not self.use_drain3 or not self.drain3_miner:
             return path
             
         try:
-            # For URL paths, we need to preserve the structure while allowing Drain3 to generalize
-            # Convert path segments to space-separated format for Drain3, then convert back
-            if path.startswith('/') or path.startswith('?'):
-                # Split path into segments but preserve structure info
-                if path.startswith('?'):
-                    # Query string - convert to format suitable for Drain3
-                    query_without_q = path[1:]  # Remove ? prefix
-                    # Replace query parameter delimiters with spaces for Drain3 processing
-                    segments_str = query_without_q.replace('&', ' ').replace('=', ' ')
-                else:
-                    # URL path - convert /a/b/c to "a b c" for Drain3 processing
-                    segments = [seg for seg in path.strip('/').split('/') if seg]
-                    segments_str = ' '.join(segments) if segments else 'root'
+            if path.startswith('/'):
+                # URL path - convert /a/b/c to "a b c" for Drain3 processing
+                segments = [seg for seg in path.strip('/').split('/') if seg]
                 
-                # Apply manual masking first before feeding to Drain3
-                masked_segments = self._apply_masking_patterns(segments_str)
+                # Check if last segment looks like a file with extension
+                suffix_segment = None
+                if segments and re.search(r'\.[a-zA-Z0-9]+$', segments[-1]):
+                    suffix_segment = segments[-1]
+                    segments = segments[:-1]
                 
-                # Process masked segments through Drain3
-                result = self.drain3_miner.add_log_message(masked_segments)
+                segments_str = ' '.join(segments) if segments else 'root'
+                
+                # Process through Drain3 (masking is handled by Drain3's MaskingInstructions)
+                result = self.drain3_miner.add_log_message(segments_str)
                 if result and isinstance(result, dict) and 'template_mined' in result:
                     template = result['template_mined']
-                    # Always use the template if one was found, even if it's the same as input
-                    # This ensures consistent generalization
-                    if path.startswith('?'):
-                        # Reconstruct query string with proper formatting
-                        # Convert space-separated template back to query format
-                        template_parts = template.split()
-                        # Group pairs back into key=value format
-                        query_parts = []
-                        for i in range(0, len(template_parts), 2):
-                            if i + 1 < len(template_parts):
-                                key = template_parts[i]
-                                value = template_parts[i + 1]
-                                query_parts.append(f"{key}={value}")
-                            else:
-                                query_parts.append(template_parts[i])
-                        generalized_path = '?' + '&'.join(query_parts)
-                    else:
-                        # Reconstruct URL path
-                        template_segments = template.split()
-                        generalized_path = '/' + '/'.join(template_segments) if template_segments != ['root'] else '/'
+                    
+                    # Fix broken placeholders caused by Drain3 adding {*} inside masked values
+                    template = self._fix_broken_placeholders(template)
+                    
+                    # Reconstruct URL path
+                    template_segments = template.split()
+                    generalized_path = '/' + '/'.join(template_segments) if template_segments != ['root'] else '/'
+                    
+                    # Append the suffix segment if it existed
+                    if suffix_segment:
+                        if generalized_path == '/':
+                            generalized_path = '/' + suffix_segment
+                        else:
+                            generalized_path = generalized_path + '/' + suffix_segment
                     
                     # Only count as a template if it actually generalized something
-                    if template != segments_str and '{' in template and '}' in template:
+                    if template != segments_str and ('{' in template or '<' in template):
                         self.pattern_stats['Drain3 Templates'] += 1
                     else:
                         self.pattern_stats['No Pattern'] += 1
@@ -219,7 +356,11 @@ class DrainGeneralizer(Generalizer):
                 result = self.drain3_miner.add_log_message(path)
                 if result and isinstance(result, dict) and 'template_mined' in result:
                     template = result['template_mined']
-                    if template != path and '{' in template and '}' in template:
+                    
+                    # Fix broken placeholders
+                    template = self._fix_broken_placeholders(template)
+                    
+                    if template != path and ('{' in template or '<' in template):
                         self.pattern_stats['Drain3 Templates'] += 1
                         return template
                         
@@ -237,27 +378,23 @@ class DrainGeneralizer(Generalizer):
         
         for signature, requests in list(self.endpoints.items()):
             # Extract the path part of the signature for pattern matching
-            parts = signature.split(' ', 3)
+            # Signature format: <FQDN> <Method> <URL Path with parameters>
+            parts = signature.split(' ', 2)
             if len(parts) >= 3:
-                domain, method, path_and_version = parts[0], parts[1], ' '.join(parts[2:])
+                domain, method, path = parts[0], parts[1], parts[2]
                 
-                # Split path from HTTP version
-                path_parts = path_and_version.rsplit(' ', 1)
-                if len(path_parts) == 2:
-                    path, version = path_parts
-                    
-                    # Create a pattern key by replacing specific values with wildcards
-                    pattern_key = self._create_pattern_key(domain, method, path, version)
-                    
-                    if pattern_key not in pattern_groups:
-                        pattern_groups[pattern_key] = {
-                            'signatures': [],
-                            'requests': [],
-                            'generalized_signature': None
-                        }
-                    
-                    pattern_groups[pattern_key]['signatures'].append(signature)
-                    pattern_groups[pattern_key]['requests'].extend(requests)
+                # Create a pattern key by replacing specific values with wildcards
+                pattern_key = self._create_pattern_key(domain, method, path)
+                
+                if pattern_key not in pattern_groups:
+                    pattern_groups[pattern_key] = {
+                        'signatures': [],
+                        'requests': [],
+                        'generalized_signature': None
+                    }
+                
+                pattern_groups[pattern_key]['signatures'].append(signature)
+                pattern_groups[pattern_key]['requests'].extend(requests)
         
         # Merge patterns that have multiple signatures
         for pattern_key, group in pattern_groups.items():
@@ -295,7 +432,7 @@ class DrainGeneralizer(Generalizer):
             if sig in self.endpoint_counts:
                 del self.endpoint_counts[sig]
     
-    def _create_pattern_key(self, domain: str, method: str, path: str, version: str) -> str:
+    def _create_pattern_key(self, domain: str, method: str, path: str) -> str:
         """Create a pattern key for grouping similar endpoints."""
         # Replace numbers, specific IDs, and Drain3 wildcards with a normalized placeholder
         
@@ -322,4 +459,4 @@ class DrainGeneralizer(Generalizer):
             full_pattern = re.sub(r'/[a-zA-Z0-9_-]{6,}', '/{*}', full_pattern)
             full_pattern = re.sub(r'/\{\*\}', '/{*}', full_pattern)
         
-        return f"{domain} {method} {full_pattern} {version}"
+        return f"{domain} {method} {full_pattern}"

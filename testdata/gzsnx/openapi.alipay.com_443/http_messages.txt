@@ -1,0 +1,45 @@
+CONNECT openapi.alipay.com:443 HTTP/1.1
+Host: openapi.alipay.com:443
+Proxy-Connection: Keep-Alive
+
+========================================
+
+CONNECT openapi.alipay.com:443 HTTP/1.1
+Host: openapi.alipay.com:443
+Proxy-Connection: Keep-Alive
+
+========================================
+
+CONNECT openapi.alipay.com:443 HTTP/1.1
+Host: openapi.alipay.com:443
+Proxy-Connection: Keep-Alive
+
+========================================
+
+CONNECT openapi.alipay.com:443 HTTP/1.1
+Host: openapi.alipay.com:443
+Proxy-Connection: Keep-Alive
+
+========================================
+
+CONNECT openapi.alipay.com:443 HTTP/1.1
+Host: openapi.alipay.com:443
+Proxy-Connection: Keep-Alive
+
+========================================
+
+CONNECT openapi.alipay.com:443 HTTP/1.1
+Host: openapi.alipay.com:443
+Proxy-Connection: Keep-Alive
+
+========================================
+
+CONNECT openapi.alipay.com:443 HTTP/1.1
+Host: openapi.alipay.com:443
+Proxy-Connection: Keep-Alive
+
+========================================
+
+CONNECT openapi.alipay.com:443 HTTP/1.1
+Host: openapi.alipay.com:443
+Proxy-Connection: Keep-Alive

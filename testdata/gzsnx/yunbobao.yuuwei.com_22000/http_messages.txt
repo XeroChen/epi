@@ -1,0 +1,25 @@
+CONNECT yunbobao.yuuwei.com:22000 HTTP/1.1
+Host: yunbobao.yuuwei.com:22000
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT yunbobao.yuuwei.com:22000 HTTP/1.1
+Host: yunbobao.yuuwei.com:22000
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT yunbobao.yuuwei.com:22000 HTTP/1.1
+Host: yunbobao.yuuwei.com:22000
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1
+
+========================================
+
+CONNECT yunbobao.yuuwei.com:22000 HTTP/1.1
+Host: yunbobao.yuuwei.com:22000
+Proxy-Connection: Keep-Alive
+User-Agent: okhttp/3.4.1

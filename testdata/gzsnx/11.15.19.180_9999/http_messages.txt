@@ -1,0 +1,21 @@
+GET /upgrade/release.json HTTP/1.1
+Accept: application/json, application/json, application/xml, application/xml, application/*+json, application/*+json, text/xml, application/*+xml, text/xml, application/*+xml
+User-Agent: Java/1.8.0_322
+Host: 11.15.19.180:9999
+Connection: keep-alive
+
+========================================
+
+GET /upgrade/release.json HTTP/1.1
+Accept: application/json, application/json, application/xml, application/xml, application/*+json, application/*+json, text/xml, application/*+xml, text/xml, application/*+xml
+User-Agent: Java/1.8.0_322
+Host: 11.15.19.180:9999
+Connection: keep-alive
+
+========================================
+
+GET /upgrade/release.json HTTP/1.1
+Accept: application/json, application/json, application/xml, application/xml, application/*+json, application/*+json, text/xml, application/*+xml, text/xml, application/*+xml
+User-Agent: Java/1.8.0_322
+Host: 11.15.19.180:9999
+Connection: keep-alive

@@ -1,0 +1,33 @@
+GET /publish/tmp/csii/mobile/mobile-default/main/repo_3614e881119b727f.dat HTTP/1.1
+Host: qncypro.gznxqny.com
+Via: cn1773.l1, kunlun8.cn1773, l2cn3055.l2, cache24.l2cn3055
+Eagleeye-Traceid: b7c9e51b16849092572794136e
+Ali-Swift-Log-Host: qncypro.gznxqny.com
+Ali-Swift-Stat-Host: level2.qncypro.gznxqny.com
+X-Forwarded-For: 39.144.96.179
+X-Client-Scheme: https
+Ali-Cdn-Real-Ip: 39.144.96.179
+Accept-Encoding: gzip
+User-Agent: okhttp/3.11.0
+Ali-Tproxy-Httpdns: on
+Ali-Swift-5Xx-No-Retry: on
+If-None-Match: "645bbb0f-b571d"
+If-Modified-Since: Wed, 10 May 2023 15:41:03 GMT
+
+========================================
+
+GET /publish/tmp/csii/mobile/mobile-default/main/repo_3614e881119b727f.dat HTTP/1.1
+Host: qncypro.gznxqny.com
+Via: cn1773.l1, kunlun8.cn1773, l2cn3055.l2, cache24.l2cn3055
+Eagleeye-Traceid: b7c9e51b16849092572794136e
+Ali-Swift-Log-Host: qncypro.gznxqny.com
+Ali-Swift-Stat-Host: level2.qncypro.gznxqny.com
+X-Forwarded-For: 39.144.96.179
+X-Client-Scheme: https
+Ali-Cdn-Real-Ip: 39.144.96.179
+Accept-Encoding: gzip
+User-Agent: okhttp/3.11.0
+Ali-Tproxy-Httpdns: on
+Ali-Swift-5Xx-No-Retry: on
+If-None-Match: "645bbb0f-b571d"
+If-Modified-Since: Wed, 10 May 2023 15:41:03 GMT

@@ -1,0 +1,57 @@
+POST /phoneNumberVerify HTTP/1.1
+Accept: application/xml, text/xml, application/json, application/*+xml, application/*+json
+Content-Type: application/json
+Content-Length: 714
+Host: qnysqdxyzxap.gzrc.com:8001
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.10 (Java/1.7.0_79)
+Cookie: BIGipServerQNY_XYZXYYGL_8001_POOL=549523467.16671.0000
+Accept-Encoding: gzip,deflate
+X-Tingyun: ;c=S|838G7B6ct28#6dn-wT6659M,S|tTbYni1qNbI#EmpdEsuF6gU,S|9-a7yu-tz4E#XbKDsi3hAEs,;x=02abed33c6863347;e=50d6df1f9972e18;s=1684909255072;n=205e90c0814addce976d65d415f00395
+
+{"phoneNumber":"15186168194","token":"eyJlbmNyeXB0VG9rZW4iOiJ5Y1h6NDZcL0RQWk1td3NpWUkwcVVPM1FXTmxCSkdjT3BNXC9MYkpabUVibXEwUGNSZFd3SnJTM2ZxVFA0dFh0TnJJU0J5QlcxVGk2NzRcbmlXdFRRVmlRVjJmN2tTWjNCZHUzaDNNdGZMTjdnZmFBTnhVVkVZaUpcL21oNkFxZEdcL2pvK3JNckJSUDNGRFc2eno0TDdxSFF6TjZ2T1xuMDdpbmNmalU2emVheDFXWGgxaHVmZVFGbmlXTlJVdXZyYW0rc0VNeVxuIiwia2V5Ijoibk1IcU1kSEdEMzBORzk1RHhQRmlGV0hjdytsRzFqWkZnN2M1SmZITXdwOGF5UTBsZG5zbUN2bUFCbHFUeVpmUDNtUmRlZmhDbmtrUlwvUHRTOHdudW8zR0lMSlFrQ01JZVFjSG9xTzF4T2pNTTNJcFh1QjBTTndCQUp3NnVnTlwvcmlhNjg3eE03eGNjS3RCa2lhVUJjWEtOeTJhTXRpWGpSRmVsM1lNUEhOQkU9IiwidmVuZG9yTmFtZSI6IkNNQ0MifQ==","appName":"黔农云","deviceModel":"V2156A","packageId":"csii.com.qny","appId":null,"platform":"Android"}
+
+========================================
+
+POST /clientLog/push HTTP/1.1
+Accept: application/xml, text/xml, application/json, application/*+xml, application/*+json
+Content-Type: application/json
+Content-Length: 681
+Host: qnysqdxyzxap.gzrc.com:8001
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.10 (Java/1.7.0_79)
+Cookie: BIGipServerQNY_XYZXYYGL_8001_POOL=549523467.16671.0000
+Accept-Encoding: gzip,deflate
+X-Tingyun: ;c=S|838G7B6ct28#6KGeKMjHHL8,S|tTbYni1qNbI#PkfqlWp13ZE,S|9-a7yu-tz4E#oUBi9K6JTgY,;x=52445bffd0d787aa;e=c34a050705394ec7;s=1684909256273;n=4f45a926d94e6a84b936dcb5d6edff48
+
+{"appName":"黔农云","platform":"android","extData":"600008","logs":"[2023-05-24 14-20-52-706]---> 本地号码认证\n[2023-05-24 14-20-52-844]---> 号码认证回调==：{\"carrierFailedResultData\":\"\",\"code\":\"600008\",\"msg\":\"移动网络未开启\",\"requestCode\":0,\"requestId\":\"9c51757e-a6ff-4036-b501-835d0223c1b8\",\"vendorName\":\"unknown\"}\n[2023-05-24 14-20-52-916]---> verifyPhoneNum callback:{\"code\":\"5\",\"message\":\"移动网络未开启\"}\n","deviceModel":"RMX3161","service":"qny_app_android","tranId":"MNO20230524142055340dd140ba99a6d[18185727917]","version":"10402","deviceNo":"A5A44349F6F5431E81A05A6300F5AA01","requestPath":"/clientLog/push"}
+
+========================================
+
+POST /phoneNumberVerify HTTP/1.1
+Accept: application/xml, text/xml, application/json, application/*+xml, application/*+json
+Content-Type: application/json
+Content-Length: 710
+Host: qnysqdxyzxap.gzrc.com:8001
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.10 (Java/1.7.0_79)
+Cookie: BIGipServerQNY_XYZXYYGL_8001_POOL=549523467.16671.0000
+Accept-Encoding: gzip,deflate
+X-Tingyun: ;c=S|838G7B6ct28#6KGeKMjHHL8,S|tTbYni1qNbI#QcoidaukBm0,S|9-a7yu-tz4E#SbqqMmIgrj0,;x=eab7760da5285a22;e=6f3c1133b14e30c6;s=1684909256950;n=205e90c0814addce976d65d415f00395
+
+{"phoneNumber":"13908590157","token":"eyJlbmNyeXB0VG9rZW4iOiJ6UHNwaGVcL084ZlBUUGg0NjBta2RodThCbmRHazRNVDY0dFlnQVlzaUJPWW13MmxaNjhPZmJ5YXo5QnZhSlplTjB2cThhR0ZheUtaaFxuRjA3Mnhvd1Q0THhlOUVsSHZ3dWNFN29TTitVQ25BUkt4Q0RiV25QMHdLWm1nQlZNTTVPNEg0cWFlMThBZVArQXMwTm9UM1A2czN6XC9cbkFGWXAza3E5RFJaTXd3VXduVklTUDZOck4zcFJ2QUZVMlwvTURjMDVOXG4iLCJrZXkiOiJmaVlFYitBRitvNWI0VUhoWXVpa2RQZVp3aTVpWjVRZFN0QmxiS2J5MkZ6ZUwwbFpuMjFpcnRSd3NORkdwOTFCYm1tWkVpcEVqcXo1cmRocWpwbE9WbFYrYm5GdWhqR2dFcDJpQ2xrdFZNbW9JSjF1TGFjaURmbmdZeEhBMkx6UkxzVjdPTjRreDVNbHZka0N1em1uT1JDbUg3aTFoNEEzS01jNUxmM2M2NUk9IiwidmVuZG9yTmFtZSI6IkNNQ0MifQ==","appName":"黔农云","deviceModel":"PFJM10","packageId":"csii.com.qny","appId":null,"platform":"Android"}
+
+========================================
+
+POST /phoneNumberVerify HTTP/1.1
+Accept: application/xml, text/xml, application/json, application/*+xml, application/*+json
+Content-Type: application/json
+Content-Length: 772
+Host: qnysqdxyzxap.gzrc.com:8001
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.10 (Java/1.7.0_79)
+Cookie: BIGipServerQNY_XYZXYYGL_8001_POOL=549523467.16671.0000
+Accept-Encoding: gzip,deflate
+X-Tingyun: ;c=S|838G7B6ct28#-nfYgdxzgGQ,S|tTbYni1qNbI#EmpdEsuF6gU,S|9-a7yu-tz4E#oZolppDQEU0,;x=22ba6eb708ba2bcc;e=bc75206dc465194f;s=1684909257602;n=205e90c0814addce976d65d415f00395
+
+{"phoneNumber":"18386066188","token":"eyAgImtleSIgOiAiWXMzcFwvODBmcllNWWtBS2tZREs3azdXbVN5ZVNaaFhISnpWNHRLeHVHNHJmcmdib0Z1MXcwcDVBNjVjaXhGODRJbFZXdWUyMFwva21oTmFEUlhJOGhDK2pZTENxazN4QjdzNGhlU1JJN1dIeDhHM3dOMGxhMEltOENheEI3RDg1Y2twOWVlXC8rNjF4bjdmWkpKMGdaVzVGNnYrRGVsZ3lzWE9kZDdENHFzazZnPSIsICAidmVuZG9yTmFtZSIgOiAiQ01DQyIsICAiZW5jcnlwdFRva2VuIiA6ICJmdERsaW1xRzdIY3dKVUxJMGpac2xNZHZtYlpmTXR6RkJyenFOMzhyOHBlQ2J4OUZxUUxqNDBtNjdWNFhcL2FoSmR1aFgxTG1NWHVcL1pXVlJQMllPWUJzZlZkQjRoV2srS0lGYlwvWjBsUzh6eFRSVmVJNTUxS3ZwMVZrVWhRRGwxSjJwUUhKdXhRUDBrQVZITkNPalpDSVZyTDhEc3RhbHVoYWRKaW1lY2xjMWhqSEFubngzSzVXMFlzdkxOTTFOalNMcHdPa3k3a0MxT1F4UzJOZm1QZXRRPT0ifQ==","appName":"黔农云","deviceModel":"iPhone 14","packageId":"com.gznx.qny","appId":"MNO20230524142057HLHP","platform":"IOS"}

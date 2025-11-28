@@ -1,0 +1,13 @@
+GET /configs/OPENAPI/default/serviceRegister?ip=11.16.192.85&messages=%7B%22details%22%3A%7B%22OPENAPI%2Bdefault%2BserviceRegister%22%3A379%7D%7D&releaseKey=20230510224339-e2264d5c75b4409e HTTP/1.1
+User-Agent: Java/1.8.0_181
+Host: 11.11.36.181:9080
+Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+Connection: keep-alive
+
+========================================
+
+GET /configs/OPENAPI/default/serviceDefineFiles?ip=11.16.192.85&messages=%7B%22details%22%3A%7B%22OPENAPI%2Bdefault%2BserviceDefineFiles%22%3A115%7D%7D&releaseKey=20230510200433-e935757bdbf3e902 HTTP/1.1
+User-Agent: Java/1.8.0_181
+Host: 11.11.36.181:9080
+Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+Connection: keep-alive

@@ -1,0 +1,217 @@
+GET /gcep/static/layui/font/iconfont.woff2?v=256 HTTP/1.1
+Host: gcepv.gznxqny.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36
+Accept: */*
+Accept-Language: zh-CN,zh;q=0.9
+Accept-Encoding: gzip, deflate, br
+Cookie: JSESSIONID=9sFMagaxmw2R9D7_gIpP7ZTa0liK2bRjG_WOGOPIE84E4e5JOeVz!-2090246362
+Connection: keep-alive
+Referer: https://gcepv.gznxqny.com/gcep/static/css/themes/default/layui.css
+Origin: https://gcepv.gznxqny.com
+
+========================================
+
+GET /gcep/static/layui/font/iconfont.woff2?v=256 HTTP/1.1
+Host: gcepv.gznxqny.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36
+Accept: */*
+Accept-Language: zh-CN,zh;q=0.9
+Accept-Encoding: gzip, deflate, br
+Cookie: JSESSIONID=9sFMagaxmw2R9D7_gIpP7ZTa0liK2bRjG_WOGOPIE84E4e5JOeVz!-2090246362
+Referer: https://gcepv.gznxqny.com/gcep/static/css/themes/default/layui.css
+Origin: https://gcepv.gznxqny.com
+
+========================================
+
+GET /gcep/views/gcep/login/entry/entry.jsp HTTP/1.1
+Host: gcepv.gznxqny.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Language: zh-CN,zh;q=0.9
+Accept-Encoding: gzip, deflate, br
+Cookie: JSESSIONID=9sFMagaxmw2R9D7_gIpP7ZTa0liK2bRjG_WOGOPIE84E4e5JOeVz!-2090246362; gcep_token=eyJhbGciOiJIUzUxMiJ9.eyJleHAiOjE2ODQ5MTY0NTYsImlhdCI6MTY4NDkwOTI1NiwiYWNjb3VudCI6IjE1MDg1ODI5Mzg2In0.9smQgGbNrGfJi88krSyj9wVATCKFZxD7mynvc1hORRrJM19auB7vjAGnWZXey5aYkGp11EaYGBAItVwMBFQ1mg; gcep_account=15085829386
+Connection: keep-alive
+Referer: https://gcepv.gznxqny.com/gcep/
+
+========================================
+
+GET /gcep/views/gcep/login/entry/entry.jsp HTTP/1.1
+Host: gcepv.gznxqny.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Language: zh-CN,zh;q=0.9
+Accept-Encoding: gzip, deflate, br
+Cookie: JSESSIONID=9sFMagaxmw2R9D7_gIpP7ZTa0liK2bRjG_WOGOPIE84E4e5JOeVz!-2090246362; gcep_token=eyJhbGciOiJIUzUxMiJ9.eyJleHAiOjE2ODQ5MTY0NTYsImlhdCI6MTY4NDkwOTI1NiwiYWNjb3VudCI6IjE1MDg1ODI5Mzg2In0.9smQgGbNrGfJi88krSyj9wVATCKFZxD7mynvc1hORRrJM19auB7vjAGnWZXey5aYkGp11EaYGBAItVwMBFQ1mg; gcep_account=15085829386
+Referer: https://gcepv.gznxqny.com/gcep/
+
+========================================
+
+GET /gcep/static/images/entry/sys-icon1.png HTTP/1.1
+Host: gcepv.gznxqny.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Accept-Language: zh-CN,zh;q=0.9
+Accept-Encoding: gzip, deflate, br
+Cookie: JSESSIONID=9sFMagaxmw2R9D7_gIpP7ZTa0liK2bRjG_WOGOPIE84E4e5JOeVz!-2090246362; gcep_token=eyJhbGciOiJIUzUxMiJ9.eyJleHAiOjE2ODQ5MTY0NTYsImlhdCI6MTY4NDkwOTI1NiwiYWNjb3VudCI6IjE1MDg1ODI5Mzg2In0.9smQgGbNrGfJi88krSyj9wVATCKFZxD7mynvc1hORRrJM19auB7vjAGnWZXey5aYkGp11EaYGBAItVwMBFQ1mg; gcep_account=15085829386
+Referer: https://gcepv.gznxqny.com/gcep/views/gcep/login/entry/entry.jsp
+
+========================================
+
+GET /gcep/static/images/entry/entry-bg.png HTTP/1.1
+Host: gcepv.gznxqny.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Accept-Language: zh-CN,zh;q=0.9
+Accept-Encoding: gzip, deflate, br
+Cookie: JSESSIONID=9sFMagaxmw2R9D7_gIpP7ZTa0liK2bRjG_WOGOPIE84E4e5JOeVz!-2090246362; gcep_token=eyJhbGciOiJIUzUxMiJ9.eyJleHAiOjE2ODQ5MTY0NTYsImlhdCI6MTY4NDkwOTI1NiwiYWNjb3VudCI6IjE1MDg1ODI5Mzg2In0.9smQgGbNrGfJi88krSyj9wVATCKFZxD7mynvc1hORRrJM19auB7vjAGnWZXey5aYkGp11EaYGBAItVwMBFQ1mg; gcep_account=15085829386
+Connection: keep-alive
+Referer: https://gcepv.gznxqny.com/gcep/views/gcep/login/entry/entry.jsp
+
+========================================
+
+GET /gcep/static/images/entry/sys-icon3.png HTTP/1.1
+Host: gcepv.gznxqny.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Accept-Language: zh-CN,zh;q=0.9
+Accept-Encoding: gzip, deflate, br
+Cookie: JSESSIONID=9sFMagaxmw2R9D7_gIpP7ZTa0liK2bRjG_WOGOPIE84E4e5JOeVz!-2090246362; gcep_token=eyJhbGciOiJIUzUxMiJ9.eyJleHAiOjE2ODQ5MTY0NTYsImlhdCI6MTY4NDkwOTI1NiwiYWNjb3VudCI6IjE1MDg1ODI5Mzg2In0.9smQgGbNrGfJi88krSyj9wVATCKFZxD7mynvc1hORRrJM19auB7vjAGnWZXey5aYkGp11EaYGBAItVwMBFQ1mg; gcep_account=15085829386
+Referer: https://gcepv.gznxqny.com/gcep/views/gcep/login/entry/entry.jsp
+
+========================================
+
+GET /gcep/static/images/entry/entry-bg.png HTTP/1.1
+Host: gcepv.gznxqny.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Accept-Language: zh-CN,zh;q=0.9
+Accept-Encoding: gzip, deflate, br
+Cookie: JSESSIONID=9sFMagaxmw2R9D7_gIpP7ZTa0liK2bRjG_WOGOPIE84E4e5JOeVz!-2090246362; gcep_token=eyJhbGciOiJIUzUxMiJ9.eyJleHAiOjE2ODQ5MTY0NTYsImlhdCI6MTY4NDkwOTI1NiwiYWNjb3VudCI6IjE1MDg1ODI5Mzg2In0.9smQgGbNrGfJi88krSyj9wVATCKFZxD7mynvc1hORRrJM19auB7vjAGnWZXey5aYkGp11EaYGBAItVwMBFQ1mg; gcep_account=15085829386
+Referer: https://gcepv.gznxqny.com/gcep/views/gcep/login/entry/entry.jsp
+
+========================================
+
+GET /gcep/static/js/lay-module/base/common/rootPath.js?v=1684909256320 HTTP/1.1
+Host: gcepv.gznxqny.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36
+Accept: */*
+Accept-Language: zh-CN,zh;q=0.9
+Accept-Encoding: gzip, deflate, br
+Cookie: JSESSIONID=9sFMagaxmw2R9D7_gIpP7ZTa0liK2bRjG_WOGOPIE84E4e5JOeVz!-2090246362; gcep_token=eyJhbGciOiJIUzUxMiJ9.eyJleHAiOjE2ODQ5MTY0NTYsImlhdCI6MTY4NDkwOTI1NiwiYWNjb3VudCI6IjE1MDg1ODI5Mzg2In0.9smQgGbNrGfJi88krSyj9wVATCKFZxD7mynvc1hORRrJM19auB7vjAGnWZXey5aYkGp11EaYGBAItVwMBFQ1mg; gcep_account=15085829386
+Connection: keep-alive
+Referer: https://gcepv.gznxqny.com/gcep/views/gcep/login/entry/entry.jsp
+
+========================================
+
+GET /gcep/static/js/lay-module/base/common/rootPath.js?v=1684909256320 HTTP/1.1
+Host: gcepv.gznxqny.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36
+Accept: */*
+Accept-Language: zh-CN,zh;q=0.9
+Accept-Encoding: gzip, deflate, br
+Cookie: JSESSIONID=9sFMagaxmw2R9D7_gIpP7ZTa0liK2bRjG_WOGOPIE84E4e5JOeVz!-2090246362; gcep_token=eyJhbGciOiJIUzUxMiJ9.eyJleHAiOjE2ODQ5MTY0NTYsImlhdCI6MTY4NDkwOTI1NiwiYWNjb3VudCI6IjE1MDg1ODI5Mzg2In0.9smQgGbNrGfJi88krSyj9wVATCKFZxD7mynvc1hORRrJM19auB7vjAGnWZXey5aYkGp11EaYGBAItVwMBFQ1mg; gcep_account=15085829386
+Referer: https://gcepv.gznxqny.com/gcep/views/gcep/login/entry/entry.jsp
+
+========================================
+
+GET /gcep/static/layui/lay/modules/element.js?v=1684909256361 HTTP/1.1
+Host: gcepv.gznxqny.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36
+Accept: */*
+Accept-Language: zh-CN,zh;q=0.9
+Accept-Encoding: gzip, deflate, br
+Cookie: JSESSIONID=9sFMagaxmw2R9D7_gIpP7ZTa0liK2bRjG_WOGOPIE84E4e5JOeVz!-2090246362; gcep_token=eyJhbGciOiJIUzUxMiJ9.eyJleHAiOjE2ODQ5MTY0NTYsImlhdCI6MTY4NDkwOTI1NiwiYWNjb3VudCI6IjE1MDg1ODI5Mzg2In0.9smQgGbNrGfJi88krSyj9wVATCKFZxD7mynvc1hORRrJM19auB7vjAGnWZXey5aYkGp11EaYGBAItVwMBFQ1mg; gcep_account=15085829386
+Connection: keep-alive
+Referer: https://gcepv.gznxqny.com/gcep/views/gcep/login/entry/entry.jsp
+
+========================================
+
+GET /gcep/static/js/lay-module/base/common/spAjax.js?v=1684909256419 HTTP/1.1
+Host: gcepv.gznxqny.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36
+Accept: */*
+Accept-Language: zh-CN,zh;q=0.9
+Accept-Encoding: gzip, deflate, br
+Cookie: JSESSIONID=9sFMagaxmw2R9D7_gIpP7ZTa0liK2bRjG_WOGOPIE84E4e5JOeVz!-2090246362; gcep_token=eyJhbGciOiJIUzUxMiJ9.eyJleHAiOjE2ODQ5MTY0NTYsImlhdCI6MTY4NDkwOTI1NiwiYWNjb3VudCI6IjE1MDg1ODI5Mzg2In0.9smQgGbNrGfJi88krSyj9wVATCKFZxD7mynvc1hORRrJM19auB7vjAGnWZXey5aYkGp11EaYGBAItVwMBFQ1mg; gcep_account=15085829386
+Connection: keep-alive
+Referer: https://gcepv.gznxqny.com/gcep/views/gcep/login/entry/entry.jsp
+
+========================================
+
+GET /gcep/static/js/lay-module/base/common/spAjax.js?v=1684909256419 HTTP/1.1
+Host: gcepv.gznxqny.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36
+Accept: */*
+Accept-Language: zh-CN,zh;q=0.9
+Accept-Encoding: gzip, deflate, br
+Cookie: JSESSIONID=9sFMagaxmw2R9D7_gIpP7ZTa0liK2bRjG_WOGOPIE84E4e5JOeVz!-2090246362; gcep_token=eyJhbGciOiJIUzUxMiJ9.eyJleHAiOjE2ODQ5MTY0NTYsImlhdCI6MTY4NDkwOTI1NiwiYWNjb3VudCI6IjE1MDg1ODI5Mzg2In0.9smQgGbNrGfJi88krSyj9wVATCKFZxD7mynvc1hORRrJM19auB7vjAGnWZXey5aYkGp11EaYGBAItVwMBFQ1mg; gcep_account=15085829386
+Referer: https://gcepv.gznxqny.com/gcep/views/gcep/login/entry/entry.jsp
+
+========================================
+
+GET /gcep/static/js/lay-module/base/common/baseE.js?v=1684909256496 HTTP/1.1
+Host: gcepv.gznxqny.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36
+Accept: */*
+Accept-Language: zh-CN,zh;q=0.9
+Accept-Encoding: gzip, deflate, br
+Cookie: JSESSIONID=9sFMagaxmw2R9D7_gIpP7ZTa0liK2bRjG_WOGOPIE84E4e5JOeVz!-2090246362; gcep_token=eyJhbGciOiJIUzUxMiJ9.eyJleHAiOjE2ODQ5MTY0NTYsImlhdCI6MTY4NDkwOTI1NiwiYWNjb3VudCI6IjE1MDg1ODI5Mzg2In0.9smQgGbNrGfJi88krSyj9wVATCKFZxD7mynvc1hORRrJM19auB7vjAGnWZXey5aYkGp11EaYGBAItVwMBFQ1mg; gcep_account=15085829386
+Connection: keep-alive
+Referer: https://gcepv.gznxqny.com/gcep/views/gcep/login/entry/entry.jsp
+
+========================================
+
+GET /gcep/static/js/lay-module/base/common/baseE.js?v=1684909256496 HTTP/1.1
+Host: gcepv.gznxqny.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36
+Accept: */*
+Accept-Language: zh-CN,zh;q=0.9
+Accept-Encoding: gzip, deflate, br
+Cookie: JSESSIONID=9sFMagaxmw2R9D7_gIpP7ZTa0liK2bRjG_WOGOPIE84E4e5JOeVz!-2090246362; gcep_token=eyJhbGciOiJIUzUxMiJ9.eyJleHAiOjE2ODQ5MTY0NTYsImlhdCI6MTY4NDkwOTI1NiwiYWNjb3VudCI6IjE1MDg1ODI5Mzg2In0.9smQgGbNrGfJi88krSyj9wVATCKFZxD7mynvc1hORRrJM19auB7vjAGnWZXey5aYkGp11EaYGBAItVwMBFQ1mg; gcep_account=15085829386
+Referer: https://gcepv.gznxqny.com/gcep/views/gcep/login/entry/entry.jsp
+
+========================================
+
+GET /gcep/static/js/lay-module/base/common/loadingUtil.js?v=1684909256876 HTTP/1.1
+Host: gcepv.gznxqny.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36
+Accept: */*
+Accept-Language: zh-CN,zh;q=0.9
+Accept-Encoding: gzip, deflate, br
+Cookie: JSESSIONID=9sFMagaxmw2R9D7_gIpP7ZTa0liK2bRjG_WOGOPIE84E4e5JOeVz!-2090246362; gcep_token=eyJhbGciOiJIUzUxMiJ9.eyJleHAiOjE2ODQ5MTY0NTYsImlhdCI6MTY4NDkwOTI1NiwiYWNjb3VudCI6IjE1MDg1ODI5Mzg2In0.9smQgGbNrGfJi88krSyj9wVATCKFZxD7mynvc1hORRrJM19auB7vjAGnWZXey5aYkGp11EaYGBAItVwMBFQ1mg; gcep_account=15085829386
+Connection: keep-alive
+Referer: https://gcepv.gznxqny.com/gcep/views/gcep/login/entry/entry.jsp
+
+========================================
+
+GET /gcep/static/js/lay-module/base/common/loadingUtil.js?v=1684909256876 HTTP/1.1
+Host: gcepv.gznxqny.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36
+Accept: */*
+Accept-Language: zh-CN,zh;q=0.9
+Accept-Encoding: gzip, deflate, br
+Cookie: JSESSIONID=9sFMagaxmw2R9D7_gIpP7ZTa0liK2bRjG_WOGOPIE84E4e5JOeVz!-2090246362; gcep_token=eyJhbGciOiJIUzUxMiJ9.eyJleHAiOjE2ODQ5MTY0NTYsImlhdCI6MTY4NDkwOTI1NiwiYWNjb3VudCI6IjE1MDg1ODI5Mzg2In0.9smQgGbNrGfJi88krSyj9wVATCKFZxD7mynvc1hORRrJM19auB7vjAGnWZXey5aYkGp11EaYGBAItVwMBFQ1mg; gcep_account=15085829386
+Referer: https://gcepv.gznxqny.com/gcep/views/gcep/login/entry/entry.jsp
+
+========================================
+
+GET /gcep/static/images/entry/icon-user.png HTTP/1.1
+Host: gcepv.gznxqny.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Accept-Language: zh-CN,zh;q=0.9
+Accept-Encoding: gzip, deflate, br
+Cookie: JSESSIONID=9sFMagaxmw2R9D7_gIpP7ZTa0liK2bRjG_WOGOPIE84E4e5JOeVz!-2090246362; gcep_token=eyJhbGciOiJIUzUxMiJ9.eyJleHAiOjE2ODQ5MTY0NTYsImlhdCI6MTY4NDkwOTI1NiwiYWNjb3VudCI6IjE1MDg1ODI5Mzg2In0.9smQgGbNrGfJi88krSyj9wVATCKFZxD7mynvc1hORRrJM19auB7vjAGnWZXey5aYkGp11EaYGBAItVwMBFQ1mg; gcep_account=15085829386
+Connection: keep-alive
+Referer: https://gcepv.gznxqny.com/gcep/views/gcep/login/entry/entry.jsp
+
+========================================
+
+GET /gcep/static/images/entry/icon-user.png HTTP/1.1
+Host: gcepv.gznxqny.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Accept-Language: zh-CN,zh;q=0.9
+Accept-Encoding: gzip, deflate, br
+Cookie: JSESSIONID=9sFMagaxmw2R9D7_gIpP7ZTa0liK2bRjG_WOGOPIE84E4e5JOeVz!-2090246362; gcep_token=eyJhbGciOiJIUzUxMiJ9.eyJleHAiOjE2ODQ5MTY0NTYsImlhdCI6MTY4NDkwOTI1NiwiYWNjb3VudCI6IjE1MDg1ODI5Mzg2In0.9smQgGbNrGfJi88krSyj9wVATCKFZxD7mynvc1hORRrJM19auB7vjAGnWZXey5aYkGp11EaYGBAItVwMBFQ1mg; gcep_account=15085829386
+Referer: https://gcepv.gznxqny.com/gcep/views/gcep/login/entry/entry.jsp

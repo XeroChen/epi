@@ -1,0 +1,193 @@
+POST /workbenchSaveAndUpdate.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: 07149b8524f98ecc
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMjA3MTciLCJzdWIiOiJ7YXV0aENvZGU9OTQ3YzJjNjMtNGViNi00YzE0LTg5M2UtZjU4MmFmNTcwYTBhLCBzeXNGbGFnPTEsIGNlcnRDb2RlPW51bGwsIHJlZnJlc2hUaW1lPTMwLCB1c2VyTmFtZT1udWxsLCB1c2VySWQ9MTIwNzE3LCB1c3JfY2RlPTEyMDcxNywgY29yZUVyck1zZz3jgJDlhazlj7jotLfjgJHnlKjmiLfkuI3lrZjlnKjvvIEsIGV4cGlyZVRpbWU9OTAwLCBobl9icl9hY2Nfbm89MjM1MDAxNywgdXNyX25hbWU95p2o5riF5piOLCB1c3JfaWRfbm89NTIyNTI3MTk3ODA0MDUwMDMxLCBpc19maWN0PU59IiwiaXNzIjoid2FuZ3ciLCJpYXQiOjE2ODQ5MDkxNTksImV4cCI6MTY4NDk0NTE1OX0.myOOhBPiJNLL_erMeKfOGBOApG07EpvV0uoP9cIMGTg
+responseiv: ad9b8a75-0d4d-4661-8369-42f7e51c
+responsekey: a3f6d8c0-cfe7-469f-8f79-18775fd9
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 120717
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-riskservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.6
+Content-Length: 611
+Host: 11.11.38.83:8087
+Connection: Keep-Alive
+X-B3-TraceId: 5e42aa51449a1021
+X-B3-SpanId: f6135682d84ac1f4
+X-B3-ParentSpanId: 5e42aa51449a1021
+X-B3-Sampled: 0
+
+{"interfaceType":"app13_07","orgId":"2350017","commentId":"","nextNodeId":"53_a6","currentUserNo":"120717","nextNodeUser":"116481","id":"4C6AD4160000BD5574D00CE452D48269","nodeId":"53_a3","batNo":"KHYJPC20230523PD006694","commentSign":"10","modelId":"RiskSign","submitType":"-1","managementType":"00","relieveReason":"03","checkSituation":"","takenMeasure":"加强贷后管理及催收工作。","nextMeasure":"加强贷后管理及催收工作。","repayPossibility":"风险较小，不影响还款可能性。","relieveDesc":"己对客户风险提示内容进行处置。","signId":"'KHYJ20230523PD00002134'"}
+
+========================================
+
+POST /custRiskList.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: 0f8a95efe6d37247
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMzEzNTAiLCJzdWIiOiJ7YXV0aENvZGU9N2QwODRhMjYtZjMxMi00ZDg1LWI4NDMtMmRjMzFkNGM2MmQ0LCBzeXNGbGFnPTEsIGNlcnRDb2RlPW51bGwsIHJlZnJlc2hUaW1lPTMwLCB1c2VyTmFtZT1udWxsLCB1c2VySWQ9MTMxMzUwLCB1c3JfY2RlPTEzMTM1MCwgY29yZUVyck1zZz3jgJDlhazlj7jotLfjgJHnlKjmiLfkuI3lrZjlnKjvvIEsIGV4cGlyZVRpbWU9OTAwLCBobl9icl9hY2Nfbm89Mjc2MDAxNiwgdXNyX25hbWU95L2V6ImzLCB1c3JfaWRfbm89NTIyNDAxMTk4NTAxMDY0MDI4LCBpc19maWN0PU59IiwiaXNzIjoid2FuZ3ciLCJpYXQiOjE2ODQ5MDkwNzUsImV4cCI6MTY4NDk0NTA3NX0.l4cyR69G3CNBfWBu3FLUc9Of6GHAnHKGCl5RCv1T1d4
+responseiv: 101428a1-c2b2-47f0-baad-6eab2cb3
+responsekey: 2d321c4c-5df7-4626-a640-5cf344e1
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 131350
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-riskservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.10
+Content-Length: 136
+Host: 11.11.38.83:8087
+Connection: Keep-Alive
+X-B3-TraceId: a0d967d70b87adc5
+X-B3-SpanId: 56894e046d068f6e
+X-B3-ParentSpanId: a0d967d70b87adc5
+X-B3-Sampled: 0
+
+{"custId":"1032330323","pageNo":"1","pageSize":10,"interfaceType":"app01_11","isSpecial":"2","currentUserNo":"131350","signStatus":"01"}
+
+========================================
+
+POST /custRiskSaveUpdate.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: 8c60f99aa59735d8
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMjA4ODIiLCJzdWIiOiJ7YXV0aENvZGU9Nzc0MzAzZTEtNDEyNy00NTY1LWFmMzUtNDhkNjBiYWJlNTExLCBzeXNGbGFnPTMsIGNlcnRDb2RlPTUyMjYzNDE5ODUxMjA1NDQzWCwgcmVmcmVzaFRpbWU9MzAsIHVzZXJOYW1lPeiSi-W_oOaBkiwgdXNlcklkPTEyMDg4MiwgdXNyX2NkZT0xMjA4ODIsIGNvcmVFcnJNc2c9bnVsbCwgZXhwaXJlVGltZT05MDAsIGhuX2JyX2FjY19ubz0yNTMwMDEyLCB1c3JfbmFtZT3okovlv6DmgZIsIHVzcl9pZF9ubz01MjI2MzQxOTg1MTIwNTQ0M1gsIGlzX2ZpY3Q9Tn0iLCJpc3MiOiJ3YW5ndyIsImlhdCI6MTY4NDkwODE4NiwiZXhwIjoxNjg0OTQ0MTg2fQ.DiB0JXGcf6LmN_CdNPeiVXLHKFjZ-T8hgtnuDhDvLKc
+responseiv: c1502b01-84e2-4c8b-8383-0fbc7995
+responsekey: abc8b233-7100-4cfc-832f-b133ed6f
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 120882
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-riskservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.13
+Content-Length: 125
+Host: 11.11.38.83:8087
+Connection: Keep-Alive
+X-B3-TraceId: b300400b7977aefc
+X-B3-SpanId: 58457ff1592b2301
+X-B3-ParentSpanId: b300400b7977aefc
+X-B3-Sampled: 0
+
+{"custId":"1025326238","currentUserNo":"120882","interfaceType":"app03_06","signIds":["'KHYJ20230519LS00014066'"],"batNo":""}
+
+========================================
+
+POST /workbenchDetail.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: 744650b7a5160b25
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxNTIyOTkiLCJzdWIiOiJ7YXV0aENvZGU9ODViZDM5OWQtMGZkOS00YjlkLWFjZWUtZTNlOTQ5ZDdmMzdlLCBzeXNGbGFnPTEsIGNlcnRDb2RlPW51bGwsIHJlZnJlc2hUaW1lPTMwLCB1c2VyTmFtZT1udWxsLCB1c2VySWQ9MTUyMjk5LCB1c3JfY2RlPTE1MjI5OSwgY29yZUVyck1zZz3jgJDlhazlj7jotLfjgJHnlKjmiLfkuI3lrZjlnKjvvIEsIGV4cGlyZVRpbWU9OTAwLCBobl9icl9hY2Nfbm89MjM0MDAxMiwgdXNyX25hbWU96Zu35pu8LCB1c3JfaWRfbm89NTIyMTI0MTk5MjA4MTEyNDQxLCBpc19maWN0PU59IiwiaXNzIjoid2FuZ3ciLCJpYXQiOjE2ODQ5MDg1MDIsImV4cCI6MTY4NDk0NDUwMn0.axU7cBEwGr0Pk3tFDcth-XSBysbrkEJ8y9DFpROYkTk
+responseiv: c18e6bf2-c134-43c3-a8d7-5871dbc2
+responsekey: 01de4cfc-ef9d-4e95-8537-cae4bd7a
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 152299
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-riskservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.7
+Content-Length: 161
+Host: 11.11.38.83:8087
+Connection: Keep-Alive
+X-B3-TraceId: 50f586879de2d3f2
+X-B3-SpanId: cd1d9e9cb376d811
+X-B3-ParentSpanId: 50f586879de2d3f2
+X-B3-Sampled: 0
+
+{"id":"","interfaceType":"app11_08","custId":"1049323246","batNo":"","cancelBatNo":"","riskType":"01","currentUserNo":"152299","bizType":"DPC","orgId":"2340012"}
+
+========================================
+
+POST /custRiskList.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: f08096f595345a35
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiI2OTI0OTYiLCJzdWIiOiJ7YXV0aENvZGU9ZWZmMjI3OTctNTE1NC00MWY5LWFmYmYtZjJiNTQ2YTdmNGE0LCBzeXNGbGFnPTMsIGNlcnRDb2RlPTUyMjMyNjE5OTUwOTE3MDAzMiwgcmVmcmVzaFRpbWU9MzAsIHVzZXJOYW1lPemZiOaAneWlhywgdXNlcklkPTY5MjQ5NiwgdXNyX2NkZT02OTI0OTYsIGNvcmVFcnJNc2c9bnVsbCwgZXhwaXJlVGltZT05MDAsIGhuX2JyX2FjY19ubz0yOTUwMDAyLCB1c3JfbmFtZT3pmYjmgJ3lpYcsIHVzcl9pZF9ubz01MjIzMjYxOTk1MDkxNzAwMzIsIGlzX2ZpY3Q9Tn0iLCJpc3MiOiJ3YW5ndyIsImlhdCI6MTY4NDkwOTIxOSwiZXhwIjoxNjg0OTQ1MjE5fQ.cEEEIOQuXNOSSmsiXeLC70hnZRXAiuEvtutn8yKFQ3U
+responseiv: 1d9dd875-f5cc-4291-adac-cc456d35
+responsekey: 5e9a57f5-447e-4429-8871-2ae36c1b
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 692496
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-riskservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.8
+Content-Length: 136
+Host: 11.11.38.83:8087
+Connection: Keep-Alive
+X-B3-TraceId: 4462152dbd08fe55
+X-B3-SpanId: bbc8394e600eb4eb
+X-B3-ParentSpanId: 4462152dbd08fe55
+X-B3-Sampled: 0
+
+{"custId":"1041300213","pageNo":"1","pageSize":10,"interfaceType":"app01_11","isSpecial":"2","currentUserNo":"692496","signStatus":"01"}
+
+========================================
+
+POST /publicInterface2.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: 2773a6a2a8637537
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMDY2NDUiLCJzdWIiOiJ7YXV0aENvZGU9NmQ0NWRiZTctYjNkNC00ZGJkLTg5ZWQtZTFmZDVkYmIzNTAwLCBzeXNGbGFnPTEsIGNlcnRDb2RlPW51bGwsIHJlZnJlc2hUaW1lPTMwLCB1c2VyTmFtZT1udWxsLCB1c2VySWQ9MTA2NjQ1LCB1c3JfY2RlPTEwNjY0NSwgY29yZUVyck1zZz3jgJDlhazlj7jotLfjgJHnlKjmiLfkuI3lrZjlnKjvvIEsIGV4cGlyZVRpbWU9OTAwLCBobl9icl9hY2Nfbm89MjUxMDAyMSwgdXNyX25hbWU95byg546uLCB1c3JfaWRfbm89NTIyNjAxMTk4MzA2MjcwMDExLCBpc19maWN0PU59IiwiaXNzIjoid2FuZ3ciLCJpYXQiOjE2ODQ5MDkyNDIsImV4cCI6MTY4NDk0NTI0Mn0._zoUeFT5-itKLv4AX31MuPUB-WKoIz_WsEQEQ1pCcdM
+responseiv: 34ccb883-4f4b-4303-8ce5-006babef
+responsekey: 2c32cf88-2706-453d-b403-69e91775
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 106645
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-riskservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.6
+Content-Length: 59
+Host: 11.11.38.83:8087
+Connection: Keep-Alive
+X-B3-TraceId: 74c65056e8fbde42
+X-B3-SpanId: e6dd2495cfecbd43
+X-B3-ParentSpanId: 74c65056e8fbde42
+X-B3-Sampled: 0
+
+{"orgId":"2510021","orgLvl":"4","interfaceType":"app10_08"}
+
+========================================
+
+POST /index1.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: 2773a6a2a8637537
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMDY2NDUiLCJzdWIiOiJ7YXV0aENvZGU9NmQ0NWRiZTctYjNkNC00ZGJkLTg5ZWQtZTFmZDVkYmIzNTAwLCBzeXNGbGFnPTEsIGNlcnRDb2RlPW51bGwsIHJlZnJlc2hUaW1lPTMwLCB1c2VyTmFtZT1udWxsLCB1c2VySWQ9MTA2NjQ1LCB1c3JfY2RlPTEwNjY0NSwgY29yZUVyck1zZz3jgJDlhazlj7jotLfjgJHnlKjmiLfkuI3lrZjlnKjvvIEsIGV4cGlyZVRpbWU9OTAwLCBobl9icl9hY2Nfbm89MjUxMDAyMSwgdXNyX25hbWU95byg546uLCB1c3JfaWRfbm89NTIyNjAxMTk4MzA2MjcwMDExLCBpc19maWN0PU59IiwiaXNzIjoid2FuZ3ciLCJpYXQiOjE2ODQ5MDkyNDIsImV4cCI6MTY4NDk0NTI0Mn0._zoUeFT5-itKLv4AX31MuPUB-WKoIz_WsEQEQ1pCcdM
+responseiv: 91b0f41d-1c72-459c-b45e-719d50db
+responsekey: 4ccfea6a-04d3-4d01-894c-32cbcd13
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 106645
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-riskservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.11
+Content-Length: 102
+Host: 11.11.38.83:8087
+Connection: Keep-Alive
+X-B3-TraceId: 5ea84262ce4b3685
+X-B3-SpanId: 24a40928244625c4
+X-B3-ParentSpanId: 5ea84262ce4b3685
+X-B3-Sampled: 0
+
+{"custId":"106645","currentUserNo":"106645","orgLvl":"4","orgNo":"2510021","interfaceType":"app07_01"}

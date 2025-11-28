@@ -1,0 +1,1975 @@
+POST /WFI006_RequestDTO.do HTTP/1.1
+uuid: AE8A2D16-972B-487D-A19C-470EA007B25D
+accept: */*
+channel: app
+x-requested-with: XMLHttpRequest
+responsekey: c51823d7-8eb7-486d-86ca-5af928cc
+accept-language: zh-Hans-CN;q=1, en-CN;q=0.9
+accept-encoding: gzip, deflate, br
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMjA0MjciLCJzdWIiOiJ7YXV0aENvZGU9OTM0MTFjNDgtNDA5My00OGFmLWE2NWUtOTcyNjdjZTBmYjQ5LCBzeXNGbGFnPTMsIGNlcnRDb2RlPTUyMjUyNzE5ODkwNDEyMjMxNiwgcmVmcmVzaFRpbWU9MzAsIHVzZXJOYW1lPeadjua0iywgdXNlcklkPTEyMDQyNywgdXNyX2NkZT0xMjA0MjcsIGNvcmVFcnJNc2c9bnVsbCwgZXhwaXJlVGltZT05MDAsIGhuX2JyX2FjY19ubz0yMzMwMDI3LCB1c3JfbmFtZT3mnY7mtIssIHVzcl9pZF9ubz01MjI1MjcxOTg5MDQxMjIzMTYsIGlzX2ZpY3Q9Tn0iLCJpc3MiOiJ3YW5ndyIsImlhdCI6MTY4NDkwOTIzNSwiZXhwIjoxNjg0OTQ1MjM1fQ.G9vD1Z45rA21oms6qqaqjvKDqb0930rVM7Eqwjpxo5Y
+responseiv: 7bb14453-bc95-4f9c-b788-498d3ba9
+user-agent: qian nong zhi hui ban dai/1.0.7 (iPhone; iOS 16.1.1; Scale/3.00)
+content-type: application/json;charset=UTF-8
+x-user-header: 120427
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.6
+Content-Length: 94
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: a2df8d55e1aff3c6
+X-B3-SpanId: c6ae05c7211f10f2
+X-B3-ParentSpanId: a2df8d55e1aff3c6
+X-B3-Sampled: 0
+
+{"applType":"555","currentUserId":"120427","instanceId":"4BD587B9409A93A6","nodeId":"4314_a4"}
+
+========================================
+
+POST /RW016_getToDoWorkList.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: 0ae8a1e42cd1b6d2
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMjEzODAiLCJzdWIiOiJ7YXV0aENvZGU9OTFiNWY0NDktNTc0ZS00MzgxLWE1YTItYmU0ZWExNDZhOWQ3LCBzeXNGbGFnPTEsIGNlcnRDb2RlPW51bGwsIHJlZnJlc2hUaW1lPTMwLCB1c2VyTmFtZT1udWxsLCB1c2VySWQ9MTIxMzgwLCB1c3JfY2RlPTEyMTM4MCwgY29yZUVyck1zZz3jgJDlhazlj7jotLfjgJHnlKjmiLfkuI3lrZjlnKjvvIEsIGV4cGlyZVRpbWU9OTAwLCBobl9icl9hY2Nfbm89Mjg1MDAwOCwgdXNyX25hbWU96ZmI5bu65a6HLCB1c3JfaWRfbm89NTIwMjAyMTk4ODEyMDIyODMwLCBpc19maWN0PU59IiwiaXNzIjoid2FuZ3ciLCJpYXQiOjE2ODQ5MDgyNTQsImV4cCI6MTY4NDk0NDI1NH0.iWp9-6Fuqe_JZKB6o0JbIzMwMDvDZqknF12P9uCX0ls
+responseiv: 43899cfd-0426-43cf-8bdb-c689f8f6
+responsekey: 8a498374-6e29-44c5-8e5a-51390545
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 121380
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.5
+Content-Length: 82
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: 88fcc1f44495dc7a
+X-B3-SpanId: 822087d3697144f8
+X-B3-ParentSpanId: 88fcc1f44495dc7a
+X-B3-Sampled: 0
+
+{"usr_id":"121380","cus_name":"","appl_type":"","pageDetaiNum":"10","pageMin":"1"}
+
+========================================
+
+POST /AREA001_RequestDTO.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: 2c9a2a9f6be20d10
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMzMxMjgiLCJzdWIiOiJ7YXV0aENvZGU9MjllOTIwODMtNDAwMC00NDIyLWJmZmQtYzE5ZGU5Yjk5YTkxLCBzeXNGbGFnPTEsIGNlcnRDb2RlPW51bGwsIHJlZnJlc2hUaW1lPTMwLCB1c2VyTmFtZT1udWxsLCB1c2VySWQ9MTMzMTI4LCB1c3JfY2RlPTEzMzEyOCwgY29yZUVyck1zZz3jgJDlhazlj7jotLfjgJHnlKjmiLfkuI3lrZjlnKjvvIEsIGV4cGlyZVRpbWU9OTAwLCBobl9icl9hY2Nfbm89Mjc4MDAxMiwgdXNyX25hbWU95byg6ZizLCB1c3JfaWRfbm89NTIyNDIzMTk5MDA0MTk5NjM3LCBpc19maWN0PU59IiwiaXNzIjoid2FuZ3ciLCJpYXQiOjE2ODQ5MDkxOTQsImV4cCI6MTY4NDk0NTE5NH0.EYCZ_Yw46asfZmjnSqkcrl-ZiFPHIEvG2J667bjQTo8
+responseiv: 86520c88-554d-46fe-859d-6c5e4daa
+responsekey: 2e9169d6-322d-4c1e-85e8-f2cb16b7
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 133128
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.10
+Content-Length: 48
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: b7401083968c9650
+X-B3-SpanId: 5e56b16d639b48f2
+X-B3-ParentSpanId: b7401083968c9650
+X-B3-Sampled: 0
+
+{"area_type":"city","area_parent_code":"520000"}
+
+========================================
+
+POST /OG001_bankSetting.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: a27b517e87e7a56d
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMDg0MDEiLCJzdWIiOiJ7YXV0aENvZGU9NjQyZmFjZjYtNjQ0Yi00NDdmLThjMzMtMzdiOGM5NDFjYzU5LCBzeXNGbGFnPTMsIGNlcnRDb2RlPTUyMDExMjE5ODgwMzE0MDAzMSwgcmVmcmVzaFRpbWU9MzAsIHVzZXJOYW1lPeWImOm-memjniwgdXNlcklkPTEwODQwMSwgdXNyX2NkZT0xMDg0MDEsIGNvcmVFcnJNc2c9bnVsbCwgZXhwaXJlVGltZT05MDAsIGhuX2JyX2FjY19ubz0yMDMwMDIyLCB1c3JfbmFtZT3liJjpvpnpo54sIHVzcl9pZF9ubz01MjAxMTIxOTg4MDMxNDAwMzEsIGlzX2ZpY3Q9Tn0iLCJpc3MiOiJ3YW5ndyIsImlhdCI6MTY4NDkwODkzOSwiZXhwIjoxNjg0OTQ0OTM5fQ.r0I71B3Fh_9CjPMZlgwUWKZmQEB81WYao3I5W9SQWLA
+responseiv: b17bab4e-5837-4fa3-bd45-9040fd88
+responsekey: 4257b9a8-aedb-466d-8f2d-87934f91
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 108401
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.6
+Content-Length: 107
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: 3133bd3ff1a77e0e
+X-B3-SpanId: fedc4002ad98e9f1
+X-B3-ParentSpanId: 3133bd3ff1a77e0e
+X-B3-Sampled: 0
+
+{"main_bch":"203","pageDetaiNum":10,"pageMin":1,"param_name":"","param_no":"PARAM_0163","searchTypeNew":""}
+
+========================================
+
+POST /RW016_getToDoWorkList.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: ef228471820dad3d
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMjY0MTgiLCJzdWIiOiJ7YXV0aENvZGU9NGQ5MDQ5OTYtYjdkMi00OTEwLThjYjAtNTgyZGZlMDhmNjgwLCBzeXNGbGFnPTEsIGNlcnRDb2RlPW51bGwsIHJlZnJlc2hUaW1lPTMwLCB1c2VyTmFtZT1udWxsLCB1c2VySWQ9MTI2NDE4LCB1c3JfY2RlPTEyNjQxOCwgY29yZUVyck1zZz3jgJDlhazlj7jotLfjgJHnlKjmiLfkuI3lrZjlnKjvvIEsIGV4cGlyZVRpbWU9OTAwLCBobl9icl9hY2Nfbm89MjYwMDAxOCwgdXNyX25hbWU95p2o6YCa6LS1LCB1c3JfaWRfbm89NTIyNjI4MTk3ODEyMTE0MjM2LCBpc19maWN0PU59IiwiaXNzIjoid2FuZ3ciLCJpYXQiOjE2ODQ5MDg3ODQsImV4cCI6MTY4NDk0NDc4NH0.3sr1V03o-wrNQeM8_4IObFBS9fhWKnQTnEkFRv5cFNI
+responseiv: f39a13b6-ce09-4fb2-829f-316f93a7
+responsekey: 8a394c09-0db4-4e23-8428-527b640a
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 126418
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.6
+Content-Length: 82
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: e8c47b7b41b23228
+X-B3-SpanId: c665aa9fa8686789
+X-B3-ParentSpanId: e8c47b7b41b23228
+X-B3-Sampled: 0
+
+{"usr_id":"126418","cus_name":"","appl_type":"","pageDetaiNum":"10","pageMin":"1"}
+
+========================================
+
+POST /JD040_cusInfoDetail.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: 3976ca6d16bed99a
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMjQxMTciLCJzdWIiOiJ7YXV0aENvZGU9YmRmZTc1NGMtMDZkMS00NzgwLWJlODktYjg3YjU4NDcxZTc2LCBzeXNGbGFnPTEsIGNlcnRDb2RlPW51bGwsIHJlZnJlc2hUaW1lPTMwLCB1c2VyTmFtZT1udWxsLCB1c2VySWQ9MTI0MTE3LCB1c3JfY2RlPTEyNDExNywgY29yZUVyck1zZz3jgJDlhazlj7jotLfjgJHnlKjmiLfkuI3lrZjlnKjvvIEsIGV4cGlyZVRpbWU9OTAwLCBobl9icl9hY2Nfbm89MjIxMDA0MywgdXNyX25hbWU95a6L6ZKK6LS1LCB1c3JfaWRfbm89NTIyMTIxMTk3ODEyMTcwNjE1LCBpc19maWN0PU59IiwiaXNzIjoid2FuZ3ciLCJpYXQiOjE2ODQ5MDc5NzksImV4cCI6MTY4NDk0Mzk3OX0.Dp-8bMUSIWAG7AS2lI1c3unFmAlbFgVspAj9iP3WrW8
+responseiv: 63931913-b2c7-4c39-9ded-2f3bd694
+responsekey: c12f7e6b-3d8f-4a89-99d2-87d5820d
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 124117
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.9
+Content-Length: 36
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: 8f4cd309896075ec
+X-B3-SpanId: 3fddb978cbebe5e9
+X-B3-ParentSpanId: 8f4cd309896075ec
+X-B3-Sampled: 1
+
+{"cus_id":"KH221015102014050302222"}
+
+========================================
+
+POST /AREA001_RequestDTO.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: 2c9a2a9f6be20d10
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMzMxMjgiLCJzdWIiOiJ7YXV0aENvZGU9MjllOTIwODMtNDAwMC00NDIyLWJmZmQtYzE5ZGU5Yjk5YTkxLCBzeXNGbGFnPTEsIGNlcnRDb2RlPW51bGwsIHJlZnJlc2hUaW1lPTMwLCB1c2VyTmFtZT1udWxsLCB1c2VySWQ9MTMzMTI4LCB1c3JfY2RlPTEzMzEyOCwgY29yZUVyck1zZz3jgJDlhazlj7jotLfjgJHnlKjmiLfkuI3lrZjlnKjvvIEsIGV4cGlyZVRpbWU9OTAwLCBobl9icl9hY2Nfbm89Mjc4MDAxMiwgdXNyX25hbWU95byg6ZizLCB1c3JfaWRfbm89NTIyNDIzMTk5MDA0MTk5NjM3LCBpc19maWN0PU59IiwiaXNzIjoid2FuZ3ciLCJpYXQiOjE2ODQ5MDkxOTQsImV4cCI6MTY4NDk0NTE5NH0.EYCZ_Yw46asfZmjnSqkcrl-ZiFPHIEvG2J667bjQTo8
+responseiv: b88367ee-2059-4325-8ce9-d273f29f
+responsekey: 2d16a467-8dba-4c19-8acf-845dec91
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 133128
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.7
+Content-Length: 48
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: fe93743cbe2adf82
+X-B3-SpanId: d0253a28639c9b8f
+X-B3-ParentSpanId: fe93743cbe2adf82
+X-B3-Sampled: 0
+
+{"area_type":"area","area_parent_code":"520500"}
+
+========================================
+
+POST /DH015_prdConfigInfo.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: 857722c9145b12ac
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMzE0NzIiLCJzdWIiOiJ7YXV0aENvZGU9OGMzNmIzZjQtNzVlZC00MjlmLTk4MDgtMzIzZmMzNWQ5ZjkwLCBzeXNGbGFnPTEsIGNlcnRDb2RlPW51bGwsIHJlZnJlc2hUaW1lPTMwLCB1c2VyTmFtZT1udWxsLCB1c2VySWQ9MTMxNDcyLCB1c3JfY2RlPTEzMTQ3MiwgY29yZUVyck1zZz3jgJDlhazlj7jotLfjgJHnlKjmiLfkuI3lrZjlnKjvvIEsIGV4cGlyZVRpbWU9OTAwLCBobl9icl9hY2Nfbm89MjM1MDAxNSwgdXNyX25hbWU96KKB5YWJ6ZGrLCB1c3JfaWRfbm89NTIyNTI3MTk4MTEyMTUxMzM4LCBpc19maWN0PU59IiwiaXNzIjoid2FuZ3ciLCJpYXQiOjE2ODQ5MDkyMjYsImV4cCI6MTY4NDk0NTIyNn0.Dck0aPwxyGw3-R6abSfltYtrNt_rXN1g0eMT-sUoudE
+responseiv: b256daff-7103-4e51-81d7-21416cc8
+responsekey: 88d46853-e3fc-46d9-87bc-b47f137b
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 131472
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.10
+Content-Length: 24
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: a148c958e577ed75
+X-B3-SpanId: ca3f06374e6fe217
+X-B3-ParentSpanId: a148c958e577ed75
+X-B3-Sampled: 0
+
+{"prd_cde":"GZNX000050"}
+
+========================================
+
+POST /AREA001_RequestDTO.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: a547dfef56722339
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMDQ3NzUiLCJzdWIiOiJ7YXV0aENvZGU9Mzc0ZTYzYjItMmUwYy00YWE3LTllNWMtZjM4NzNhM2Y0YmMxLCBzeXNGbGFnPTEsIGNlcnRDb2RlPW51bGwsIHJlZnJlc2hUaW1lPTMwLCB1c2VyTmFtZT1udWxsLCB1c2VySWQ9MTA0Nzc1LCB1c3JfY2RlPTEwNDc3NSwgY29yZUVyck1zZz3jgJDlhazlj7jotLfjgJHnlKjmiLfkuI3lrZjlnKjvvIEsIGV4cGlyZVRpbWU9OTAwLCBobl9icl9hY2Nfbm89MjY3MDAwNywgdXNyX25hbWU96JKy6aqB5ZCbLCB1c3JfaWRfbm89NTIyMjIxMTk5MDAzMzExNjM4LCBpc19maWN0PU59IiwiaXNzIjoid2FuZ3ciLCJpYXQiOjE2ODQ5MDcwODMsImV4cCI6MTY4NDk0MzA4M30.LeQrdihuSpAzyoKkBCbmqon5EuirH3cnwNjrRCkfZ0s
+responseiv: 489021ea-9f2b-48c2-906a-9d4a40c3
+responsekey: 849067a2-24b0-4e85-9e6d-8ad12cf7
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 104775
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.6
+Content-Length: 46
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: 2f74736000dd8f52
+X-B3-SpanId: be5041b2b27693e0
+X-B3-ParentSpanId: 2f74736000dd8f52
+X-B3-Sampled: 0
+
+{"area_type":"province","area_parent_code":""}
+
+========================================
+
+POST /YW071_getFileNodeList.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: a27b517e87e7a56d
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMDg0MDEiLCJzdWIiOiJ7YXV0aENvZGU9NjQyZmFjZjYtNjQ0Yi00NDdmLThjMzMtMzdiOGM5NDFjYzU5LCBzeXNGbGFnPTMsIGNlcnRDb2RlPTUyMDExMjE5ODgwMzE0MDAzMSwgcmVmcmVzaFRpbWU9MzAsIHVzZXJOYW1lPeWImOm-memjniwgdXNlcklkPTEwODQwMSwgdXNyX2NkZT0xMDg0MDEsIGNvcmVFcnJNc2c9bnVsbCwgZXhwaXJlVGltZT05MDAsIGhuX2JyX2FjY19ubz0yMDMwMDIyLCB1c3JfbmFtZT3liJjpvpnpo54sIHVzcl9pZF9ubz01MjAxMTIxOTg4MDMxNDAwMzEsIGlzX2ZpY3Q9Tn0iLCJpc3MiOiJ3YW5ndyIsImlhdCI6MTY4NDkwODkzOSwiZXhwIjoxNjg0OTQ0OTM5fQ.r0I71B3Fh_9CjPMZlgwUWKZmQEB81WYao3I5W9SQWLA
+responseiv: 0ce46e19-f336-441c-90b2-471f821c
+responsekey: 32961781-4806-4dd2-85ec-acb8b4e4
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 108401
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.5
+Content-Length: 68
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: 5cfd35a563f78a32
+X-B3-SpanId: 750f27a42f86f6e4
+X-B3-ParentSpanId: 5cfd35a563f78a32
+X-B3-Sampled: 0
+
+{"image_tree_id":"20201118000174","pageMin":"1","pageDetaiNum":"99"}
+
+========================================
+
+POST /JD054_RequestDTO.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: 2c9a2a9f6be20d10
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMzMxMjgiLCJzdWIiOiJ7YXV0aENvZGU9MjllOTIwODMtNDAwMC00NDIyLWJmZmQtYzE5ZGU5Yjk5YTkxLCBzeXNGbGFnPTEsIGNlcnRDb2RlPW51bGwsIHJlZnJlc2hUaW1lPTMwLCB1c2VyTmFtZT1udWxsLCB1c2VySWQ9MTMzMTI4LCB1c3JfY2RlPTEzMzEyOCwgY29yZUVyck1zZz3jgJDlhazlj7jotLfjgJHnlKjmiLfkuI3lrZjlnKjvvIEsIGV4cGlyZVRpbWU9OTAwLCBobl9icl9hY2Nfbm89Mjc4MDAxMiwgdXNyX25hbWU95byg6ZizLCB1c3JfaWRfbm89NTIyNDIzMTk5MDA0MTk5NjM3LCBpc19maWN0PU59IiwiaXNzIjoid2FuZ3ciLCJpYXQiOjE2ODQ5MDkxOTQsImV4cCI6MTY4NDk0NTE5NH0.EYCZ_Yw46asfZmjnSqkcrl-ZiFPHIEvG2J667bjQTo8
+responseiv: 77fecee9-9c2e-428a-b0cb-86fc31f2
+responsekey: d5652d38-58c6-47d8-8c63-f74da213
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 133128
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.6
+Content-Length: 129
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: a3b32165ebb38475
+X-B3-SpanId: 755c5a507d9cf8ed
+X-B3-ParentSpanId: a3b32165ebb38475
+X-B3-Sampled: 0
+
+{"area_parent_code":"2780114","area_type":"country","attr_orgid":"2780012","whether":"Y","currentUserId":"133128","queryFlag":""}
+
+========================================
+
+POST /JD040_cusInfoDetail.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: 183ea0d479cb1b6c
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMTM0MDciLCJzdWIiOiJ7YXV0aENvZGU9M2EyNmRkMzUtNTAyZi00NGMwLTg2NGUtMWUwYjY4ZDU3M2FmLCBzeXNGbGFnPTEsIGNlcnRDb2RlPW51bGwsIHJlZnJlc2hUaW1lPTMwLCB1c2VyTmFtZT1udWxsLCB1c2VySWQ9MTEzNDA3LCB1c3JfY2RlPTExMzQwNywgY29yZUVyck1zZz3jgJDlhazlj7jotLfjgJHnlKjmiLfkuI3lrZjlnKjvvIEsIGV4cGlyZVRpbWU9OTAwLCBobl9icl9hY2Nfbm89MjgzMDAwNywgdXNyX25hbWU95YiY5LiW6IGqLCB1c3JfaWRfbm89NTIyNDI4MTk4NzExMDcxMjE4LCBpc19maWN0PU59IiwiaXNzIjoid2FuZ3ciLCJpYXQiOjE2ODQ5MDkyMDQsImV4cCI6MTY4NDk0NTIwNH0.jBp17INoK7_oDsMpHCxUiB1uCYUSSyFjGgxGYNwNKaw
+responseiv: a7ee57e0-81a0-4973-a618-f0281981
+responsekey: 67701884-2ace-4a7c-895d-205c87fd
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 113407
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.11
+Content-Length: 36
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: 42b4d009deaf8d6d
+X-B3-SpanId: b0d1edf94e56e986
+X-B3-ParentSpanId: 42b4d009deaf8d6d
+X-B3-Sampled: 0
+
+{"cus_id":"KH283301072015050400002"}
+
+========================================
+
+POST /IM025_RequestDTO.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: 2ffeeb1e9dfebaff
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMTQ0MzIiLCJzdWIiOiJ7YXV0aENvZGU9ZmQ5NzQzNzEtODQ4Yy00MDU5LWI4NDItMWZkYjFjZmEzYWFiLCBzeXNGbGFnPTEsIGNlcnRDb2RlPW51bGwsIHJlZnJlc2hUaW1lPTMwLCB1c2VyTmFtZT1udWxsLCB1c2VySWQ9MTE0NDMyLCB1c3JfY2RlPTExNDQzMiwgY29yZUVyck1zZz3jgJDlhazlj7jotLfjgJHnlKjmiLfkuI3lrZjlnKjvvIEsIGV4cGlyZVRpbWU9OTAwLCBobl9icl9hY2Nfbm89MjgxMDAyNSwgdXNyX25hbWU9572X5paMLCB1c3JfaWRfbm89NTIyNDI2MTk4NjEwMDE3NzExLCBpc19maWN0PU59IiwiaXNzIjoid2FuZ3ciLCJpYXQiOjE2ODQ5MDkxOTQsImV4cCI6MTY4NDk0NTE5NH0.lTxOHy0GW7xQmRPdZ7Tb8wS5cvA6uEOxZ-cvIE9apag
+responseiv: 30f4cbd8-a9e3-4865-8a00-be59a630
+responsekey: e98f632e-2f5c-4a36-9261-74e8c960
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 114432
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.13
+Content-Length: 73
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: fb03223baa297350
+X-B3-SpanId: 20afe8599ce2eef7
+X-B3-ParentSpanId: fb03223baa297350
+X-B3-Sampled: 0
+
+{"input_id":"114432","area_type":"","area_code":"","area_parent_code":""}
+
+========================================
+
+POST /login001.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: 878ab63c86be4f2d
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMTU0MjUiLCJzdWIiOiJ7YXV0aENvZGU9OTk3YzhmNjktOTg3Ny00Mzk2LWI5ZTctMTZkMGFlMGVhYjNjLCBzeXNGbGFnPTEsIGNlcnRDb2RlPW51bGwsIHJlZnJlc2hUaW1lPTMwLCB1c2VyTmFtZT1udWxsLCB1c2VySWQ9MTE1NDI1LCB1c3JfY2RlPTExNTQyNSwgY29yZUVyck1zZz3jgJDlhazlj7jotLfjgJHnlKjmiLfkuI3lrZjlnKjvvIEsIGV4cGlyZVRpbWU9OTAwLCBobl9icl9hY2Nfbm89MjYyMDAxMCwgdXNyX25hbWU95p2o5YaN5Y2OLCB1c3JfaWRfbm89NTIyNjI5MTk3MzExMDMwMDE0LCBpc19maWN0PU59IiwiaXNzIjoid2FuZ3ciLCJpYXQiOjE2ODQ5MDkyMjYsImV4cCI6MTY4NDk0NTIyNn0.75gQUyJDV2pmDjcjJDlA3wzW7rlJcbjPb44XJRCXVuc
+responseiv: 2540abcf-f0b4-4637-8e12-f4031264
+responsekey: b4d518e5-27ec-49b2-818c-00d43d5b
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 115425
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.11
+Content-Length: 101
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: cb251504512dd7c5
+X-B3-SpanId: bfeffd0e791cc9fb
+X-B3-ParentSpanId: cb251504512dd7c5
+X-B3-Sampled: 0
+
+{"userId":"115425","usr_cde":"115425","usr_password":"3E0AA4D51C9C32A71E3E591A8F9D4FEC","fromSys":""}
+
+========================================
+
+GET /fileApi/downloadFileFromSCM.do?OID=5837e35eb0a23de9e29df51f&SYSTYPE=1 HTTP/1.1
+user-agent: Mozilla/5.0 (Linux; Android 10; ANA-TN00 Build/HUAWEIANA-TN00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.93 Mobile Safari/537.36 uni-app Html5Plus/1.0 (Immersed/43.0)
+accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+x-requested-with: com.yusys.prod.mybank
+sec-fetch-site: cross-site
+sec-fetch-mode: no-cors
+sec-fetch-dest: image
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.12
+Content-Length: 0
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: 76cb22c89182c7b7
+X-B3-SpanId: efbecfe1e31cfcc6
+X-B3-ParentSpanId: 76cb22c89182c7b7
+X-B3-Sampled: 0
+
+========================================
+
+POST /YW067_getFileList.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: 2ded9f263a55f3c8
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMzc2MTAiLCJzdWIiOiJ7YXV0aENvZGU9ZTRlZGJkZjMtZDhjMy00NDVhLWJjOWYtMTE4YmYzNTgyOTgzLCBzeXNGbGFnPTMsIGNlcnRDb2RlPTUyMjMyMTE5OTIwMzE3MzczMCwgcmVmcmVzaFRpbWU9MzAsIHVzZXJOYW1lPemtj-WFieaIkCwgdXNlcklkPTEzNzYxMCwgdXNyX2NkZT0xMzc2MTAsIGNvcmVFcnJNc2c9bnVsbCwgZXhwaXJlVGltZT05MDAsIGhuX2JyX2FjY19ubz0yOTAwMDEzLCB1c3JfbmFtZT3prY_lhYnmiJAsIHVzcl9pZF9ubz01MjIzMjExOTkyMDMxNzM3MzAsIGlzX2ZpY3Q9Tn0iLCJpc3MiOiJ3YW5ndyIsImlhdCI6MTY4NDkwOTIyNywiZXhwIjoxNjg0OTQ1MjI3fQ.49QFm_rXeMDXLV8r4zqqCWfufrM7ZZtC7eCLJgcwzZw
+responseiv: ba545875-0484-45ff-8a68-d5e07b72
+responsekey: 45aff6f2-2c95-4cf2-8c04-3b9d0d39
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 137610
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.8
+Content-Length: 130
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: 35713e126230c6fe
+X-B3-SpanId: 1e0fa852b7fd28ce
+X-B3-ParentSpanId: 35713e126230c6fe
+X-B3-Sampled: 0
+
+{"file_id":"20200806100134","cus_id":"KH290012002015081400001","serno":"KH290012002015081400001","pageMin":"1","pageDetaiNum":"3"}
+
+========================================
+
+POST /wxProgram/confirmFicialResult.do HTTP/1.1
+responsekey: bace9db4-3dab-42f0-8b5e-112bd11d3e27
+charset: utf-8
+authflag: unNeed
+x-requested-with: XMLHttpRequest
+channel: app
+user-agent: Mozilla/5.0 (Linux; Android 12; RMX3361 Build/RKQ1.210503.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.141 Mobile Safari/537.36 XWEB/5075 MMWEBSDK/20221206 MMWEBID/7164 MicroMessenger/8.0.32.2300(0x2800205D) WeChat/arm64 Weixin NetType/WIFI Language/zh_CN ABI/arm64 MiniProgramEnv/android
+content-type: application/json;charset=UTF-8
+accept-encoding: gzip,compress,br,deflate
+responseiv: f06fd057-df98-44f9-8d1f-a49ef0cc3b4d
+referer: https://servicewechat.com/wx66015b6a9ff1c9b3/44/page-frame.html
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-wxservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.11
+Content-Length: 148
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: 83830a4caaa98f70
+X-B3-SpanId: d70e370e55de60e2
+X-B3-ParentSpanId: 83830a4caaa98f70
+X-B3-Sampled: 0
+
+{"verify_result":"XXIzTtMqCxwOaawoE91-VG49ioDFJBAY-RDFrY8LPxqHz6HCDUhvh3dRQ-VTJlwutA706UuYjDkNr5MxgnS_8Gc_RT3NdMU30TFIfG3WHH5gx43B8GHCi1sgz2rj4Vpu"}
+
+========================================
+
+POST /ZQXY008_RequestDTO.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: 878ab63c86be4f2d
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMTU0MjUiLCJzdWIiOiJ7YXV0aENvZGU9OTk3YzhmNjktOTg3Ny00Mzk2LWI5ZTctMTZkMGFlMGVhYjNjLCBzeXNGbGFnPTEsIGNlcnRDb2RlPW51bGwsIHJlZnJlc2hUaW1lPTMwLCB1c2VyTmFtZT1udWxsLCB1c2VySWQ9MTE1NDI1LCB1c3JfY2RlPTExNTQyNSwgY29yZUVyck1zZz3jgJDlhazlj7jotLfjgJHnlKjmiLfkuI3lrZjlnKjvvIEsIGV4cGlyZVRpbWU9OTAwLCBobl9icl9hY2Nfbm89MjYyMDAxMCwgdXNyX25hbWU95p2o5YaN5Y2OLCB1c3JfaWRfbm89NTIyNjI5MTk3MzExMDMwMDE0LCBpc19maWN0PU59IiwiaXNzIjoid2FuZ3ciLCJpYXQiOjE2ODQ5MDkyMjYsImV4cCI6MTY4NDk0NTIyNn0.75gQUyJDV2pmDjcjJDlA3wzW7rlJcbjPb44XJRCXVuc
+responseiv: 5cd1f05f-cac9-4199-91fc-eed51a68
+responsekey: 31a8e974-d2b4-47e6-b65c-6323a7eb
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 115425
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.8
+Content-Length: 84
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: dbc1f83513d66459
+X-B3-SpanId: d3058aa65508eb0b
+X-B3-ParentSpanId: dbc1f83513d66459
+X-B3-Sampled: 0
+
+{"currentUserId":"115425","instuCde":"0000","organNo":"2620010","artiOrganNo":"262"}
+
+========================================
+
+POST /wpsApi/uploadGPFSToSCM.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: 050f4f82ce402395
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMjU1MjkiLCJzdWIiOiJ7YXV0aENvZGU9ODU1NmMwNDItODgxMi00ZWQ1LWI2YjQtMmYzZjI1OWE2ZDY5LCBzeXNGbGFnPTMsIGNlcnRDb2RlPTUyMjMyMTE5OTIwMjIwNDkxMCwgcmVmcmVzaFRpbWU9MzAsIHVzZXJOYW1lPeaWh-aIkCwgdXNlcklkPTEyNTUyOSwgdXNyX2NkZT0xMjU1MjksIGNvcmVFcnJNc2c9bnVsbCwgZXhwaXJlVGltZT05MDAsIGhuX2JyX2FjY19ubz0yODgwMDM1LCB1c3JfbmFtZT3mlofmiJAsIHVzcl9pZF9ubz01MjIzMjExOTkyMDIyMDQ5MTAsIGlzX2ZpY3Q9Tn0iLCJpc3MiOiJ3YW5ndyIsImlhdCI6MTY4NDkwOTEyNiwiZXhwIjoxNjg0OTQ1MTI2fQ.C3qRb9y3nxLDbAWfHTOadTNxqGc3fhSHrWAEiAx9Tvo
+responseiv: 26d0b56d-7f90-4a12-8eee-b58ad556
+responsekey: 038e3bb5-76f0-494d-919c-3aa6d7f6
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 125529
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.13
+Content-Length: 187
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: d581dab84fd3323f
+X-B3-SpanId: ce57b60adfbd7b9e
+X-B3-ParentSpanId: d581dab84fd3323f
+X-B3-Sampled: 0
+
+{"gpfsDir":"/gpfs/gznxmbap/file/axq/YDXDContact20230524142052JK20230524000606797.pdf","itemType":"YDXDContact20230524142052JK20230524000606797.pdf","batchId":"20230524142053","SYSTYPE":1}
+
+========================================
+
+GET /fileApi/downloadFileFromSCM.do?OID=646dacc6e4b0c13a1dfcc6a8&SYSTYPE=1 HTTP/1.1
+user-agent: Mozilla/5.0 (Linux; Android 13; SM-F7110 Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/108.0.5359.128 Mobile Safari/537.36 uni-app Html5Plus/1.0 (Immersed/31.333334)
+accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+x-requested-with: com.yusys.prod.mybank
+sec-fetch-site: cross-site
+sec-fetch-mode: no-cors
+sec-fetch-dest: image
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.7
+Content-Length: 0
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: 245ad2ddb61c72e2
+X-B3-SpanId: 96842acde02aee3b
+X-B3-ParentSpanId: 245ad2ddb61c72e2
+X-B3-Sampled: 0
+
+========================================
+
+POST /ZQXY008_RequestDTO.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: 2773a6a2a8637537
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMDY2NDUiLCJzdWIiOiJ7YXV0aENvZGU9NmQ0NWRiZTctYjNkNC00ZGJkLTg5ZWQtZTFmZDVkYmIzNTAwLCBzeXNGbGFnPTEsIGNlcnRDb2RlPW51bGwsIHJlZnJlc2hUaW1lPTMwLCB1c2VyTmFtZT1udWxsLCB1c2VySWQ9MTA2NjQ1LCB1c3JfY2RlPTEwNjY0NSwgY29yZUVyck1zZz3jgJDlhazlj7jotLfjgJHnlKjmiLfkuI3lrZjlnKjvvIEsIGV4cGlyZVRpbWU9OTAwLCBobl9icl9hY2Nfbm89MjUxMDAyMSwgdXNyX25hbWU95byg546uLCB1c3JfaWRfbm89NTIyNjAxMTk4MzA2MjcwMDExLCBpc19maWN0PU59IiwiaXNzIjoid2FuZ3ciLCJpYXQiOjE2ODQ5MDkyNDIsImV4cCI6MTY4NDk0NTI0Mn0._zoUeFT5-itKLv4AX31MuPUB-WKoIz_WsEQEQ1pCcdM
+responseiv: db77a3fa-4405-4236-93d8-70a9f732
+responsekey: 428cd37f-e30b-4231-a77a-d8122c7b
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 106645
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.13
+Content-Length: 84
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: 85b3c37e0eafde22
+X-B3-SpanId: 5fb4f914adf69d40
+X-B3-ParentSpanId: 85b3c37e0eafde22
+X-B3-Sampled: 1
+
+{"currentUserId":"106645","instuCde":"0000","organNo":"2510021","artiOrganNo":"251"}
+
+========================================
+
+POST /IM102_RequestDTO.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: 878ab63c86be4f2d
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMTU0MjUiLCJzdWIiOiJ7YXV0aENvZGU9OTk3YzhmNjktOTg3Ny00Mzk2LWI5ZTctMTZkMGFlMGVhYjNjLCBzeXNGbGFnPTEsIGNlcnRDb2RlPW51bGwsIHJlZnJlc2hUaW1lPTMwLCB1c2VyTmFtZT1udWxsLCB1c2VySWQ9MTE1NDI1LCB1c3JfY2RlPTExNTQyNSwgY29yZUVyck1zZz3jgJDlhazlj7jotLfjgJHnlKjmiLfkuI3lrZjlnKjvvIEsIGV4cGlyZVRpbWU9OTAwLCBobl9icl9hY2Nfbm89MjYyMDAxMCwgdXNyX25hbWU95p2o5YaN5Y2OLCB1c3JfaWRfbm89NTIyNjI5MTk3MzExMDMwMDE0LCBpc19maWN0PU59IiwiaXNzIjoid2FuZ3ciLCJpYXQiOjE2ODQ5MDkyMjYsImV4cCI6MTY4NDk0NTIyNn0.75gQUyJDV2pmDjcjJDlA3wzW7rlJcbjPb44XJRCXVuc
+responseiv: 82f9dfbd-d8f5-4e7a-a29f-c618fda3
+responsekey: 662df111-0321-4419-8b65-0b1fbcf6
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 115425
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.12
+Content-Length: 20
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: e66c356f6e9f6f32
+X-B3-SpanId: 8b48b14a8e3f1516
+X-B3-ParentSpanId: e66c356f6e9f6f32
+X-B3-Sampled: 0
+
+{"usr_cde":"115425"}
+
+========================================
+
+POST /RW025_waitTaskList.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: 878ab63c86be4f2d
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMTU0MjUiLCJzdWIiOiJ7YXV0aENvZGU9OTk3YzhmNjktOTg3Ny00Mzk2LWI5ZTctMTZkMGFlMGVhYjNjLCBzeXNGbGFnPTEsIGNlcnRDb2RlPW51bGwsIHJlZnJlc2hUaW1lPTMwLCB1c2VyTmFtZT1udWxsLCB1c2VySWQ9MTE1NDI1LCB1c3JfY2RlPTExNTQyNSwgY29yZUVyck1zZz3jgJDlhazlj7jotLfjgJHnlKjmiLfkuI3lrZjlnKjvvIEsIGV4cGlyZVRpbWU9OTAwLCBobl9icl9hY2Nfbm89MjYyMDAxMCwgdXNyX25hbWU95p2o5YaN5Y2OLCB1c3JfaWRfbm89NTIyNjI5MTk3MzExMDMwMDE0LCBpc19maWN0PU59IiwiaXNzIjoid2FuZ3ciLCJpYXQiOjE2ODQ5MDkyMjYsImV4cCI6MTY4NDk0NTIyNn0.75gQUyJDV2pmDjcjJDlA3wzW7rlJcbjPb44XJRCXVuc
+responseiv: 623fef16-0b4c-46d3-824b-c5b7a33f
+responsekey: 6866d280-b0e2-4cfa-b05d-9ec3b725
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 115425
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.12
+Content-Length: 213
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: c337d10b3bbdd3f9
+X-B3-SpanId: ebb1b65ac077f7ec
+X-B3-ParentSpanId: c337d10b3bbdd3f9
+X-B3-Sampled: 1
+
+{"organNo":"2620010","cus_name":"","currentUserId":"115425","appl_type":"","pageMin":"1","pageDetaiNum":"10","showFlag":"1001,1002,1003,1005,1012,1021,4264","nodeId":"1016,1025,1026,1001,1006","artiOrganNo":"262"}
+
+========================================
+
+POST /cfcaContractInfoQueryRecord.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: 050f4f82ce402395
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMjU1MjkiLCJzdWIiOiJ7YXV0aENvZGU9ODU1NmMwNDItODgxMi00ZWQ1LWI2YjQtMmYzZjI1OWE2ZDY5LCBzeXNGbGFnPTMsIGNlcnRDb2RlPTUyMjMyMTE5OTIwMjIwNDkxMCwgcmVmcmVzaFRpbWU9MzAsIHVzZXJOYW1lPeaWh-aIkCwgdXNlcklkPTEyNTUyOSwgdXNyX2NkZT0xMjU1MjksIGNvcmVFcnJNc2c9bnVsbCwgZXhwaXJlVGltZT05MDAsIGhuX2JyX2FjY19ubz0yODgwMDM1LCB1c3JfbmFtZT3mlofmiJAsIHVzcl9pZF9ubz01MjIzMjExOTkyMDIyMDQ5MTAsIGlzX2ZpY3Q9Tn0iLCJpc3MiOiJ3YW5ndyIsImlhdCI6MTY4NDkwOTEyNiwiZXhwIjoxNjg0OTQ1MTI2fQ.C3qRb9y3nxLDbAWfHTOadTNxqGc3fhSHrWAEiAx9Tvo
+responseiv: 2eb9afc0-cef0-4b56-8ae4-0bf48e68
+responsekey: 12d3a2e7-1a9f-4cbf-8e84-d55a8a3a
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 125529
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.5
+Content-Length: 70
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: 1f906bf7b14f96ed
+X-B3-SpanId: f40bc32d099f64ab
+X-B3-ParentSpanId: 1f906bf7b14f96ed
+X-B3-Sampled: 0
+
+{"relativeno":"LS28820230524423026","cfca_code":"JK20230524000606797"}
+
+========================================
+
+POST /IM102_RequestDTO.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: 2773a6a2a8637537
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMDY2NDUiLCJzdWIiOiJ7YXV0aENvZGU9NmQ0NWRiZTctYjNkNC00ZGJkLTg5ZWQtZTFmZDVkYmIzNTAwLCBzeXNGbGFnPTEsIGNlcnRDb2RlPW51bGwsIHJlZnJlc2hUaW1lPTMwLCB1c2VyTmFtZT1udWxsLCB1c2VySWQ9MTA2NjQ1LCB1c3JfY2RlPTEwNjY0NSwgY29yZUVyck1zZz3jgJDlhazlj7jotLfjgJHnlKjmiLfkuI3lrZjlnKjvvIEsIGV4cGlyZVRpbWU9OTAwLCBobl9icl9hY2Nfbm89MjUxMDAyMSwgdXNyX25hbWU95byg546uLCB1c3JfaWRfbm89NTIyNjAxMTk4MzA2MjcwMDExLCBpc19maWN0PU59IiwiaXNzIjoid2FuZ3ciLCJpYXQiOjE2ODQ5MDkyNDIsImV4cCI6MTY4NDk0NTI0Mn0._zoUeFT5-itKLv4AX31MuPUB-WKoIz_WsEQEQ1pCcdM
+responseiv: 6c4ea1dd-92d3-42d8-938a-0b33cb56
+responsekey: 4978c122-057b-47a5-8bcd-416abc32
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 106645
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.13
+Content-Length: 20
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: 849dfe0635d25724
+X-B3-SpanId: 7de4f21049e41c66
+X-B3-ParentSpanId: 849dfe0635d25724
+X-B3-Sampled: 0
+
+{"usr_cde":"106645"}
+
+========================================
+
+POST /notice001_bak_messageList.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: 2773a6a2a8637537
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMDY2NDUiLCJzdWIiOiJ7YXV0aENvZGU9NmQ0NWRiZTctYjNkNC00ZGJkLTg5ZWQtZTFmZDVkYmIzNTAwLCBzeXNGbGFnPTEsIGNlcnRDb2RlPW51bGwsIHJlZnJlc2hUaW1lPTMwLCB1c2VyTmFtZT1udWxsLCB1c2VySWQ9MTA2NjQ1LCB1c3JfY2RlPTEwNjY0NSwgY29yZUVyck1zZz3jgJDlhazlj7jotLfjgJHnlKjmiLfkuI3lrZjlnKjvvIEsIGV4cGlyZVRpbWU9OTAwLCBobl9icl9hY2Nfbm89MjUxMDAyMSwgdXNyX25hbWU95byg546uLCB1c3JfaWRfbm89NTIyNjAxMTk4MzA2MjcwMDExLCBpc19maWN0PU59IiwiaXNzIjoid2FuZ3ciLCJpYXQiOjE2ODQ5MDkyNDIsImV4cCI6MTY4NDk0NTI0Mn0._zoUeFT5-itKLv4AX31MuPUB-WKoIz_WsEQEQ1pCcdM
+responseiv: 40b31957-3d0b-437d-a268-3dfa8691
+responsekey: 600c4407-95f3-4a2f-9908-9b3255fa
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 106645
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.7
+Content-Length: 153
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: 359e1f609fa130c5
+X-B3-SpanId: 4e99d9d6ad6f6074
+X-B3-ParentSpanId: 359e1f609fa130c5
+X-B3-Sampled: 0
+
+{"msg_read_type":"","title":"","sendTimeBegin":"","sendTimeEnd":"","pageMin":1,"pageDetaiNum":10,"msg_type":"","usr_cde":"106645","openday":"2023-05-24"}
+
+========================================
+
+POST /RW025_waitTaskList.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: 2773a6a2a8637537
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMDY2NDUiLCJzdWIiOiJ7YXV0aENvZGU9NmQ0NWRiZTctYjNkNC00ZGJkLTg5ZWQtZTFmZDVkYmIzNTAwLCBzeXNGbGFnPTEsIGNlcnRDb2RlPW51bGwsIHJlZnJlc2hUaW1lPTMwLCB1c2VyTmFtZT1udWxsLCB1c2VySWQ9MTA2NjQ1LCB1c3JfY2RlPTEwNjY0NSwgY29yZUVyck1zZz3jgJDlhazlj7jotLfjgJHnlKjmiLfkuI3lrZjlnKjvvIEsIGV4cGlyZVRpbWU9OTAwLCBobl9icl9hY2Nfbm89MjUxMDAyMSwgdXNyX25hbWU95byg546uLCB1c3JfaWRfbm89NTIyNjAxMTk4MzA2MjcwMDExLCBpc19maWN0PU59IiwiaXNzIjoid2FuZ3ciLCJpYXQiOjE2ODQ5MDkyNDIsImV4cCI6MTY4NDk0NTI0Mn0._zoUeFT5-itKLv4AX31MuPUB-WKoIz_WsEQEQ1pCcdM
+responseiv: c5a6234d-bffa-4181-9878-414c8a61
+responsekey: 3848b5ce-abb0-466c-80ad-8353fca2
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 106645
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.11
+Content-Length: 228
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: ede06f65082cfa94
+X-B3-SpanId: 8133d48afd06d77a
+X-B3-ParentSpanId: ede06f65082cfa94
+X-B3-Sampled: 0
+
+{"organNo":"2510021","cus_name":"","currentUserId":"106645","appl_type":"","pageMin":"1","pageDetaiNum":"10","showFlag":"3474,1001,1002,1003,1004,1005,1012,1023,1021","nodeId":"1016,1025,1026,1030,1055,1001","artiOrganNo":"251"}
+
+========================================
+
+POST /AREA001_RequestDTO.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: 2c9a2a9f6be20d10
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMzMxMjgiLCJzdWIiOiJ7YXV0aENvZGU9MjllOTIwODMtNDAwMC00NDIyLWJmZmQtYzE5ZGU5Yjk5YTkxLCBzeXNGbGFnPTEsIGNlcnRDb2RlPW51bGwsIHJlZnJlc2hUaW1lPTMwLCB1c2VyTmFtZT1udWxsLCB1c2VySWQ9MTMzMTI4LCB1c3JfY2RlPTEzMzEyOCwgY29yZUVyck1zZz3jgJDlhazlj7jotLfjgJHnlKjmiLfkuI3lrZjlnKjvvIEsIGV4cGlyZVRpbWU9OTAwLCBobl9icl9hY2Nfbm89Mjc4MDAxMiwgdXNyX25hbWU95byg6ZizLCB1c3JfaWRfbm89NTIyNDIzMTk5MDA0MTk5NjM3LCBpc19maWN0PU59IiwiaXNzIjoid2FuZ3ciLCJpYXQiOjE2ODQ5MDkxOTQsImV4cCI6MTY4NDk0NTE5NH0.EYCZ_Yw46asfZmjnSqkcrl-ZiFPHIEvG2J667bjQTo8
+responseiv: 61f24ff6-9a14-4a82-a0a1-3a8ac93f
+responsekey: 0e3d3006-1136-4d30-949c-7ee290cb
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 133128
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.5
+Content-Length: 48
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: 3fde9601321ce945
+X-B3-SpanId: dd7256cfa27b5a20
+X-B3-ParentSpanId: 3fde9601321ce945
+X-B3-Sampled: 0
+
+{"area_type":"city","area_parent_code":"520000"}
+
+========================================
+
+POST /RW016_getToDoWorkList.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: 0d0358bda60a9c9b
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMTQxMDEiLCJzdWIiOiJ7YXV0aENvZGU9NjBmN2QwYmYtOTViZS00YTcwLWIyZDMtMmQ5ZDQwYTI0Yjk1LCBzeXNGbGFnPTEsIGNlcnRDb2RlPW51bGwsIHJlZnJlc2hUaW1lPTMwLCB1c2VyTmFtZT1udWxsLCB1c2VySWQ9MTE0MTAxLCB1c3JfY2RlPTExNDEwMSwgY29yZUVyck1zZz3jgJDlhazlj7jotLfjgJHnlKjmiLfkuI3lrZjlnKjvvIEsIGV4cGlyZVRpbWU9OTAwLCBobl9icl9hY2Nfbm89Mjc2MDA0OSwgdXNyX25hbWU95ZGo57un6ImzLCB1c3JfaWRfbm89NTIyNDI1MTk4NDEwMTYwMDIzLCBpc19maWN0PU59IiwiaXNzIjoid2FuZ3ciLCJpYXQiOjE2ODQ5MDg3NjEsImV4cCI6MTY4NDk0NDc2MX0.5zJBqn62EyJveogEsxD_Vc4GWSjH7KcTOjUaek8jjNA
+responseiv: 0fab56fd-2ad2-43df-88a9-b17952ad
+responsekey: bc0882ef-c67b-42af-bd23-f852fb08
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 114101
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.9
+Content-Length: 82
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: a19fcdc71f805796
+X-B3-SpanId: 6cfa5a1875c4bb27
+X-B3-ParentSpanId: a19fcdc71f805796
+X-B3-Sampled: 0
+
+{"usr_id":"114101","cus_name":"","appl_type":"","pageDetaiNum":"10","pageMin":"1"}
+
+========================================
+
+POST /judgeFaceIdentifyVIP.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: 6fcc581949aee538
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMTExODYiLCJzdWIiOiJ7YXV0aENvZGU9MTJmODU4NTQtMDA1Zi00MjhhLWI3NjYtMDI0ZWE3MTdmMTRjLCBzeXNGbGFnPTEsIGNlcnRDb2RlPW51bGwsIHJlZnJlc2hUaW1lPTMwLCB1c2VyTmFtZT1udWxsLCB1c2VySWQ9MTExMTg2LCB1c3JfY2RlPTExMTE4NiwgY29yZUVyck1zZz3jgJDlhazlj7jotLfjgJHnlKjmiLfkuI3lrZjlnKjvvIEsIGV4cGlyZVRpbWU9OTAwLCBobl9icl9hY2Nfbm89MjY4MDAxNCwgdXNyX25hbWU95p2o6IycLCB1c3JfaWRfbm89NTIyMjI5MTk4MzAxMTk1MjQ4LCBpc19maWN0PU59IiwiaXNzIjoid2FuZ3ciLCJpYXQiOjE2ODQ5MDkyNTQsImV4cCI6MTY4NDk0NTI1NH0.oe-Y6XWn1RiFy3LSk_mfV4eBxYzDwkdrPJ9MGag_A8w
+responseiv: 1460c335-4eb4-4100-8c87-a4cd9711
+responsekey: 7607bb6c-31f6-4e19-8a9c-3f65eeb0
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 111186
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.5
+Content-Length: 23
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: bc0e1042fa55290e
+X-B3-SpanId: 76ab3f6c07301a12
+X-B3-ParentSpanId: bc0e1042fa55290e
+X-B3-Sampled: 0
+
+{"fiv_userid":"111186"}
+
+========================================
+
+POST /JD040_cusInfoDetail.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: 246b36a6c9d8419b
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMTgwOTciLCJzdWIiOiJ7YXV0aENvZGU9ZGI3Y2U4OTMtY2E3My00OWE2LTkyN2YtZjUzMTc3ZDg0ZmE3LCBzeXNGbGFnPTMsIGNlcnRDb2RlPTUyMjUwMTE5ODQwNjA1MDQyNCwgcmVmcmVzaFRpbWU9MzAsIHVzZXJOYW1lPeWQtOW_l-WonywgdXNlcklkPTExODA5NywgdXNyX2NkZT0xMTgwOTcsIGNvcmVFcnJNc2c9bnVsbCwgZXhwaXJlVGltZT05MDAsIGhuX2JyX2FjY19ubz0yMzMwMDE2LCB1c3JfbmFtZT3lkLTlv5flqJ8sIHVzcl9pZF9ubz01MjI1MDExOTg0MDYwNTA0MjQsIGlzX2ZpY3Q9Tn0iLCJpc3MiOiJ3YW5ndyIsImlhdCI6MTY4NDkwOTE4NiwiZXhwIjoxNjg0OTQ1MTg2fQ.4J9GAzGPNVlSwDFCjF-pw3dp0rBgU6piQFwRk0i2cvQ
+responseiv: da94751a-8f94-427a-91e7-99f2dfd1
+responsekey: d574274a-35a6-4775-9c93-1cf88b63
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 118097
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.13
+Content-Length: 36
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: 4fb946446d2b1735
+X-B3-SpanId: 44961677351291f5
+X-B3-ParentSpanId: 4fb946446d2b1735
+X-B3-Sampled: 0
+
+{"cus_id":"KH233314012015080500004"}
+
+========================================
+
+POST /LC001_custPosQry.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: 76a00a6fecd2b141
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxNzc1OTAiLCJzdWIiOiJ7YXV0aENvZGU9YzAyNGUzZmQtNzg5MC00YzQ2LWI2ZjYtNTQ1MWI4YzBhMmZjLCBzeXNGbGFnPTEsIGNlcnRDb2RlPW51bGwsIHJlZnJlc2hUaW1lPTMwLCB1c2VyTmFtZT1udWxsLCB1c2VySWQ9MTc3NTkwLCB1c3JfY2RlPTE3NzU5MCwgY29yZUVyck1zZz3jgJDlhazlj7jotLfjgJHnlKjmiLfkuI3lrZjlnKjvvIEsIGV4cGlyZVRpbWU9OTAwLCBobl9icl9hY2Nfbm89Mjg1MDAwNywgdXNyX25hbWU955SY6L-c6aOeLCB1c3JfaWRfbm89NTIwMjIxMTk5NTEwMjU0ODI0LCBpc19maWN0PU59IiwiaXNzIjoid2FuZ3ciLCJpYXQiOjE2ODQ5MDgyOTQsImV4cCI6MTY4NDk0NDI5NH0.x4R_jB5ial-7nxsFWZAtIFFZnttuiGfr7Gaho5RG_pI
+responseiv: b177defa-3122-4fd2-8a41-d19f1eb4
+responsekey: f4497b8a-7b8b-492b-87a1-a681ab34
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 177590
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.11
+Content-Length: 66
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: edec4b44f1d369a2
+X-B3-SpanId: 4dde14cd2a73939d
+X-B3-ParentSpanId: edec4b44f1d369a2
+X-B3-Sampled: 0
+
+{"cusNum":"1007728362","isRede":"2","startSerNo":1,"sumRecord":50}
+
+========================================
+
+POST /AREA001_RequestDTO.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: 2ffeeb1e9dfebaff
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMTQ0MzIiLCJzdWIiOiJ7YXV0aENvZGU9ZmQ5NzQzNzEtODQ4Yy00MDU5LWI4NDItMWZkYjFjZmEzYWFiLCBzeXNGbGFnPTEsIGNlcnRDb2RlPW51bGwsIHJlZnJlc2hUaW1lPTMwLCB1c2VyTmFtZT1udWxsLCB1c2VySWQ9MTE0NDMyLCB1c3JfY2RlPTExNDQzMiwgY29yZUVyck1zZz3jgJDlhazlj7jotLfjgJHnlKjmiLfkuI3lrZjlnKjvvIEsIGV4cGlyZVRpbWU9OTAwLCBobl9icl9hY2Nfbm89MjgxMDAyNSwgdXNyX25hbWU9572X5paMLCB1c3JfaWRfbm89NTIyNDI2MTk4NjEwMDE3NzExLCBpc19maWN0PU59IiwiaXNzIjoid2FuZ3ciLCJpYXQiOjE2ODQ5MDkxOTQsImV4cCI6MTY4NDk0NTE5NH0.lTxOHy0GW7xQmRPdZ7Tb8wS5cvA6uEOxZ-cvIE9apag
+responseiv: a5fa7967-3c1c-4a79-ae83-fe42410a
+responsekey: 937a176f-cab4-4689-88a1-6a6ecac2
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 114432
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.8
+Content-Length: 46
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: d6e2ae15ae6f6a50
+X-B3-SpanId: 641166a351ee80f2
+X-B3-ParentSpanId: d6e2ae15ae6f6a50
+X-B3-Sampled: 1
+
+{"area_type":"province","area_parent_code":""}
+
+========================================
+
+POST /RW016_getToDoWorkList.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: 623f11e3ace5bbfc
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMzQ5NzgiLCJzdWIiOiJ7YXV0aENvZGU9YjA4NDI1ZGEtNTliZS00MTJkLTg0NTMtNzNhMGY4MmNlMGRmLCBzeXNGbGFnPTEsIGNlcnRDb2RlPW51bGwsIHJlZnJlc2hUaW1lPTMwLCB1c2VyTmFtZT1udWxsLCB1c2VySWQ9MTM0OTc4LCB1c3JfY2RlPTEzNDk3OCwgY29yZUVyck1zZz3jgJDlhazlj7jotLfjgJHnlKjmiLfkuI3lrZjlnKjvvIEsIGV4cGlyZVRpbWU9OTAwLCBobl9icl9hY2Nfbm89MjM0MDAxNiwgdXNyX25hbWU95byg6JaHLCB1c3JfaWRfbm89NTIyNTI2MTk4NTExMDkwMDJYLCBpc19maWN0PU59IiwiaXNzIjoid2FuZ3ciLCJpYXQiOjE2ODQ5MDcyMTIsImV4cCI6MTY4NDk0MzIxMn0.0Q-rKghlfFezWdt-A8pTX3-kGAzPIqBdmOUK_94-Gbs
+responseiv: 7fb26f09-15dc-4859-8d7d-b426d576
+responsekey: 7ff5a56c-2471-4b20-930a-9217b5c6
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 134978
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.10
+Content-Length: 82
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: 1c22266a3673a41d
+X-B3-SpanId: 89ca9515d35e8a86
+X-B3-ParentSpanId: 1c22266a3673a41d
+X-B3-Sampled: 0
+
+{"usr_id":"134978","cus_name":"","appl_type":"","pageDetaiNum":"10","pageMin":"1"}
+
+========================================
+
+POST /RW025_waitTaskList.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: 623f11e3ace5bbfc
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMzQ5NzgiLCJzdWIiOiJ7YXV0aENvZGU9YjA4NDI1ZGEtNTliZS00MTJkLTg0NTMtNzNhMGY4MmNlMGRmLCBzeXNGbGFnPTEsIGNlcnRDb2RlPW51bGwsIHJlZnJlc2hUaW1lPTMwLCB1c2VyTmFtZT1udWxsLCB1c2VySWQ9MTM0OTc4LCB1c3JfY2RlPTEzNDk3OCwgY29yZUVyck1zZz3jgJDlhazlj7jotLfjgJHnlKjmiLfkuI3lrZjlnKjvvIEsIGV4cGlyZVRpbWU9OTAwLCBobl9icl9hY2Nfbm89MjM0MDAxNiwgdXNyX25hbWU95byg6JaHLCB1c3JfaWRfbm89NTIyNTI2MTk4NTExMDkwMDJYLCBpc19maWN0PU59IiwiaXNzIjoid2FuZ3ciLCJpYXQiOjE2ODQ5MDcyMTIsImV4cCI6MTY4NDk0MzIxMn0.0Q-rKghlfFezWdt-A8pTX3-kGAzPIqBdmOUK_94-Gbs
+responseiv: 6a7b1727-d2db-4447-9613-09f211d8
+responsekey: 1ccc90b2-ce94-4d02-b258-7ef05382
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 134978
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.11
+Content-Length: 213
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: 49de099486492bd2
+X-B3-SpanId: c95f284377f0ad7e
+X-B3-ParentSpanId: 49de099486492bd2
+X-B3-Sampled: 0
+
+{"organNo":"2340016","cus_name":"","currentUserId":"134978","appl_type":"","pageMin":"1","pageDetaiNum":"10","showFlag":"1001,1002,1003,1012,1021,6488,6487,7865","nodeId":"1016,1025,1001,1006","artiOrganNo":"234"}
+
+========================================
+
+POST /IM025_RequestDTO.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: 3976ca6d16bed99a
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMjQxMTciLCJzdWIiOiJ7YXV0aENvZGU9YmRmZTc1NGMtMDZkMS00NzgwLWJlODktYjg3YjU4NDcxZTc2LCBzeXNGbGFnPTEsIGNlcnRDb2RlPW51bGwsIHJlZnJlc2hUaW1lPTMwLCB1c2VyTmFtZT1udWxsLCB1c2VySWQ9MTI0MTE3LCB1c3JfY2RlPTEyNDExNywgY29yZUVyck1zZz3jgJDlhazlj7jotLfjgJHnlKjmiLfkuI3lrZjlnKjvvIEsIGV4cGlyZVRpbWU9OTAwLCBobl9icl9hY2Nfbm89MjIxMDA0MywgdXNyX25hbWU95a6L6ZKK6LS1LCB1c3JfaWRfbm89NTIyMTIxMTk3ODEyMTcwNjE1LCBpc19maWN0PU59IiwiaXNzIjoid2FuZ3ciLCJpYXQiOjE2ODQ5MDc5NzksImV4cCI6MTY4NDk0Mzk3OX0.Dp-8bMUSIWAG7AS2lI1c3unFmAlbFgVspAj9iP3WrW8
+responseiv: ccb45cb8-14dd-4768-8c22-32e85716
+responsekey: 119cd03b-6648-43ac-8b3d-f6eebc85
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 124117
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.11
+Content-Length: 73
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: 004d21c3cfaba700
+X-B3-SpanId: a2d5489c6f035c9c
+X-B3-ParentSpanId: 004d21c3cfaba700
+X-B3-Sampled: 0
+
+{"input_id":"124117","area_type":"","area_code":"","area_parent_code":""}
+
+========================================
+
+POST /JD040_cusInfoDetail.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: 3976ca6d16bed99a
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMjQxMTciLCJzdWIiOiJ7YXV0aENvZGU9YmRmZTc1NGMtMDZkMS00NzgwLWJlODktYjg3YjU4NDcxZTc2LCBzeXNGbGFnPTEsIGNlcnRDb2RlPW51bGwsIHJlZnJlc2hUaW1lPTMwLCB1c2VyTmFtZT1udWxsLCB1c2VySWQ9MTI0MTE3LCB1c3JfY2RlPTEyNDExNywgY29yZUVyck1zZz3jgJDlhazlj7jotLfjgJHnlKjmiLfkuI3lrZjlnKjvvIEsIGV4cGlyZVRpbWU9OTAwLCBobl9icl9hY2Nfbm89MjIxMDA0MywgdXNyX25hbWU95a6L6ZKK6LS1LCB1c3JfaWRfbm89NTIyMTIxMTk3ODEyMTcwNjE1LCBpc19maWN0PU59IiwiaXNzIjoid2FuZ3ciLCJpYXQiOjE2ODQ5MDc5NzksImV4cCI6MTY4NDk0Mzk3OX0.Dp-8bMUSIWAG7AS2lI1c3unFmAlbFgVspAj9iP3WrW8
+responseiv: fc82c725-1c9b-44b1-8f80-88b3bdd3
+responsekey: 6ee02510-67a8-4eac-bb81-1f5331d7
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 124117
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.6
+Content-Length: 36
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: bd32757a365aef26
+X-B3-SpanId: d7e83e4188c7fb52
+X-B3-ParentSpanId: bd32757a365aef26
+X-B3-Sampled: 0
+
+{"cus_id":"KH221015102014050302222"}
+
+========================================
+
+POST /JD023_drawListQuery.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: 081082523258cfa4
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMjA1NTciLCJzdWIiOiJ7YXV0aENvZGU9YjEzNDdhZDUtNmI2MC00NTk3LWJkYTktNTYyM2FkN2FhODgzLCBzeXNGbGFnPTMsIGNlcnRDb2RlPTUyMjIyNzE5NzEwNTI1NTIxOCwgcmVmcmVzaFRpbWU9MzAsIHVzZXJOYW1lPeWwuei0tSwgdXNlcklkPTEyMDU1NywgdXNyX2NkZT0xMjA1NTcsIGNvcmVFcnJNc2c9bnVsbCwgZXhwaXJlVGltZT05MDAsIGhuX2JyX2FjY19ubz0yNzUwMDE5LCB1c3JfbmFtZT3lsLnotLUsIHVzcl9pZF9ubz01MjIyMjcxOTcxMDUyNTUyMTgsIGlzX2ZpY3Q9Tn0iLCJpc3MiOiJ3YW5ndyIsImlhdCI6MTY4NDkwODc4NywiZXhwIjoxNjg0OTQ0Nzg3fQ.vVeY89ciOa5BcfFg29ecG3yO0oF9j_T8e-S47vmav6I
+responseiv: eb07b35c-d22b-42ee-8129-770b63e9
+responsekey: 1f28e354-6039-46b2-81af-248606ba
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 120557
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.5
+Content-Length: 169
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: e6cc223b0884f6ee
+X-B3-SpanId: 21f60a776a457a01
+X-B3-ParentSpanId: e6cc223b0884f6ee
+X-B3-Sampled: 0
+
+{"cus_id":"CUS27520230524520695","indiv_sur_year":"all","pageMin":1,"pageDetaiNum":10,"artiOrganNo":"275","currentUserId":"120557","organNo":"2750019","instuCde":"0000"}
+
+========================================
+
+POST /AREA001_RequestDTO.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: 3976ca6d16bed99a
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMjQxMTciLCJzdWIiOiJ7YXV0aENvZGU9YmRmZTc1NGMtMDZkMS00NzgwLWJlODktYjg3YjU4NDcxZTc2LCBzeXNGbGFnPTEsIGNlcnRDb2RlPW51bGwsIHJlZnJlc2hUaW1lPTMwLCB1c2VyTmFtZT1udWxsLCB1c2VySWQ9MTI0MTE3LCB1c3JfY2RlPTEyNDExNywgY29yZUVyck1zZz3jgJDlhazlj7jotLfjgJHnlKjmiLfkuI3lrZjlnKjvvIEsIGV4cGlyZVRpbWU9OTAwLCBobl9icl9hY2Nfbm89MjIxMDA0MywgdXNyX25hbWU95a6L6ZKK6LS1LCB1c3JfaWRfbm89NTIyMTIxMTk3ODEyMTcwNjE1LCBpc19maWN0PU59IiwiaXNzIjoid2FuZ3ciLCJpYXQiOjE2ODQ5MDc5NzksImV4cCI6MTY4NDk0Mzk3OX0.Dp-8bMUSIWAG7AS2lI1c3unFmAlbFgVspAj9iP3WrW8
+responseiv: acd057bb-ffe2-4570-87df-2e110d4b
+responsekey: ede12c5e-6f15-4e65-8f06-34c71e70
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 124117
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.11
+Content-Length: 46
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: 607c026ccdfec144
+X-B3-SpanId: 9a2f003c842e920c
+X-B3-ParentSpanId: 607c026ccdfec144
+X-B3-Sampled: 0
+
+{"area_type":"province","area_parent_code":""}
+
+========================================
+
+POST /RW016_getToDoWorkList.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: fe8c1dce4c04da9a
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMDgwNjEiLCJzdWIiOiJ7YXV0aENvZGU9MGZlNmZlZjUtY2E3NS00Yjg3LWIzZDYtMjU4YzE0NTM3NDBkLCBzeXNGbGFnPTMsIGNlcnRDb2RlPTUyMjIyNTE5ODUxMDI3MzYxNCwgcmVmcmVzaFRpbWU9MzAsIHVzZXJOYW1lPeWImOaZk-aXrSwgdXNlcklkPTEwODA2MSwgdXNyX2NkZT0xMDgwNjEsIGNvcmVFcnJNc2c9bnVsbCwgZXhwaXJlVGltZT05MDAsIGhuX2JyX2FjY19ubz0yNjcsIHVzcl9uYW1lPeWImOaZk-aXrSwgdXNyX2lkX25vPTUyMjIyNTE5ODUxMDI3MzYxNCwgaXNfZmljdD1OfSIsImlzcyI6Indhbmd3IiwiaWF0IjoxNjg0OTA5MDM0LCJleHAiOjE2ODQ5NDUwMzR9.vWFYDGtTbxYruc-ROR0UgSNTUQQ4nfqEMgnG24ZuIL4
+responseiv: e0b5848c-421a-47f2-931d-b3b9a340
+responsekey: 448a3904-88f1-449a-8166-47acb3a4
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 108061
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.10
+Content-Length: 93
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: 127fd701457366b9
+X-B3-SpanId: d97fe922e15587d1
+X-B3-ParentSpanId: 127fd701457366b9
+X-B3-Sampled: 0
+
+{"usr_id":"108061","cus_name":"","appl_type":"","pageDetaiNum":"10","serno":"","pageMin":"1"}
+
+========================================
+
+POST /JD101_RequestDTO.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: 081082523258cfa4
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMjA1NTciLCJzdWIiOiJ7YXV0aENvZGU9YjEzNDdhZDUtNmI2MC00NTk3LWJkYTktNTYyM2FkN2FhODgzLCBzeXNGbGFnPTMsIGNlcnRDb2RlPTUyMjIyNzE5NzEwNTI1NTIxOCwgcmVmcmVzaFRpbWU9MzAsIHVzZXJOYW1lPeWwuei0tSwgdXNlcklkPTEyMDU1NywgdXNyX2NkZT0xMjA1NTcsIGNvcmVFcnJNc2c9bnVsbCwgZXhwaXJlVGltZT05MDAsIGhuX2JyX2FjY19ubz0yNzUwMDE5LCB1c3JfbmFtZT3lsLnotLUsIHVzcl9pZF9ubz01MjIyMjcxOTcxMDUyNTUyMTgsIGlzX2ZpY3Q9Tn0iLCJpc3MiOiJ3YW5ndyIsImlhdCI6MTY4NDkwODc4NywiZXhwIjoxNjg0OTQ0Nzg3fQ.vVeY89ciOa5BcfFg29ecG3yO0oF9j_T8e-S47vmav6I
+responseiv: 86555125-7f36-4fe9-89ae-acd60eb6
+responsekey: 19c7974c-0590-4dcc-8572-84f54703
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 120557
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.8
+Content-Length: 69
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: 6f9b8a8ea9716263
+X-B3-SpanId: 049aa9719135bcb4
+X-B3-ParentSpanId: 6f9b8a8ea9716263
+X-B3-Sampled: 0
+
+{"cus_id":"CUS27520230524520695","indiv_sur_year":"2023","flag":"02"}
+
+========================================
+
+POST /wxProgram/gain_openID.do HTTP/1.1
+responsekey: 31735d9f-1f25-4239-beec-5b2b8c80674c
+charset: utf-8
+authflag: unNeed
+x-requested-with: XMLHttpRequest
+channel: app
+user-agent: Mozilla/5.0 (Linux; Android 12; JLH-AN00 Build/HONORJLH-AN00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.141 Mobile Safari/537.36 XWEB/5075 MMWEBSDK/20230405 MMWEBID/4702 MicroMessenger/8.0.35.2360(0x2800235B) WeChat/arm64 Weixin NetType/WIFI Language/zh_CN ABI/arm64 MiniProgramEnv/android
+content-type: application/json;charset=UTF-8
+accept-encoding: gzip,compress,br,deflate
+responseiv: 4a95562d-aab8-4623-850f-6ff6c683efbb
+referer: https://servicewechat.com/wx66015b6a9ff1c9b3/44/page-frame.html
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-wxservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.8
+Content-Length: 46
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: 1fe514763b37aa2f
+X-B3-SpanId: 55afd624b6bc6e68
+X-B3-ParentSpanId: 1fe514763b37aa2f
+X-B3-Sampled: 0
+
+{"js_code":"0f3FDf000C1B1Q1xiP200Xa8kc2FDf0z"}
+
+========================================
+
+POST /AREA001_RequestDTO.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: 3976ca6d16bed99a
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMjQxMTciLCJzdWIiOiJ7YXV0aENvZGU9YmRmZTc1NGMtMDZkMS00NzgwLWJlODktYjg3YjU4NDcxZTc2LCBzeXNGbGFnPTEsIGNlcnRDb2RlPW51bGwsIHJlZnJlc2hUaW1lPTMwLCB1c2VyTmFtZT1udWxsLCB1c2VySWQ9MTI0MTE3LCB1c3JfY2RlPTEyNDExNywgY29yZUVyck1zZz3jgJDlhazlj7jotLfjgJHnlKjmiLfkuI3lrZjlnKjvvIEsIGV4cGlyZVRpbWU9OTAwLCBobl9icl9hY2Nfbm89MjIxMDA0MywgdXNyX25hbWU95a6L6ZKK6LS1LCB1c3JfaWRfbm89NTIyMTIxMTk3ODEyMTcwNjE1LCBpc19maWN0PU59IiwiaXNzIjoid2FuZ3ciLCJpYXQiOjE2ODQ5MDc5NzksImV4cCI6MTY4NDk0Mzk3OX0.Dp-8bMUSIWAG7AS2lI1c3unFmAlbFgVspAj9iP3WrW8
+responseiv: 946080bb-2efa-4e3e-81fd-2fc13371
+responsekey: 2346199e-ae7b-42a9-b111-9a689688
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 124117
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.7
+Content-Length: 46
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: 18187852ea5f4f51
+X-B3-SpanId: 1c11f3c31d13ba8f
+X-B3-ParentSpanId: 18187852ea5f4f51
+X-B3-Sampled: 0
+
+{"area_type":"province","area_parent_code":""}
+
+========================================
+
+POST /VM001.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: a261d1125fae653b
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMDQxNjAiLCJzdWIiOiJ7YXV0aENvZGU9MTdmY2QwNjEtNzExNC00YTBkLThmZmUtYzI3YmI5NDA0ZjM0LCBzeXNGbGFnPTEsIGNlcnRDb2RlPW51bGwsIHJlZnJlc2hUaW1lPTMwLCB1c2VyTmFtZT1udWxsLCB1c2VySWQ9MTA0MTYwLCB1c3JfY2RlPTEwNDE2MCwgY29yZUVyck1zZz3jgJDlhazlj7jotLfjgJHnlKjmiLfkuI3lrZjlnKjvvIEsIGV4cGlyZVRpbWU9OTAwLCBobl9icl9hY2Nfbm89Mjg1MDAzNywgdXNyX25hbWU9546L5qGC6IqxLCB1c3JfaWRfbm89NTIwMjAyMTk4ODA3MzA2NzI0LCBpc19maWN0PU59IiwiaXNzIjoid2FuZ3ciLCJpYXQiOjE2ODQ5MDgxMDAsImV4cCI6MTY4NDk0NDEwMH0.8fI1tgFE0PcQWAmxXE6zM6GPk4q2KQI-Fi8-dlVwfm0
+responseiv: 91804930-b460-4ca1-9a51-fd9ba53c
+responsekey: 09496127-ce18-40b4-8f18-0d5170bb
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 104160
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.6
+Content-Length: 64
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: 3b651c07db6c9be7
+X-B3-SpanId: 9f68eeea4bc0709b
+X-B3-ParentSpanId: 3b651c07db6c9be7
+X-B3-Sampled: 0
+
+{"cus_id":"KH285526002013062200257","serno":"","query_type":"1"}
+
+========================================
+
+POST /JD054_RequestDTO.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: 3976ca6d16bed99a
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMjQxMTciLCJzdWIiOiJ7YXV0aENvZGU9YmRmZTc1NGMtMDZkMS00NzgwLWJlODktYjg3YjU4NDcxZTc2LCBzeXNGbGFnPTEsIGNlcnRDb2RlPW51bGwsIHJlZnJlc2hUaW1lPTMwLCB1c2VyTmFtZT1udWxsLCB1c2VySWQ9MTI0MTE3LCB1c3JfY2RlPTEyNDExNywgY29yZUVyck1zZz3jgJDlhazlj7jotLfjgJHnlKjmiLfkuI3lrZjlnKjvvIEsIGV4cGlyZVRpbWU9OTAwLCBobl9icl9hY2Nfbm89MjIxMDA0MywgdXNyX25hbWU95a6L6ZKK6LS1LCB1c3JfaWRfbm89NTIyMTIxMTk3ODEyMTcwNjE1LCBpc19maWN0PU59IiwiaXNzIjoid2FuZ3ciLCJpYXQiOjE2ODQ5MDc5NzksImV4cCI6MTY4NDk0Mzk3OX0.Dp-8bMUSIWAG7AS2lI1c3unFmAlbFgVspAj9iP3WrW8
+responseiv: bf9136d9-8ab7-4522-8657-3e357a09
+responsekey: bde64fbd-eac7-4e80-8936-13ad7a11
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 124117
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.7
+Content-Length: 119
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: 3c1fcf80640fc353
+X-B3-SpanId: ae904739879441e4
+X-B3-ParentSpanId: 3c1fcf80640fc353
+X-B3-Sampled: 1
+
+{"area_parent_code":"","area_type":"town","attr_orgid":"2210043","whether":"Y","currentUserId":"124117","queryFlag":""}
+
+========================================
+
+POST /JD040_cusInfoDetail.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: 2c9a2a9f6be20d10
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMzMxMjgiLCJzdWIiOiJ7YXV0aENvZGU9MjllOTIwODMtNDAwMC00NDIyLWJmZmQtYzE5ZGU5Yjk5YTkxLCBzeXNGbGFnPTEsIGNlcnRDb2RlPW51bGwsIHJlZnJlc2hUaW1lPTMwLCB1c2VyTmFtZT1udWxsLCB1c2VySWQ9MTMzMTI4LCB1c3JfY2RlPTEzMzEyOCwgY29yZUVyck1zZz3jgJDlhazlj7jotLfjgJHnlKjmiLfkuI3lrZjlnKjvvIEsIGV4cGlyZVRpbWU9OTAwLCBobl9icl9hY2Nfbm89Mjc4MDAxMiwgdXNyX25hbWU95byg6ZizLCB1c3JfaWRfbm89NTIyNDIzMTk5MDA0MTk5NjM3LCBpc19maWN0PU59IiwiaXNzIjoid2FuZ3ciLCJpYXQiOjE2ODQ5MDkxOTQsImV4cCI6MTY4NDk0NTE5NH0.EYCZ_Yw46asfZmjnSqkcrl-ZiFPHIEvG2J667bjQTo8
+responseiv: 937c0a43-a3a0-4667-8eb4-22849420
+responsekey: 4ad41efc-78ed-4911-9869-e43c22c5
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 133128
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.6
+Content-Length: 36
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: 2736a338f1ec22d3
+X-B3-SpanId: b3e336260e81679d
+X-B3-ParentSpanId: 2736a338f1ec22d3
+X-B3-Sampled: 0
+
+{"cus_id":"KH278278142015050400043"}
+
+========================================
+
+POST /DH015_prdConfigInfo.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: bb8270928c8e3217
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMjUzMTgiLCJzdWIiOiJ7YXV0aENvZGU9MWViMDMyZGItOTRlMi00ODM3LTg0N2ItMDVmMDIxY2NiNzkxLCBzeXNGbGFnPTMsIGNlcnRDb2RlPTUyMDIwMzE5ODYwOTE0MDIxMywgcmVmcmVzaFRpbWU9MzAsIHVzZXJOYW1lPee9l-S8piwgdXNlcklkPTEyNTMxOCwgdXNyX2NkZT0xMjUzMTgsIGNvcmVFcnJNc2c9bnVsbCwgZXhwaXJlVGltZT05MDAsIGhuX2JyX2FjY19ubz0yODQwMDE2LCB1c3JfbmFtZT3nvZfkvKYsIHVzcl9pZF9ubz01MjAyMDMxOTg2MDkxNDAyMTMsIGlzX2ZpY3Q9Tn0iLCJpc3MiOiJ3YW5ndyIsImlhdCI6MTY4NDkwODQ2NywiZXhwIjoxNjg0OTQ0NDY3fQ.z_d2_blc3pAUGWFDrX3f1U8AoaZk2KtXUWCjjL7Rboc
+responseiv: 23a836b8-9a9c-4138-98d5-f5ea38d7
+responsekey: 67afbae3-2dde-4cd9-92b3-105e00af
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 125318
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.11
+Content-Length: 23
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: d7cd9d291b597ae7
+X-B3-SpanId: 725acb75343daf66
+X-B3-ParentSpanId: d7cd9d291b597ae7
+X-B3-Sampled: 0
+
+{"prd_cde":"284000050"}
+
+========================================
+
+POST /notice001_bak_messageList.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: 369fdfdacb492e13
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMjc0MTkiLCJzdWIiOiJ7YXV0aENvZGU9NThjZmEzZDYtMWNkMS00NzI5LTgxZTctNGQxMGQyZDA3YWM1LCBzeXNGbGFnPTMsIGNlcnRDb2RlPTUyMjEyMTE5OTAwOTIyMDAyOSwgcmVmcmVzaFRpbWU9MzAsIHVzZXJOYW1lPeW9reWohSwgdXNlcklkPTEyNzQxOSwgdXNyX2NkZT0xMjc0MTksIGNvcmVFcnJNc2c9bnVsbCwgZXhwaXJlVGltZT05MDAsIGhuX2JyX2FjY19ubz0yMDMwMDAyLCB1c3JfbmFtZT3lva3lqIUsIHVzcl9pZF9ubz01MjIxMjExOTkwMDkyMjAwMjksIGlzX2ZpY3Q9Tn0iLCJpc3MiOiJ3YW5ndyIsImlhdCI6MTY4NDkwODczMCwiZXhwIjoxNjg0OTQ0NzMwfQ.XpVWeT6josstNH0Q1Nwk0V_gqQyvS_Mtxd9yXeT3TIE
+responseiv: 14baadbf-a0da-42e5-837f-6caaa002
+responsekey: 00df72b7-a005-477c-86b9-94a32556
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 127419
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.12
+Content-Length: 153
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: 16a0fd17c8af33a2
+X-B3-SpanId: a1bd75aa6eb5334e
+X-B3-ParentSpanId: 16a0fd17c8af33a2
+X-B3-Sampled: 0
+
+{"msg_read_type":"","title":"","sendTimeBegin":"","sendTimeEnd":"","pageMin":1,"pageDetaiNum":10,"msg_type":"","usr_cde":"127419","openday":"2023-05-24"}
+
+========================================
+
+POST /AREA001_RequestDTO.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: 3976ca6d16bed99a
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMjQxMTciLCJzdWIiOiJ7YXV0aENvZGU9YmRmZTc1NGMtMDZkMS00NzgwLWJlODktYjg3YjU4NDcxZTc2LCBzeXNGbGFnPTEsIGNlcnRDb2RlPW51bGwsIHJlZnJlc2hUaW1lPTMwLCB1c2VyTmFtZT1udWxsLCB1c2VySWQ9MTI0MTE3LCB1c3JfY2RlPTEyNDExNywgY29yZUVyck1zZz3jgJDlhazlj7jotLfjgJHnlKjmiLfkuI3lrZjlnKjvvIEsIGV4cGlyZVRpbWU9OTAwLCBobl9icl9hY2Nfbm89MjIxMDA0MywgdXNyX25hbWU95a6L6ZKK6LS1LCB1c3JfaWRfbm89NTIyMTIxMTk3ODEyMTcwNjE1LCBpc19maWN0PU59IiwiaXNzIjoid2FuZ3ciLCJpYXQiOjE2ODQ5MDc5NzksImV4cCI6MTY4NDk0Mzk3OX0.Dp-8bMUSIWAG7AS2lI1c3unFmAlbFgVspAj9iP3WrW8
+responseiv: 49b453d4-7775-426b-bd88-7338197d
+responsekey: 4801c097-2907-420a-b23d-e2fd3c77
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 124117
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.10
+Content-Length: 48
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: 00ad696d06921bb8
+X-B3-SpanId: 05ac2fa358e48851
+X-B3-ParentSpanId: 00ad696d06921bb8
+X-B3-Sampled: 0
+
+{"area_type":"area","area_parent_code":"520300"}
+
+========================================
+
+POST /update_cfca_dls_status.do HTTP/1.1
+responsekey: 131f0a64-8c3e-4839-8fae-e836d0557ed7
+charset: utf-8
+authflag: unNeed
+x-requested-with: XMLHttpRequest
+channel: app
+user-agent: Mozilla/5.0 (Linux; Android 12; PFGM00 Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.141 Mobile Safari/537.36 XWEB/5075 MMWEBSDK/20230405 MMWEBID/6171 MicroMessenger/8.0.35.2360(0x2800235B) WeChat/arm64 Weixin NetType/4G Language/zh_CN ABI/arm64 MiniProgramEnv/android
+content-type: application/json;charset=UTF-8
+accept-encoding: gzip,compress,br,deflate
+responseiv: 6a73944b-af11-441e-b75a-10e54ea7c929
+referer: https://servicewechat.com/wx66015b6a9ff1c9b3/44/page-frame.html
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-wxservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.11
+Content-Length: 31
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: 0702ebff68b49a73
+X-B3-SpanId: 3f1de36c555e52a6
+X-B3-ParentSpanId: 0702ebff68b49a73
+X-B3-Sampled: 0
+
+{"serno":"LS25220230524414802"}
+
+========================================
+
+POST /AREA001_RequestDTO.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: 3976ca6d16bed99a
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMjQxMTciLCJzdWIiOiJ7YXV0aENvZGU9YmRmZTc1NGMtMDZkMS00NzgwLWJlODktYjg3YjU4NDcxZTc2LCBzeXNGbGFnPTEsIGNlcnRDb2RlPW51bGwsIHJlZnJlc2hUaW1lPTMwLCB1c2VyTmFtZT1udWxsLCB1c2VySWQ9MTI0MTE3LCB1c3JfY2RlPTEyNDExNywgY29yZUVyck1zZz3jgJDlhazlj7jotLfjgJHnlKjmiLfkuI3lrZjlnKjvvIEsIGV4cGlyZVRpbWU9OTAwLCBobl9icl9hY2Nfbm89MjIxMDA0MywgdXNyX25hbWU95a6L6ZKK6LS1LCB1c3JfaWRfbm89NTIyMTIxMTk3ODEyMTcwNjE1LCBpc19maWN0PU59IiwiaXNzIjoid2FuZ3ciLCJpYXQiOjE2ODQ5MDc5NzksImV4cCI6MTY4NDk0Mzk3OX0.Dp-8bMUSIWAG7AS2lI1c3unFmAlbFgVspAj9iP3WrW8
+responseiv: 65709d7c-ee2c-456e-a0f1-27c4ecfd
+responsekey: e9e4d46d-47da-4f5b-b178-17fee88a
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 124117
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.5
+Content-Length: 48
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: c189ed9c9d21f5bd
+X-B3-SpanId: a8fe4186c2bb8ffb
+X-B3-ParentSpanId: c189ed9c9d21f5bd
+X-B3-Sampled: 0
+
+{"area_type":"area","area_parent_code":"520300"}
+
+========================================
+
+POST /AREA001_RequestDTO.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: 2ffeeb1e9dfebaff
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMTQ0MzIiLCJzdWIiOiJ7YXV0aENvZGU9ZmQ5NzQzNzEtODQ4Yy00MDU5LWI4NDItMWZkYjFjZmEzYWFiLCBzeXNGbGFnPTEsIGNlcnRDb2RlPW51bGwsIHJlZnJlc2hUaW1lPTMwLCB1c2VyTmFtZT1udWxsLCB1c2VySWQ9MTE0NDMyLCB1c3JfY2RlPTExNDQzMiwgY29yZUVyck1zZz3jgJDlhazlj7jotLfjgJHnlKjmiLfkuI3lrZjlnKjvvIEsIGV4cGlyZVRpbWU9OTAwLCBobl9icl9hY2Nfbm89MjgxMDAyNSwgdXNyX25hbWU9572X5paMLCB1c3JfaWRfbm89NTIyNDI2MTk4NjEwMDE3NzExLCBpc19maWN0PU59IiwiaXNzIjoid2FuZ3ciLCJpYXQiOjE2ODQ5MDkxOTQsImV4cCI6MTY4NDk0NTE5NH0.lTxOHy0GW7xQmRPdZ7Tb8wS5cvA6uEOxZ-cvIE9apag
+responseiv: c68a7d51-fd56-43ed-8e8a-0462377f
+responsekey: 4fd5b56a-f2f0-4158-8870-f09441b8
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 114432
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.11
+Content-Length: 48
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: fd352c4dada47174
+X-B3-SpanId: f669188a519776ae
+X-B3-ParentSpanId: fd352c4dada47174
+X-B3-Sampled: 0
+
+{"area_type":"area","area_parent_code":"520500"}
+
+========================================
+
+POST /AREA001_RequestDTO.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: 3976ca6d16bed99a
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMjQxMTciLCJzdWIiOiJ7YXV0aENvZGU9YmRmZTc1NGMtMDZkMS00NzgwLWJlODktYjg3YjU4NDcxZTc2LCBzeXNGbGFnPTEsIGNlcnRDb2RlPW51bGwsIHJlZnJlc2hUaW1lPTMwLCB1c2VyTmFtZT1udWxsLCB1c2VySWQ9MTI0MTE3LCB1c3JfY2RlPTEyNDExNywgY29yZUVyck1zZz3jgJDlhazlj7jotLfjgJHnlKjmiLfkuI3lrZjlnKjvvIEsIGV4cGlyZVRpbWU9OTAwLCBobl9icl9hY2Nfbm89MjIxMDA0MywgdXNyX25hbWU95a6L6ZKK6LS1LCB1c3JfaWRfbm89NTIyMTIxMTk3ODEyMTcwNjE1LCBpc19maWN0PU59IiwiaXNzIjoid2FuZ3ciLCJpYXQiOjE2ODQ5MDc5NzksImV4cCI6MTY4NDk0Mzk3OX0.Dp-8bMUSIWAG7AS2lI1c3unFmAlbFgVspAj9iP3WrW8
+responseiv: 880abf24-1fb4-493c-be57-89bdce43
+responsekey: e02b9f64-0574-4d56-8149-ba7c35d0
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 124117
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.12
+Content-Length: 48
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: 61e01554c9fe1831
+X-B3-SpanId: 6a670b7da1432fbe
+X-B3-ParentSpanId: 61e01554c9fe1831
+X-B3-Sampled: 0
+
+{"area_type":"city","area_parent_code":"520000"}
+
+========================================
+
+POST /AREA001_RequestDTO.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: 3976ca6d16bed99a
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMjQxMTciLCJzdWIiOiJ7YXV0aENvZGU9YmRmZTc1NGMtMDZkMS00NzgwLWJlODktYjg3YjU4NDcxZTc2LCBzeXNGbGFnPTEsIGNlcnRDb2RlPW51bGwsIHJlZnJlc2hUaW1lPTMwLCB1c2VyTmFtZT1udWxsLCB1c2VySWQ9MTI0MTE3LCB1c3JfY2RlPTEyNDExNywgY29yZUVyck1zZz3jgJDlhazlj7jotLfjgJHnlKjmiLfkuI3lrZjlnKjvvIEsIGV4cGlyZVRpbWU9OTAwLCBobl9icl9hY2Nfbm89MjIxMDA0MywgdXNyX25hbWU95a6L6ZKK6LS1LCB1c3JfaWRfbm89NTIyMTIxMTk3ODEyMTcwNjE1LCBpc19maWN0PU59IiwiaXNzIjoid2FuZ3ciLCJpYXQiOjE2ODQ5MDc5NzksImV4cCI6MTY4NDk0Mzk3OX0.Dp-8bMUSIWAG7AS2lI1c3unFmAlbFgVspAj9iP3WrW8
+responseiv: 7aff7575-a387-47a1-80d6-02105425
+responsekey: 47417d34-f917-48a0-81ce-289cc088
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 124117
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.13
+Content-Length: 46
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: b2210e698fc52832
+X-B3-SpanId: c8e8e220318c2d93
+X-B3-ParentSpanId: b2210e698fc52832
+X-B3-Sampled: 0
+
+{"area_type":"province","area_parent_code":""}
+
+========================================
+
+POST /AREA001_RequestDTO.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: 2ffeeb1e9dfebaff
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMTQ0MzIiLCJzdWIiOiJ7YXV0aENvZGU9ZmQ5NzQzNzEtODQ4Yy00MDU5LWI4NDItMWZkYjFjZmEzYWFiLCBzeXNGbGFnPTEsIGNlcnRDb2RlPW51bGwsIHJlZnJlc2hUaW1lPTMwLCB1c2VyTmFtZT1udWxsLCB1c2VySWQ9MTE0NDMyLCB1c3JfY2RlPTExNDQzMiwgY29yZUVyck1zZz3jgJDlhazlj7jotLfjgJHnlKjmiLfkuI3lrZjlnKjvvIEsIGV4cGlyZVRpbWU9OTAwLCBobl9icl9hY2Nfbm89MjgxMDAyNSwgdXNyX25hbWU9572X5paMLCB1c3JfaWRfbm89NTIyNDI2MTk4NjEwMDE3NzExLCBpc19maWN0PU59IiwiaXNzIjoid2FuZ3ciLCJpYXQiOjE2ODQ5MDkxOTQsImV4cCI6MTY4NDk0NTE5NH0.lTxOHy0GW7xQmRPdZ7Tb8wS5cvA6uEOxZ-cvIE9apag
+responseiv: 62e7a175-ce18-418f-b5c9-73653fa4
+responsekey: c2736d11-7da3-4d1e-8d2c-7dda99c4
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 114432
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.12
+Content-Length: 46
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: 0b3b6d2dc3e919f2
+X-B3-SpanId: 335acccbdd40366e
+X-B3-ParentSpanId: 0b3b6d2dc3e919f2
+X-B3-Sampled: 0
+
+{"area_type":"province","area_parent_code":""}
+
+========================================
+
+POST /SR001_Request.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: bb8270928c8e3217
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMjUzMTgiLCJzdWIiOiJ7YXV0aENvZGU9MWViMDMyZGItOTRlMi00ODM3LTg0N2ItMDVmMDIxY2NiNzkxLCBzeXNGbGFnPTMsIGNlcnRDb2RlPTUyMDIwMzE5ODYwOTE0MDIxMywgcmVmcmVzaFRpbWU9MzAsIHVzZXJOYW1lPee9l-S8piwgdXNlcklkPTEyNTMxOCwgdXNyX2NkZT0xMjUzMTgsIGNvcmVFcnJNc2c9bnVsbCwgZXhwaXJlVGltZT05MDAsIGhuX2JyX2FjY19ubz0yODQwMDE2LCB1c3JfbmFtZT3nvZfkvKYsIHVzcl9pZF9ubz01MjAyMDMxOTg2MDkxNDAyMTMsIGlzX2ZpY3Q9Tn0iLCJpc3MiOiJ3YW5ndyIsImlhdCI6MTY4NDkwODQ2NywiZXhwIjoxNjg0OTQ0NDY3fQ.z_d2_blc3pAUGWFDrX3f1U8AoaZk2KtXUWCjjL7Rboc
+responseiv: f6cd0eb7-e327-4308-95f2-1f34926f
+responsekey: 2f59c4ac-1319-42f1-8bb7-016359c8
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 125318
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.13
+Content-Length: 107
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: c2f9838d99d6b3ee
+X-B3-SpanId: ec59cb9275cc15e6
+X-B3-ParentSpanId: c2f9838d99d6b3ee
+X-B3-Sampled: 0
+
+{"prd_cde":"284000050","currentUserId":"125318","arti_organno":"284","instuCde":"0000","organNo":"2840016"}
+
+========================================
+
+POST /AREA001_RequestDTO.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: 2ffeeb1e9dfebaff
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMTQ0MzIiLCJzdWIiOiJ7YXV0aENvZGU9ZmQ5NzQzNzEtODQ4Yy00MDU5LWI4NDItMWZkYjFjZmEzYWFiLCBzeXNGbGFnPTEsIGNlcnRDb2RlPW51bGwsIHJlZnJlc2hUaW1lPTMwLCB1c2VyTmFtZT1udWxsLCB1c2VySWQ9MTE0NDMyLCB1c3JfY2RlPTExNDQzMiwgY29yZUVyck1zZz3jgJDlhazlj7jotLfjgJHnlKjmiLfkuI3lrZjlnKjvvIEsIGV4cGlyZVRpbWU9OTAwLCBobl9icl9hY2Nfbm89MjgxMDAyNSwgdXNyX25hbWU9572X5paMLCB1c3JfaWRfbm89NTIyNDI2MTk4NjEwMDE3NzExLCBpc19maWN0PU59IiwiaXNzIjoid2FuZ3ciLCJpYXQiOjE2ODQ5MDkxOTQsImV4cCI6MTY4NDk0NTE5NH0.lTxOHy0GW7xQmRPdZ7Tb8wS5cvA6uEOxZ-cvIE9apag
+responseiv: 3f563b87-2a6a-4779-8a97-3ae66a8d
+responsekey: 8e4ef1a6-c6d9-48a8-9a8a-efa9a591
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 114432
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.11
+Content-Length: 48
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: 4b2e57441f22832c
+X-B3-SpanId: ffe13f18d14a1c10
+X-B3-ParentSpanId: 4b2e57441f22832c
+X-B3-Sampled: 0
+
+{"area_type":"area","area_parent_code":"520500"}
+
+========================================
+
+POST /JD011_propertyQuery.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: 415d11c021363ab5
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMDQzODEiLCJzdWIiOiJ7YXV0aENvZGU9MThjMWFhM2YtMWZmYS00YzdmLThkOWQtNmU4OWI5MjFlYjgzLCBzeXNGbGFnPTEsIGNlcnRDb2RlPW51bGwsIHJlZnJlc2hUaW1lPTMwLCB1c2VyTmFtZT1udWxsLCB1c2VySWQ9MTA0MzgxLCB1c3JfY2RlPTEwNDM4MSwgY29yZUVyck1zZz3jgJDlhazlj7jotLfjgJHnlKjmiLfkuI3lrZjlnKjvvIEsIGV4cGlyZVRpbWU9OTAwLCBobl9icl9hY2Nfbm89MjM1MDAwMywgdXNyX25hbWU95LyN56OK56OKLCB1c3JfaWRfbm89NTIyNTI3MTk4OTA2MTkxMzE1LCBpc19maWN0PU59IiwiaXNzIjoid2FuZ3ciLCJpYXQiOjE2ODQ5MDgyNjQsImV4cCI6MTY4NDk0NDI2NH0.zPHOH8ykUYxjM3x4q0uowX9G7QMtbXaa3HLJ5ySMhcw
+responseiv: 7239df09-e182-4ba3-9db8-b99de19c
+responsekey: 722e44d3-c650-4ff7-9681-16f66264
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 104381
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.6
+Content-Length: 82
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: cc9cf6e72feabbd4
+X-B3-SpanId: 43afc61635eaa57a
+X-B3-ParentSpanId: cc9cf6e72feabbd4
+X-B3-Sampled: 0
+
+{"cus_id":"CUS2352021083096191","assert_year":"all","pageMin":1,"pageDetaiNum":10}
+
+========================================
+
+POST /AREA001_RequestDTO.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: 246b36a6c9d8419b
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMTgwOTciLCJzdWIiOiJ7YXV0aENvZGU9ZGI3Y2U4OTMtY2E3My00OWE2LTkyN2YtZjUzMTc3ZDg0ZmE3LCBzeXNGbGFnPTMsIGNlcnRDb2RlPTUyMjUwMTE5ODQwNjA1MDQyNCwgcmVmcmVzaFRpbWU9MzAsIHVzZXJOYW1lPeWQtOW_l-WonywgdXNlcklkPTExODA5NywgdXNyX2NkZT0xMTgwOTcsIGNvcmVFcnJNc2c9bnVsbCwgZXhwaXJlVGltZT05MDAsIGhuX2JyX2FjY19ubz0yMzMwMDE2LCB1c3JfbmFtZT3lkLTlv5flqJ8sIHVzcl9pZF9ubz01MjI1MDExOTg0MDYwNTA0MjQsIGlzX2ZpY3Q9Tn0iLCJpc3MiOiJ3YW5ndyIsImlhdCI6MTY4NDkwOTE4NiwiZXhwIjoxNjg0OTQ1MTg2fQ.4J9GAzGPNVlSwDFCjF-pw3dp0rBgU6piQFwRk0i2cvQ
+responseiv: f610f797-d114-415f-8cc9-d5a2e5e5
+responsekey: a232d30c-2a11-48fd-83a3-460ee77d
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 118097
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.6
+Content-Length: 46
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: 13a8a3b73b3a4992
+X-B3-SpanId: 8a6f56f2d336e9dc
+X-B3-ParentSpanId: 13a8a3b73b3a4992
+X-B3-Sampled: 0
+
+{"area_type":"province","area_parent_code":""}
+
+========================================
+
+POST /YW067_getFileList.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: b10af33132cc94e5
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxNzI0ODMiLCJzdWIiOiJ7YXV0aENvZGU9NDNjODg2OWMtNTBmMC00MTNkLWExZGMtNmE3Njc3MGI4OGU5LCBzeXNGbGFnPTEsIGNlcnRDb2RlPW51bGwsIHJlZnJlc2hUaW1lPTMwLCB1c2VyTmFtZT1udWxsLCB1c2VySWQ9MTcyNDgzLCB1c3JfY2RlPTE3MjQ4MywgY29yZUVyck1zZz3jgJDlhazlj7jotLfjgJHnlKjmiLfkuI3lrZjlnKjvvIEsIGV4cGlyZVRpbWU9OTAwLCBobl9icl9hY2Nfbm89MjgzMDAxNiwgdXNyX25hbWU9572X5a2d5q2mLCB1c3JfaWRfbm89NTIyNDI4MTk4OTA2MTI0NDEyLCBpc19maWN0PU59IiwiaXNzIjoid2FuZ3ciLCJpYXQiOjE2ODQ5MDU4MTEsImV4cCI6MTY4NDk0MTgxMX0.hdpqq9S1CAEgRszAjkEJVeVoP4-9SauBOoHmnG4a0cg
+responseiv: ee6c664e-1b9e-406b-89f6-93b4304a
+responsekey: 3b539005-119f-47d0-8d8f-182c612c
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 172483
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.10
+Content-Length: 130
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: 9ad3d53c8a0b35ce
+X-B3-SpanId: b8d2a5979d0bb784
+X-B3-ParentSpanId: 9ad3d53c8a0b35ce
+X-B3-Sampled: 0
+
+{"file_id":"20201118000174","cus_id":"KH283302042013062400063","serno":"KH283302042013062400063","pageMin":"1","pageDetaiNum":"3"}
+
+========================================
+
+POST /AREA001_RequestDTO.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: 2ffeeb1e9dfebaff
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMTQ0MzIiLCJzdWIiOiJ7YXV0aENvZGU9ZmQ5NzQzNzEtODQ4Yy00MDU5LWI4NDItMWZkYjFjZmEzYWFiLCBzeXNGbGFnPTEsIGNlcnRDb2RlPW51bGwsIHJlZnJlc2hUaW1lPTMwLCB1c2VyTmFtZT1udWxsLCB1c2VySWQ9MTE0NDMyLCB1c3JfY2RlPTExNDQzMiwgY29yZUVyck1zZz3jgJDlhazlj7jotLfjgJHnlKjmiLfkuI3lrZjlnKjvvIEsIGV4cGlyZVRpbWU9OTAwLCBobl9icl9hY2Nfbm89MjgxMDAyNSwgdXNyX25hbWU9572X5paMLCB1c3JfaWRfbm89NTIyNDI2MTk4NjEwMDE3NzExLCBpc19maWN0PU59IiwiaXNzIjoid2FuZ3ciLCJpYXQiOjE2ODQ5MDkxOTQsImV4cCI6MTY4NDk0NTE5NH0.lTxOHy0GW7xQmRPdZ7Tb8wS5cvA6uEOxZ-cvIE9apag
+responseiv: 7cae0d0a-662f-47a8-87ba-2f7ca566
+responsekey: 1983e804-8c5d-478a-81c3-97fceb21
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 114432
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.11
+Content-Length: 46
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: 379a82ad89ad3be6
+X-B3-SpanId: 0889d53f2479ff2a
+X-B3-ParentSpanId: 379a82ad89ad3be6
+X-B3-Sampled: 0
+
+{"area_type":"province","area_parent_code":""}
+
+========================================
+
+POST /JD100_RequestDTO.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: 415d11c021363ab5
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMDQzODEiLCJzdWIiOiJ7YXV0aENvZGU9MThjMWFhM2YtMWZmYS00YzdmLThkOWQtNmU4OWI5MjFlYjgzLCBzeXNGbGFnPTEsIGNlcnRDb2RlPW51bGwsIHJlZnJlc2hUaW1lPTMwLCB1c2VyTmFtZT1udWxsLCB1c2VySWQ9MTA0MzgxLCB1c3JfY2RlPTEwNDM4MSwgY29yZUVyck1zZz3jgJDlhazlj7jotLfjgJHnlKjmiLfkuI3lrZjlnKjvvIEsIGV4cGlyZVRpbWU9OTAwLCBobl9icl9hY2Nfbm89MjM1MDAwMywgdXNyX25hbWU95LyN56OK56OKLCB1c3JfaWRfbm89NTIyNTI3MTk4OTA2MTkxMzE1LCBpc19maWN0PU59IiwiaXNzIjoid2FuZ3ciLCJpYXQiOjE2ODQ5MDgyNjQsImV4cCI6MTY4NDk0NDI2NH0.zPHOH8ykUYxjM3x4q0uowX9G7QMtbXaa3HLJ5ySMhcw
+responseiv: 1c4cfe64-86fe-4b05-8ba6-f3f88eb9
+responsekey: be763534-7c5b-40b7-b65c-427a3ac7
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 104381
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.9
+Content-Length: 80
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: 6c8d319b178ae4a3
+X-B3-SpanId: b86e67647ac1d8ba
+X-B3-ParentSpanId: 6c8d319b178ae4a3
+X-B3-Sampled: 0
+
+{"cus_id":"CUS2352021083096191","flag":"02","ccr_date":"2023","cusTypeNew":"nh"}
+
+========================================
+
+POST /OCRHttp.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: f9ca7f430a531a79
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMDEzMjYiLCJzdWIiOiJ7YXV0aENvZGU9ZDkyZGNjZTQtNTZjNC00MWRjLTliMWYtZWJhOWZmMzYyODgzLCBzeXNGbGFnPTEsIGNlcnRDb2RlPW51bGwsIHJlZnJlc2hUaW1lPTMwLCB1c2VyTmFtZT1udWxsLCB1c2VySWQ9MTAxMzI2LCB1c3JfY2RlPTEwMTMyNiwgY29yZUVyck1zZz3jgJDlhazlj7jotLfjgJHnlKjmiLfkuI3lrZjlnKjvvIEsIGV4cGlyZVRpbWU9OTAwLCBobl9icl9hY2Nfbm89MjEyMDAwNywgdXNyX25hbWU95Luj5rO95rGfLCB1c3JfaWRfbm89NTIyMjIyMTk4NzEyMjYyNDEyLCBpc19maWN0PU59IiwiaXNzIjoid2FuZ3ciLCJpYXQiOjE2ODQ5MDQ4NzMsImV4cCI6MTY4NDk0MDg3M30.F94_zvFIEhVJE_YF6SKg3DcPHIIT6di1FtrY_1dS9UY
+responseiv: d77f1a82-739d-48a8-bcca-ac415da4
+responsekey: d247b45a-884a-4127-8cc8-2255e24f
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 101326
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.8
+Content-Length: 123
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: ea62a042b78661bb
+X-B3-SpanId: f38f4d05446a711f
+X-B3-ParentSpanId: ea62a042b78661bb
+X-B3-Sampled: 0
+
+{"code":"01","desc":"","id_no":"522523197311131428","id_name":"张引秀","userId":"101326","externalBranchCode":"2120007"}
+
+========================================
+
+POST /WFI006_RequestDTO.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: e289de6641e85ad0
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMTkxNTEiLCJzdWIiOiJ7YXV0aENvZGU9ZGFmMjgwZDctYTBlOC00ZTViLTliYTQtZDgzMDQ4NTQ2NjQwLCBzeXNGbGFnPTEsIGNlcnRDb2RlPW51bGwsIHJlZnJlc2hUaW1lPTMwLCB1c2VyTmFtZT1udWxsLCB1c2VySWQ9MTE5MTUxLCB1c3JfY2RlPTExOTE1MSwgY29yZUVyck1zZz3jgJDlhazlj7jotLfjgJHnlKjmiLfkuI3lrZjlnKjvvIEsIGV4cGlyZVRpbWU9OTAwLCBobl9icl9hY2Nfbm89MjgyMDAxMSwgdXNyX25hbWU95p2O5a6HLCB1c3JfaWRfbm89NTIyNDI3MTk4NjEwMTU3NDExLCBpc19maWN0PU59IiwiaXNzIjoid2FuZ3ciLCJpYXQiOjE2ODQ5MDkxMjIsImV4cCI6MTY4NDk0NTEyMn0.zYuH5BSJGtK7O05kEmkDcpNKP23VKXWJ31QT5Wt8DoI
+responseiv: a472683f-51ae-4aad-8ec0-6c589af7
+responsekey: 5652a02a-d189-470d-9444-0b2e18db
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 119151
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.12
+Content-Length: 94
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: a41f685406aab23d
+X-B3-SpanId: c7df65f24bbd4a8d
+X-B3-ParentSpanId: a41f685406aab23d
+X-B3-Sampled: 1
+
+{"applType":"891","currentUserId":"119151","instanceId":"4B3399F35EAAC2CA","nodeId":"4276_a6"}
+
+========================================
+
+GET /fileApi/downloadFileFromSCM.do?OID=646dacc8e4b0c4f2fc48b30f&SYSTYPE=1 HTTP/1.1
+user-agent: Mozilla/5.0 (Linux; Android 11; V2059A Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36 uni-app Html5Plus/1.0 (Immersed/33.0)
+accept: image/webp,image/apng,image/*,*/*;q=0.8
+x-requested-with: com.yusys.prod.mybank
+sec-fetch-site: cross-site
+sec-fetch-mode: no-cors
+sec-fetch-dest: image
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.13
+Content-Length: 0
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: 14012c1ccc145e2f
+X-B3-SpanId: de31690f6889d159
+X-B3-ParentSpanId: 14012c1ccc145e2f
+X-B3-Sampled: 0
+
+========================================
+
+POST /AREA001_RequestDTO.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: 246b36a6c9d8419b
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMTgwOTciLCJzdWIiOiJ7YXV0aENvZGU9ZGI3Y2U4OTMtY2E3My00OWE2LTkyN2YtZjUzMTc3ZDg0ZmE3LCBzeXNGbGFnPTMsIGNlcnRDb2RlPTUyMjUwMTE5ODQwNjA1MDQyNCwgcmVmcmVzaFRpbWU9MzAsIHVzZXJOYW1lPeWQtOW_l-WonywgdXNlcklkPTExODA5NywgdXNyX2NkZT0xMTgwOTcsIGNvcmVFcnJNc2c9bnVsbCwgZXhwaXJlVGltZT05MDAsIGhuX2JyX2FjY19ubz0yMzMwMDE2LCB1c3JfbmFtZT3lkLTlv5flqJ8sIHVzcl9pZF9ubz01MjI1MDExOTg0MDYwNTA0MjQsIGlzX2ZpY3Q9Tn0iLCJpc3MiOiJ3YW5ndyIsImlhdCI6MTY4NDkwOTE4NiwiZXhwIjoxNjg0OTQ1MTg2fQ.4J9GAzGPNVlSwDFCjF-pw3dp0rBgU6piQFwRk0i2cvQ
+responseiv: dce9f906-6b06-4607-90af-b72cbd4b
+responsekey: 7b277546-6c48-4dc1-8eb5-41ba75dc
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 118097
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.6
+Content-Length: 46
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: ed1f7cc2627df0a7
+X-B3-SpanId: d3fc9c60f7cf84ad
+X-B3-ParentSpanId: ed1f7cc2627df0a7
+X-B3-Sampled: 0
+
+{"area_type":"province","area_parent_code":""}
+
+========================================
+
+POST /bindGTAlias.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: 4511221964000b8b
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMjY1ODkiLCJzdWIiOiJ7YXV0aENvZGU9MWZkMTQ3NDQtZWNlNS00MGM1LWI3YzMtN2IzYjZkMzcxNzFiLCBzeXNGbGFnPTMsIGNlcnRDb2RlPTUyMjEzMTE5ODExMTAxMzQxMSwgcmVmcmVzaFRpbWU9MzAsIHVzZXJOYW1lPem7hOi0teaIkCwgdXNlcklkPTEyNjU4OSwgdXNyX2NkZT0xMjY1ODksIGNvcmVFcnJNc2c9bnVsbCwgZXhwaXJlVGltZT05MDAsIGhuX2JyX2FjY19ubz0yMDMwMDE4LCB1c3JfbmFtZT3pu4TotLXmiJAsIHVzcl9pZF9ubz01MjIxMzExOTgxMTEwMTM0MTEsIGlzX2ZpY3Q9Tn0iLCJpc3MiOiJ3YW5ndyIsImlhdCI6MTY4NDkwOTI0NCwiZXhwIjoxNjg0OTQ1MjQ0fQ.B14CDofsaeeYdROHj8UMkM2t1GP5I9dJmNuPhRQ4Hu8
+responseiv: 8cfcc228-11e5-4b56-a7ff-0a3f287e
+responsekey: 88398f75-e9b2-4ee4-897c-f1bcff4f
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 126589
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.10
+Content-Length: 64
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: fcc2171287baecfb
+X-B3-SpanId: 373c1dbde40ddd15
+X-B3-ParentSpanId: fcc2171287baecfb
+X-B3-Sampled: 0
+
+{"alias":"126589","clientId":"095c72d0b71108a450fba3b0c7911211"}
+
+========================================
+
+POST /YW071_getFileNodeList.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: 3976ca6d16bed99a
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMjQxMTciLCJzdWIiOiJ7YXV0aENvZGU9YmRmZTc1NGMtMDZkMS00NzgwLWJlODktYjg3YjU4NDcxZTc2LCBzeXNGbGFnPTEsIGNlcnRDb2RlPW51bGwsIHJlZnJlc2hUaW1lPTMwLCB1c2VyTmFtZT1udWxsLCB1c2VySWQ9MTI0MTE3LCB1c3JfY2RlPTEyNDExNywgY29yZUVyck1zZz3jgJDlhazlj7jotLfjgJHnlKjmiLfkuI3lrZjlnKjvvIEsIGV4cGlyZVRpbWU9OTAwLCBobl9icl9hY2Nfbm89MjIxMDA0MywgdXNyX25hbWU95a6L6ZKK6LS1LCB1c3JfaWRfbm89NTIyMTIxMTk3ODEyMTcwNjE1LCBpc19maWN0PU59IiwiaXNzIjoid2FuZ3ciLCJpYXQiOjE2ODQ5MDc5NzksImV4cCI6MTY4NDk0Mzk3OX0.Dp-8bMUSIWAG7AS2lI1c3unFmAlbFgVspAj9iP3WrW8
+responseiv: a4348e20-7539-4f0e-9e4a-9205531c
+responsekey: 0acda863-5a8d-4025-a231-261dcfea
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 124117
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.13
+Content-Length: 68
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: 3e6477a234e632cd
+X-B3-SpanId: c8e90f7a08465e75
+X-B3-ParentSpanId: 3e6477a234e632cd
+X-B3-Sampled: 1
+
+{"image_tree_id":"20201118000174","pageMin":"1","pageDetaiNum":"99"}
+
+========================================
+
+POST /YW067_getFileList.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: 3976ca6d16bed99a
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMjQxMTciLCJzdWIiOiJ7YXV0aENvZGU9YmRmZTc1NGMtMDZkMS00NzgwLWJlODktYjg3YjU4NDcxZTc2LCBzeXNGbGFnPTEsIGNlcnRDb2RlPW51bGwsIHJlZnJlc2hUaW1lPTMwLCB1c2VyTmFtZT1udWxsLCB1c2VySWQ9MTI0MTE3LCB1c3JfY2RlPTEyNDExNywgY29yZUVyck1zZz3jgJDlhazlj7jotLfjgJHnlKjmiLfkuI3lrZjlnKjvvIEsIGV4cGlyZVRpbWU9OTAwLCBobl9icl9hY2Nfbm89MjIxMDA0MywgdXNyX25hbWU95a6L6ZKK6LS1LCB1c3JfaWRfbm89NTIyMTIxMTk3ODEyMTcwNjE1LCBpc19maWN0PU59IiwiaXNzIjoid2FuZ3ciLCJpYXQiOjE2ODQ5MDc5NzksImV4cCI6MTY4NDk0Mzk3OX0.Dp-8bMUSIWAG7AS2lI1c3unFmAlbFgVspAj9iP3WrW8
+responseiv: 214b2692-e7a6-4760-857c-c82d3296
+responsekey: 568086ef-6440-4625-9c4d-504e174f
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 124117
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.12
+Content-Length: 130
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: 9c79ca3ba95b955c
+X-B3-SpanId: 334ae4e617c9ba46
+X-B3-ParentSpanId: 9c79ca3ba95b955c
+X-B3-Sampled: 0
+
+{"file_id":"20200724100103","cus_id":"KH221015102014050302222","serno":"KH221015102014050302222","pageMin":"1","pageDetaiNum":"3"}
+
+========================================
+
+POST /YW067_getFileList.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: aa7cae40f29a27b8
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMjM3NzAiLCJzdWIiOiJ7YXV0aENvZGU9ODIyY2IyZTUtNjcyYS00OTg5LTg2MmEtYzdiYjdkZWRmN2Y2LCBzeXNGbGFnPTEsIGNlcnRDb2RlPW51bGwsIHJlZnJlc2hUaW1lPTMwLCB1c2VyTmFtZT1udWxsLCB1c2VySWQ9MTIzNzcwLCB1c3JfY2RlPTEyMzc3MCwgY29yZUVyck1zZz3jgJDlhazlj7jotLfjgJHnlKjmiLfkuI3lrZjlnKjvvIEsIGV4cGlyZVRpbWU9OTAwLCBobl9icl9hY2Nfbm89Mjc4MDAzNCwgdXNyX25hbWU95p2o5oGp5a2mLCB1c3JfaWRfbm89NTIyNDIzMTk2ODA4MTM2NzE4LCBpc19maWN0PU59IiwiaXNzIjoid2FuZ3ciLCJpYXQiOjE2ODQ5MDgwNTMsImV4cCI6MTY4NDk0NDA1M30.9LCZ7-qbPwgd0w_mTKaJBSyjZXYTN0B2qhN03HplzVY
+responseiv: 2f68ae82-a1ee-42c1-87cb-c617e6e3
+responsekey: 7594ab93-b1f3-48e1-8545-e167919f
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 123770
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.9
+Content-Length: 130
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: a620fe0b4f4afc2a
+X-B3-SpanId: 000f912f23bfa04e
+X-B3-ParentSpanId: a620fe0b4f4afc2a
+X-B3-Sampled: 0
+
+{"file_id":"20200724100105","cus_id":"KH278278362013102400001","serno":"KH278278362013102400001","pageMin":"1","pageDetaiNum":"3"}
+
+========================================
+
+POST /JD040_cusInfoDetail.do HTTP/1.1
+content-type: application/json;charset=UTF-8
+x-requested-with: XMLHttpRequest
+uuid: 941e105eb8819be7
+channel: app
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMjkyMjUiLCJzdWIiOiJ7YXV0aENvZGU9NGExYjZiZDItZTJiNy00NDk1LThmZjYtODQ3MzQ2ZDlkZDMyLCBzeXNGbGFnPTEsIGNlcnRDb2RlPW51bGwsIHJlZnJlc2hUaW1lPTMwLCB1c2VyTmFtZT1udWxsLCB1c2VySWQ9MTI5MjI1LCB1c3JfY2RlPTEyOTIyNSwgY29yZUVyck1zZz3jgJDlhazlj7jotLfjgJHnlKjmiLfkuI3lrZjlnKjvvIEsIGV4cGlyZVRpbWU9OTAwLCBobl9icl9hY2Nfbm89Mjg1MDAwNSwgdXNyX25hbWU9546L5rC45by6LCB1c3JfaWRfbm89NTIwMjAyMTk4NDA1MjgwNDEwLCBpc19maWN0PU59IiwiaXNzIjoid2FuZ3ciLCJpYXQiOjE2ODQ5MDcyNzQsImV4cCI6MTY4NDk0MzI3NH0.ktde6N-Doltv_AP_iPZul0DJonBYUsIarFjPMO1n-d0
+responseiv: 083d3665-71bd-40be-898d-d6d0b3ad
+responsekey: 8d00916f-3c27-4d2c-bb61-82685433
+accept-encoding: gzip
+user-agent: okhttp/3.12.0
+x-user-header: 129225
+x-forwarded-host: 11.16.135.60:8888
+x-forwarded-proto: http
+x-forwarded-prefix: /gznxmbap-retailservice
+x-forwarded-port: 8888
+x-forwarded-for: 11.16.192.8
+Content-Length: 36
+Host: 11.11.38.81:8086
+Connection: Keep-Alive
+X-B3-TraceId: a63a01613b5f7656
+X-B3-SpanId: d9e9e58926382290
+X-B3-ParentSpanId: a63a01613b5f7656
+X-B3-Sampled: 0
+
+{"cus_id":"KH285519002017022200001"}

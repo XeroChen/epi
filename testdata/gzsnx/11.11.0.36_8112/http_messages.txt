@@ -1,0 +1,6 @@
+GET /dataServer/file/getFileIndexInfoById?fileId=63607e1fe4b0fdfb2c564262 HTTP/1.1
+Host: 11.11.0.36:8112
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.3 (Java/1.8.0_282)
+Accept-Encoding: gzip,deflate
+X-Tingyun: c=S|31VaKd-ct7w#sM29oPYGek0,;x=6f143cfea6008da0;e=1149d6d75f94bb88;s=1684909256754;g=6f143cfea6008da0;n=1eef2233e644f5b9c1f0d4461fa72671

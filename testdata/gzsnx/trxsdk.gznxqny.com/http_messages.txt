@@ -1,0 +1,18 @@
+GET /wxmp-api/api/c/health/status HTTP/1.0
+Host: trxsdk.gznxqny.com
+X-Forwarded-For: 11.16.144.2
+Connection: close
+
+========================================
+
+GET /wxmp-api/api/c/health/status HTTP/1.0
+Host: trxsdk.gznxqny.com
+X-Forwarded-For: 11.16.144.3
+Connection: close
+
+========================================
+
+GET /wxmp-api/api/c/health/status HTTP/1.0
+Host: trxsdk.gznxqny.com
+X-Forwarded-For: 11.16.144.2
+Connection: close
